@@ -162,9 +162,50 @@ def get_hist_iv_around_earnings(symbols, debug=False):
     
     return df
 
+def analyze_iv_patterns(hist_df, vol_df, fut_earnings):
+    """Analyze historical IV patterns and compare with current IV levels"""
+    if hist_df.empty:
+        return None
+        
+    # Calculate mean historical IVs by symbol
+    hist_stats = hist_df.groupby('symbol').agg({
+        'iv_before': ['mean', 'std', 'count'],
+        'iv_after': ['mean', 'std', 'count']
+    }).round(4)
+    
+    # Flatten column names
+    hist_stats.columns = [f"{col[0]}_{col[1]}" for col in hist_stats.columns]
+    hist_stats = hist_stats.reset_index()
+    
+    # Merge with current IV data and future earnings date
+    analysis_df = pd.merge(hist_stats, 
+                          vol_df[['symbol', 'iv_current', 'sector', 'market_cap']], 
+                          on='symbol', 
+                          how='inner')
+    
+    # Add future earnings date
+    earnings_dates = fut_earnings[['symbol', 'date', 'when']].copy()
+    earnings_dates.columns = ['symbol', 'next_earnings_date', 'earnings_time']
+    analysis_df = pd.merge(analysis_df, earnings_dates, on='symbol', how='left')
+    
+    # Calculate deviations from historical means
+    analysis_df['deviation_from_before'] = (analysis_df['iv_current'] - analysis_df['iv_before_mean'])
+    analysis_df['deviation_from_after'] = (analysis_df['iv_current'] - analysis_df['iv_after_mean'])
+    
+    # Sort by deviation from historical pre-earnings IV
+    analysis_df = analysis_df.sort_values('deviation_from_before', ascending=True)
+    
+    # Reorder columns for better readability
+    cols = ['symbol', 'next_earnings_date', 'earnings_time', 'sector', 'market_cap',
+            'iv_current', 'iv_before_mean', 'deviation_from_before',
+            'iv_after_mean', 'deviation_from_after',
+            'iv_before_std', 'iv_before_count',
+            'iv_after_std', 'iv_after_count']
+    
+    return analysis_df[cols]
+
 if __name__ == "__main__":
     # Example usage
-
     fut_earnings = get_future_earnings(days_ahead=11)
     vol_df = get_vol_data(fut_earnings)
     print(vol_df)
@@ -175,27 +216,10 @@ if __name__ == "__main__":
     test_symbols = fut_earnings['symbol'].tolist()
     hist_df = get_hist_iv_around_earnings(test_symbols, debug=True)
     
-    if not hist_df.empty:
-        # Calculate mean historical IVs by symbol
-        hist_stats = hist_df.groupby('symbol').agg({
-            'iv_before': ['mean', 'std', 'count'],
-            'iv_after': ['mean', 'std', 'count']
-        }).round(4)
-        
-        # Flatten column names
-        hist_stats.columns = [f"{col[0]}_{col[1]}" for col in hist_stats.columns]
-        hist_stats = hist_stats.reset_index()
-        
-        # Merge with current IV data
-        analysis_df = pd.merge(hist_stats, vol_df[['symbol', 'iv_current']], on='symbol', how='inner')
-        
-        # Calculate deviations from historical means
-        analysis_df['deviation_from_before'] = (analysis_df['iv_current'] - analysis_df['iv_before_mean']) 
-        analysis_df['deviation_from_after'] = (analysis_df['iv_current'] - analysis_df['iv_after_mean'])
-        
-        # Sort by deviation from historical pre-earnings IV
-        analysis_df = analysis_df.sort_values('deviation_from_before', ascending=True)
-        
+    # Analyze patterns
+    analysis_df = analyze_iv_patterns(hist_df, vol_df, fut_earnings)
+    
+    if analysis_df is not None:
         print("\nAnalysis of Current IV vs Historical Earnings IV:")
         print(analysis_df.to_string())
         
