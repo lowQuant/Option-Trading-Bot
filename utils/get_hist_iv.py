@@ -209,8 +209,8 @@ if __name__ == "__main__":
     fut_earnings = get_future_earnings(days_ahead=11)
     vol_df = get_vol_data(fut_earnings)
     print(vol_df)
-    print("\nSaving results to data/future_earnings.csv")
-    vol_df.to_csv("data/future_earnings.csv", index=False)
+    print("\nSaving results to data/vol_premium.csv")
+    vol_df.to_csv("data/vol_premium.csv", index=False)
     
     # Get historical IV data
     test_symbols = fut_earnings['symbol'].tolist()

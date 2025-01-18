@@ -25,8 +25,9 @@ jobs:
     - name: Create data directory
       run: mkdir -p data
         
-    - name: Run analysis
+    - name: Run analysis scripts
       run: |
+        python utils/get_vol_data.py
         python utils/get_hist_iv.py
         
     - name: Update README
@@ -37,6 +38,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add README.md data/future_earnings.csv data/hist_iv_analysis.csv
+        git add README.md data/vol_premium.csv data/hist_iv_analysis.csv
         git commit -m "Update IV analysis" || exit 0
         git push

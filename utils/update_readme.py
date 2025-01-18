@@ -13,7 +13,7 @@ def update_readme():
     os.makedirs('data', exist_ok=True)
     
     # Read the analysis results
-    vol_df = pd.read_csv("data/future_earnings.csv")
+    vol_df = pd.read_csv("data/vol_premium.csv")
     analysis_df = pd.read_csv("data/hist_iv_analysis.csv")
     
     # Format the update time
@@ -25,13 +25,13 @@ def update_readme():
 
 Last updated: {update_time}
 
-## Upcoming Earnings and Current Volatility
+## Upcoming Earnings Volatility Analysis
 
-Top 10 stocks by volatility premium (current IV / historical volatility):
+Top 10 stocks by volatility premium:
 
 {format_table(vol_df.nlargest(10, 'vol_premium'))}
 
-## Historical IV Analysis
+## Historical IV Deviation Analysis
 
 Top 10 stocks with largest negative deviation from historical pre-earnings IV:
 
@@ -43,6 +43,7 @@ Top 10 stocks with largest positive deviation from historical pre-earnings IV:
 
 ## Data Interpretation
 
+- **Volatility Premium**: Measure of current implied volatility relative to historical volatility
 - **Negative deviation**: Current IV is lower than historical pre-earnings IV
 - **Positive deviation**: Current IV is higher than historical pre-earnings IV
 - **Count**: Number of historical earnings events analyzed

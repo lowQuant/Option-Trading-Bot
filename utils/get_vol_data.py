@@ -83,4 +83,4 @@ if __name__ == "__main__":
     # df.to_csv("future_earnings.csv", index=0)
     df = get_vol_data()
     print(df)
-    df.to_csv("earnings_vol.csv", index=0)
+    df.to_csv("data/vol_premium.csv", index=0)
