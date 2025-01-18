@@ -28,12 +28,12 @@ jobs:
         
     - name: Run analysis scripts
       run: |
-        python utils/get_vol_data.py
-        python utils/get_hist_iv.py
+        python -m utils.get_vol_data
+        python -m utils.get_hist_iv
         
     - name: Update README
       run: |
-        python utils/update_readme.py
+        python -m utils.update_readme
         
     - name: Commit and push changes
       run: |

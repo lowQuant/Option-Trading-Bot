@@ -1,12 +1,17 @@
-import requests
-import pandas as pd
 import sys
 import os
 
-# Add the project root directory to the Python path
-sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+# Ensure the project root is in the Python path
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+if project_root not in sys.path:
+    sys.path.insert(0, project_root)
 
+import requests
+import pandas as pd
+
+# Explicitly import from utils directory
 from utils.get_earnings import get_earnings, get_future_earnings
+from utils.get_sector import get_sector
 
 def get_vol_data(df_earnings: pd.DataFrame = None) -> pd.DataFrame:
     """
