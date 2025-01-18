@@ -20,7 +20,8 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install pandas requests pandas_market_calendars pytz tabulate
+        pip install -r requirements.txt
+        pip install -e .  # Install the package in editable mode
         
     - name: Create data directory
       run: mkdir -p data

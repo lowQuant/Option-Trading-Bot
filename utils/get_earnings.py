@@ -2,11 +2,13 @@ from datetime import datetime, timedelta
 import pandas_market_calendars as mcal
 import pytz, requests
 import pandas as pd
+import sys
+import os
 
-try:
-    from .get_sector import get_sector
-except:
-    from get_sector import get_sector
+# Add the project root directory to the Python path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from utils.get_sector import get_sector
 
 def get_last_full_trading_day(current_datetime=None):
     # Create NYSE calendar

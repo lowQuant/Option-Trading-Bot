@@ -1,10 +1,12 @@
 import requests
 import pandas as pd
+import sys
+import os
 
-try:
-    from .get_earnings import get_earnings, get_future_earnings
-except:
-    from get_earnings import get_earnings, get_future_earnings
+# Add the project root directory to the Python path
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+
+from utils.get_earnings import get_earnings, get_future_earnings
 
 def get_vol_data(df_earnings: pd.DataFrame = None) -> pd.DataFrame:
     """

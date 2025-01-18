@@ -3,3 +3,6 @@ requests
 pandas_market_calendars
 pytz
 tabulate
+yfinance
+numpy
+python-dateutil
