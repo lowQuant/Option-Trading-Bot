@@ -1,0 +1,42 @@
+name: Update IV Analysis
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight UTC
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-analysis:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install pandas requests pandas_market_calendars pytz tabulate
+        
+    - name: Create data directory
+      run: mkdir -p data
+        
+    - name: Run analysis
+      run: |
+        python utils/get_hist_iv.py
+        
+    - name: Update README
+      run: |
+        python utils/update_readme.py
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md data/future_earnings.csv data/hist_iv_analysis.csv
+        git commit -m "Update IV analysis" || exit 0
+        git push

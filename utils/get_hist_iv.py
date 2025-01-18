@@ -209,8 +209,8 @@ if __name__ == "__main__":
     fut_earnings = get_future_earnings(days_ahead=11)
     vol_df = get_vol_data(fut_earnings)
     print(vol_df)
-    print("\nSaving results to future_earnings.csv")
-    vol_df.to_csv("future_earnings.csv", index=False)
+    print("\nSaving results to data/future_earnings.csv")
+    vol_df.to_csv("data/future_earnings.csv", index=False)
     
     # Get historical IV data
     test_symbols = fut_earnings['symbol'].tolist()
@@ -224,8 +224,8 @@ if __name__ == "__main__":
         print(analysis_df.to_string())
         
         # Save results
-        print("\nSaving results to hist_iv_analysis.csv")
-        analysis_df.to_csv("hist_iv_analysis.csv", index=False)
+        print("\nSaving results to data/hist_iv_analysis.csv")
+        analysis_df.to_csv("data/hist_iv_analysis.csv", index=False)
         
-        print("\nSaving raw historical data to hist_iv_earnings.csv")
-        hist_df.to_csv("hist_iv_earnings.csv", index=False)
+        print("\nSaving raw historical data to data/hist_iv_earnings.csv")
+        hist_df.to_csv("data/hist_iv_earnings.csv", index=False)

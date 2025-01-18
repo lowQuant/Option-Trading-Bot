@@ -1,0 +1,5 @@
+pandas
+requests
+pandas_market_calendars
+pytz
+tabulate
