@@ -38,7 +38,16 @@ def update_readme():
     display_vol_df['close'] = display_vol_df['close'].apply(lambda x: f'${x:.2f}')
     display_vol_df['hv_current'] = display_vol_df['hv_current'].apply(lambda x: f'{x*100:.2f}%')
     display_vol_df['iv_current'] = display_vol_df['iv_current'].apply(lambda x: f'{x*100:.2f}%')
-    display_vol_df['vol_premium'] = display_vol_df['vol_premium'].apply(lambda x: f'{x:.2f}x')
+    
+    # Create a formatted column for display while keeping original numeric column
+    display_vol_df['vol_premium_display'] = display_vol_df['vol_premium'].apply(lambda x: f'{x:.2f}x')
+    
+    # Use nlargest on the numeric column
+    top_10_vol_premium = display_vol_df.nlargest(10, 'vol_premium')
+    
+    # Replace the display column for formatting in the table
+    top_10_vol_premium['vol_premium'] = top_10_vol_premium['vol_premium_display']
+    top_10_vol_premium.drop(columns=['vol_premium_display'], inplace=True)
     
     # Create README content
     readme_content = f"""# Options Trading Bot Analysis
@@ -55,9 +64,9 @@ Both strategies are based on risk premia
 
 ## 🕒 Last Updated: {update_time}
 
-### 🔥 Top 10 Upcoming Earnings by Volatility Premium
+### Top 10 Upcoming Earnings by Volatility Premium
 
-{format_table(display_vol_df.nlargest(10, 'vol_premium'), headers='keys')}
+{format_table(top_10_vol_premium, headers='keys')}
 
 ### 📊 Historical Implied Volatility Analysis
 
