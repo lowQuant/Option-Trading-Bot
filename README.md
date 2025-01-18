@@ -10,7 +10,7 @@ Both strategies are based on risk premia
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-01-18 05:54:51 EST
+## 🕒 Last Updated: 2025-01-18 09:03:18 EST
 
 ### Top 10 Upcoming Earnings by Volatility Premium
 
