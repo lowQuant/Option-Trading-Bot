@@ -5,12 +5,19 @@ on:
     - cron: '0 0 * * *'  # Run daily at midnight UTC
   workflow_dispatch:  # Allow manual trigger
 
+# Add permissions to push to the repository
+permissions:
+  contents: write
+
 jobs:
   update-analysis:
     runs-on: ubuntu-latest
     
     steps:
     - uses: actions/checkout@v2
+      with:
+        # Ensure we have full git history and can push back
+        fetch-depth: 0
     
     - name: Set up Python
       uses: actions/setup-python@v2
@@ -36,9 +43,12 @@ jobs:
         python -m utils.update_readme
         
     - name: Commit and push changes
+      env:
+        # Use GitHub Actions token for authentication
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config user.name github-actions
+        git config user.email github-actions@github.com
         git add -f README.md data/vol_premium.csv data/hist_iv_analysis.csv
         git commit -m "Update IV analysis" || exit 0
         git push
