@@ -1,0 +1,14 @@
+symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
+MMM,2025-01-21,Before market open,Industrials,76799.148032,139.18,0.1981,0.3335,1.6834931852599697
+DHI,2025-01-21,Before market open,Consumer Cyclical,47370.399744,146.6,0.271,0.3692,1.362361623616236
+KEY,2025-01-21,Before market open,Financial Services,20249.499648,17.84,0.2643,0.3192,1.2077185017026106
+FITB,2025-01-21,Before market open,Financial Services,29436.526592,43.27,0.2532,0.2525,0.9972353870458137
+CBU,2025-01-21,Before market open,Financial Services,3324.958208,62.6,0.3066,0.2924,0.9536855838225702
+PLD,2025-01-21,Before market open,Real Estate,101397.643264,110.93,0.278,0.2442,0.8784172661870503
+ONB,2025-01-21,Before market open,Financial Services,7816.859648,22.7,0.2938,0.2563,0.8723621511232129
+EDU,2025-01-21,Before market open,Consumer Defensive,9962.124288,59.2,,,
+FBK,2025-01-21,Before market open,Financial Services,2445.094144,52.23,0.2829,,
+FOR,2025-01-21,Before market open,Real Estate,1357.446656,27.26,,,
+GNTY,2025-01-21,Before market open,Financial Services,403.506272,34.72,,,
+MBWM,2025-01-21,Before market open,Financial Services,713.633408,43.76,,,
+PEBO,2025-01-21,Before market open,Financial Services,1112.3456,31.23,,,
