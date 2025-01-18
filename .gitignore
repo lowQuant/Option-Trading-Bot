@@ -24,5 +24,6 @@ env/
 *.swp
 .DS_Store
 
-# Readme
+# Ignore README.md during local development
+# This allows GitHub Actions to update the README daily
 README.md

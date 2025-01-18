@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '0 0 * * *'  # Run daily at midnight UTC
   workflow_dispatch:  # Allow manual trigger
+  push:
+    paths:
+      - 'data/vol_premium.csv'
+      - 'data/hist_iv_analysis.csv'
+      - 'utils/update_readme.py'
 
 # Add permissions to push to the repository
 permissions:
@@ -39,6 +44,7 @@ jobs:
         python -m utils.get_hist_iv
         
     - name: Update README
+      if: contains(github.event.push.changes, 'data/vol_premium.csv') || contains(github.event.push.changes, 'data/hist_iv_analysis.csv') || contains(github.event.push.changes, 'utils/update_readme.py')
       run: |
         python -m utils.update_readme
         

@@ -1,8 +1,18 @@
-import pandas as pd
-from datetime import datetime
-import pytz
-from tabulate import tabulate
+import sys
 import os
+
+# Ensure the script can find dependencies
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
+try:
+    import pandas as pd
+    from datetime import datetime
+    import pytz
+    from tabulate import tabulate
+except ImportError as e:
+    print(f"Dependency error: {e}")
+    print("Please install required packages: pandas, pytz, tabulate")
+    sys.exit(1)
 
 def format_table(df, headers='keys'):
     """Convert DataFrame to markdown table string"""
@@ -12,13 +22,13 @@ def format_currency(value):
     """Format large numbers with currency-like formatting"""
     if pd.isna(value):
         return 'N/A'
-    if value >= 1_000_000_000:
-        return f'${value/1_000_000_000:.1f}B'
-    elif value >= 1_000_000:
-        return f'${value/1_000_000:.1f}M'
+    if value >= 1_000_000:
+        return f'${value/1_000_000:.1f}tr'
     elif value >= 1_000:
-        return f'${value/1_000:.1f}K'
-    return f'${value:.2f}'
+        return f'${value/1_000:.1f}B'
+    elif value <= 1_000:
+        return f'${value:.1f}M'
+    return f'${value:.1f}M'
 
 def update_readme():
     # Ensure data directory exists
@@ -55,7 +65,7 @@ def update_readme():
 ## 🚀 Project Overview
 Work in progress. This project is focused on identifying trading opportunities with a statistical edge.
 We are selling volatility after earnings announcements and buying volatility before earnings.
-Both strategies are based on risk premia 
+Both strategies can be explained by behavioral finance and are likely anomalies with a chance to persist over time.
 
 ### Strategies
 - 📉 **Short Put Options**: Post earnings announcements
@@ -76,7 +86,7 @@ Both strategies are based on risk premia
 
 ## 📝 Data Interpretation
 
-- **Volatility Premium (Vol Premium)**: 
+- **Top 10 Upcoming Earnings**: 
   - Ratio of current implied volatility to historical volatility
   - Potential candidates for short puts
 
