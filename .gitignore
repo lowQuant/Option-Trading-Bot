@@ -3,8 +3,10 @@ __pycache__/
 *.py[cod]
 *.class
 
-# Data files
+# Ignore all CSV files EXCEPT these specific ones
 *.csv
+!data/hist_iv_analysis.csv
+!data/vol_premium.csv
 
 # Distribution / packaging
 dist/

@@ -39,6 +39,6 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add README.md data/vol_premium.csv data/hist_iv_analysis.csv
+        git add -f README.md data/vol_premium.csv data/hist_iv_analysis.csv
         git commit -m "Update IV analysis" || exit 0
         git push
