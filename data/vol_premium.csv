@@ -1,5 +1,6 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
 MMM,2025-01-21,Before market open,Industrials,76799.148032,139.18,0.1958,0.3313,1.6920326864147088
+SCHW,2025-01-21,Before market open,Financial Services,139873.091584,75.51,0.2328,0.3186,1.3685567010309279
 DHI,2025-01-21,Before market open,Consumer Cyclical,47370.399744,146.6,0.2731,0.3592,1.3152691321860124
 FBK,2025-01-21,Before market open,Financial Services,2445.094144,52.23,0.2834,0.369,1.302046577275935
 KEY,2025-01-21,Before market open,Financial Services,20249.499648,17.84,0.2729,0.3042,1.11469402711616
