@@ -3,29 +3,29 @@
 ## 🚀 Project Overview
 Work in progress. This project is focused on identifying trading opportunities with a statistical edge.
 We are selling volatility after earnings announcements and buying volatility before earnings.
-Both strategies are based on risk premia 
+Both strategies can be explained by behavioral finance and are likely anomalies with a chance to persist over time.
 
 ### Strategies
 - 📉 **Short Put Options**: Post earnings announcements
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-01-18 09:03:18 EST
+## 🕒 Last Updated: 2025-01-18 10:32:48 EST
 
 ### Top 10 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | MMM      | 2025-01-21 | Before market open | Industrials        | $76.8K       | $139.18 | 19.58%       | 33.13%       | 1.69x         |
-|  1 | DHI      | 2025-01-21 | Before market open | Consumer Cyclical  | $47.4K       | $146.60 | 27.31%       | 35.92%       | 1.32x         |
-|  2 | FBK      | 2025-01-21 | Before market open | Financial Services | $2.4K        | $52.23  | 28.34%       | 36.90%       | 1.30x         |
-|  3 | KEY      | 2025-01-21 | Before market open | Financial Services | $20.2K       | $17.84  | 27.29%       | 30.42%       | 1.11x         |
-|  4 | PLD      | 2025-01-21 | Before market open | Real Estate        | $101.4K      | $110.93 | 27.94%       | 26.18%       | 0.94x         |
-|  5 | FITB     | 2025-01-21 | Before market open | Financial Services | $29.4K       | $43.27  | 26.42%       | 24.74%       | 0.94x         |
-|  6 | ONB      | 2025-01-21 | Before market open | Financial Services | $7.8K        | $22.70  | 29.53%       | 26.55%       | 0.90x         |
-|  7 | CBU      | 2025-01-21 | Before market open | Financial Services | $3.3K        | $62.60  | 30.67%       | 27.42%       | 0.89x         |
-|  8 | EDU      | 2025-01-21 | Before market open | Consumer Defensive | $9.9K        | $59.20  | nan%         | nan%         | nanx          |
-|  9 | FOR      | 2025-01-21 | Before market open | Real Estate        | $1.4K        | $27.26  | nan%         | nan%         | nanx          |
+|  0 | MMM      | 2025-01-21 | Before market open | Industrials        | $76.8B       | $139.18 | 19.58%       | 33.13%       | 1.69x         |
+|  1 | DHI      | 2025-01-21 | Before market open | Consumer Cyclical  | $47.4B       | $146.60 | 27.31%       | 35.92%       | 1.32x         |
+|  2 | FBK      | 2025-01-21 | Before market open | Financial Services | $2.4B        | $52.23  | 28.34%       | 36.90%       | 1.30x         |
+|  3 | KEY      | 2025-01-21 | Before market open | Financial Services | $20.2B       | $17.84  | 27.29%       | 30.42%       | 1.11x         |
+|  4 | PLD      | 2025-01-21 | Before market open | Real Estate        | $101.4B      | $110.93 | 27.94%       | 26.18%       | 0.94x         |
+|  5 | FITB     | 2025-01-21 | Before market open | Financial Services | $29.4B       | $43.27  | 26.42%       | 24.74%       | 0.94x         |
+|  6 | ONB      | 2025-01-21 | Before market open | Financial Services | $7.8B        | $22.70  | 29.53%       | 26.55%       | 0.90x         |
+|  7 | CBU      | 2025-01-21 | Before market open | Financial Services | $3.3B        | $62.60  | 30.67%       | 27.42%       | 0.89x         |
+|  8 | EDU      | 2025-01-21 | Before market open | Consumer Defensive | $9.9B        | $59.20  | nan%         | nan%         | nanx          |
+|  9 | FOR      | 2025-01-21 | Before market open | Real Estate        | $1.4B        | $27.26  | nan%         | nan%         | nanx          |
 
 ### 📊 Historical Implied Volatility Analysis
 
@@ -46,7 +46,7 @@ Both strategies are based on risk premia
 
 ## 📝 Data Interpretation
 
-- **Volatility Premium (Vol Premium)**: 
+- **Top 10 Upcoming Earnings**: 
   - Ratio of current implied volatility to historical volatility
   - Potential candidates for short puts
 
