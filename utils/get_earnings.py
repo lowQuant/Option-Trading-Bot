@@ -221,43 +221,68 @@ def get_earnings_history(symbols=None) -> pd.DataFrame:
 
 def get_future_earnings(days_ahead: int = 11) -> pd.DataFrame:
     """
-    Get earnings happening n days ahead from tomorrow.
+    Get earnings happening exactly n trading days ahead from tomorrow.
+    If the target date falls on a non-trading day, the next trading day will be used.
     
     Args:
-        days_ahead: Number of days ahead from tomorrow to look for earnings
+        days_ahead: Number of trading days ahead from tomorrow to look for earnings
         
     Returns:
-        DataFrame with earnings and sector information
-    """
-    # Get tomorrow's date
-    tomorrow = datetime.now().date() + timedelta(days=1)
-    target_date = tomorrow + timedelta(days=days_ahead)
-    
-    # Get earnings for the target date
-    df = get_earnings(start_date=target_date, end_date=target_date)
-    if df is None or df.empty:
-        print(f"No earnings found for {target_date}")
-        return pd.DataFrame()
+        DataFrame with earnings and sector information. Empty DataFrame if no earnings found.
         
-    # Get additional info from get_sector
-    info_dict = get_sector(df['symbol'].tolist())
+    Raises:
+        ValueError: If days_ahead is negative
+    """
+    if days_ahead < 0:
+        raise ValueError("days_ahead must be non-negative")
+        
+    # Get tomorrow's date as starting point
+    tomorrow = datetime.now().date() + timedelta(days=1)
     
-    # Add new columns from the info dictionary
-    df['sector'] = df['symbol'].map(lambda x: info_dict[x]['sector'])
-    df['market_cap'] = df['symbol'].map(lambda x: info_dict[x]['mcap'])
-    df['close'] = df['symbol'].map(lambda x: info_dict[x]['close'])
+    # Initialize NYSE calendar
+    nyse = mcal.get_calendar('NYSE')
     
-    return df
+    # Get the next n trading days starting from tomorrow
+    trading_days = nyse.valid_days(start_date=tomorrow, end_date=tomorrow + timedelta(days=days_ahead + 5))  # Add buffer for non-trading days
+    
+    if len(trading_days) <= days_ahead:
+        raise ValueError(f"Not enough trading days found in the date range. Found {len(trading_days)}, needed {days_ahead}")
+    
+    # Get the target trading day
+    target_date = trading_days[days_ahead].date()
+    
+    try:
+        # Get earnings for the target date
+        df = get_earnings(start_date=target_date, end_date=target_date)
+        
+        if df is None or df.empty:
+            print(f"No earnings found for trading day {target_date}")
+            return pd.DataFrame()
+            
+        # Get additional info from get_sector
+        info_dict = get_sector(df['symbol'].tolist())
+        
+        # Add new columns from the info dictionary
+        df['sector'] = df['symbol'].map(lambda x: info_dict[x]['sector'])
+        df['market_cap'] = df['symbol'].map(lambda x: info_dict[x]['mcap'])
+        df['close'] = df['symbol'].map(lambda x: info_dict[x]['close'])
+        
+        return df
+        
+    except Exception as e:
+        print(f"Error fetching earnings data for {target_date}: {str(e)}")
+        return pd.DataFrame()
 
 if __name__ == "__main__":
-    # Example usage with single symbol
-    print("\nTesting with single symbol:")
-    df1 = get_earnings_history('AAPL')
-    if df1 is not None and not df1.empty:
-        print(df1)
+    print(get_future_earnings(11))
+    # # Example usage with single symbol
+    # print("\nTesting with single symbol:")
+    # df1 = get_earnings_history('AAPL')
+    # if df1 is not None and not df1.empty:
+    #     print(df1)
         
-    # Example usage with list of symbols
-    print("\nTesting with multiple symbols:")
-    df2 = get_earnings_history(['MSFT', 'GOOGL'])
-    if df2 is not None and not df2.empty:
-        print(df2[['symbol', 'date', 'when']].head().to_string())
+    # # Example usage with list of symbols
+    # print("\nTesting with multiple symbols:")
+    # df2 = get_earnings_history(['MSFT', 'GOOGL'])
+    # if df2 is not None and not df2.empty:
+    #     print(df2[['symbol', 'date', 'when']].head().to_string())
