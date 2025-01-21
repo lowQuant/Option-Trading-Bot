@@ -1,46 +1,43 @@
-from ib_async import *
+import os
+import sys
+from pathlib import Path
+
+# Add project root to Python path first
+project_root = str(Path(__file__).parent.parent)
+if project_root not in sys.path:
+    sys.path.append(project_root)
+
+# Now we can import from utils
 import pandas as pd
 import numpy as np
 from datetime import datetime, timezone
 import pytz
-import os
-import sys
-
-# Add the project root to Python path
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+import math
+from ib_async import *
 
 from utils.get_sector import get_sector
+from utils.get_earnings import get_earnings
 from utils.get_index_composition import get_index_composition
+from utils.pea_oss_utils import pea_oss
+from utils.connect_to_ib import create_ib_connection
 import portfoliomanager_utils
 
 class PortfolioManager:
-    def __init__(self, ib_client=None, client_id=None, arctic=None):
-        self.ib = self.connect_to_ib(client_id) if ib_client is None else ib_client
-        self.arctic = arctic if arctic is not None else None
+    def __init__(self, client_id=10):
+        """Initialize portfolio manager with IB connection."""
+        self.ib = create_ib_connection(clientid=client_id)
+        if not self.ib:
+            raise ConnectionError("Could not connect to IB")
         
-    def connect_to_ib(self, client_id):
-        util.startLoop()
-        self.ib = IB()
-        clientid = client_id if client_id is not None else 0
-        try:
-            self.ib.connect('127.0.0.1', 7497, clientId=clientid)
-            print(f'IB Connection established with clientId={clientid}')
-        except ConnectionError:
-            print('Failed to connect to IB API')
-            self.ib = None
-        return self.ib
-
     def get_latest_stock_prices(self, symbols, exchanges=None, currency=None):
+        """Get latest stock prices for given symbols."""
         if isinstance(symbols, str):
             symbols = [symbols]
         
         self.ib.reqMarketDataType(1) if portfoliomanager_utils.is_market_open(self.ib) else self.ib.reqMarketDataType(2)
 
-        # Prepare exchanges dictionary
         if exchanges is None:
             exchanges = {symbol: 'SMART' for symbol in symbols}
-        
-        # Prepare currencies dictionary
         if currency is None:
             currencies = {symbol: 'USD' for symbol in symbols}
         
@@ -98,6 +95,45 @@ class PortfolioManager:
         df = df.copy()
         df = df[['symbol', 'option', 'position', 'averageCost', 'marketValue', 'unrealizedPNL', 'sector', 'px_underlying', 'safety_margin', 'market_cap', 'cap_at_risk_lvl1', 'cap_at_risk_lvl2', 'cap_at_risk_lvl3']]
         return df
+
+    def get_pea_oss_opportunities(self, symbols=None, min_dte=0, max_dte=60,
+                                strike_range_percent=0.25, min_premium=0.01,
+                                min_annualized_premium=0.1, min_safety_margin=0.05):
+        """Get PEA-OSS opportunities for given symbols."""
+        try:
+            if not self.ib.isConnected():
+                print("No active IB connection")
+                return pd.DataFrame()
+                
+            # Set market data type based on market hours
+            self.ib.reqMarketDataType(1) if portfoliomanager_utils.is_market_open(self.ib) else self.ib.reqMarketDataType(2)
+            
+            # Ensure we have a list of symbols
+            if isinstance(symbols, str):
+                symbols = [symbols]
+            elif symbols is None:
+                print("No symbols provided")
+                return pd.DataFrame()
+            
+            opportunities_df = pea_oss(
+                ib=self.ib,
+                symbols=symbols,
+                min_dte=min_dte,
+                max_dte=max_dte,
+                strike_range_percent=strike_range_percent,
+                min_premium=min_premium,
+                min_annualized_premium=min_annualized_premium,
+                min_safety_margin=min_safety_margin
+            )
+            
+            if opportunities_df.empty:
+                print("No PEA-OSS opportunities found")
+            
+            return opportunities_df
+            
+        except Exception as e:
+            print(f"Error in get_pea_oss_opportunities: {str(e)}")
+            return pd.DataFrame()
 
     def recommend_sectors(self, index='SPY', risk_level=1):
         """
@@ -158,7 +194,23 @@ class PortfolioManager:
         return result
 
 if __name__ == '__main__':
-    portfolio_manager = PortfolioManager(client_id=10)
-    recommendations = portfolio_manager.recommend_sectors()
-    print("\nSector Recommendations:")
-    print(recommendations.to_string(index=False))
+    pm = PortfolioManager(client_id=10)
+
+    earnings = get_earnings()
+    print("Earnings data:")
+    print(earnings)
+
+    opportunities = pm.get_pea_oss_opportunities(
+            symbols=earnings['symbol'].tolist()[:10],
+            min_dte=0, 
+            max_dte=60, 
+            strike_range_percent=0.25, 
+            min_premium=0.01, 
+            min_annualized_premium=0.1, 
+            min_safety_margin=0.05
+        )
+        
+    if not opportunities.empty:
+            print("\nFound opportunities:")
+            print(opportunities)
+            opportunities.to_csv('data/pea_oss_opportunities.csv', index=False)

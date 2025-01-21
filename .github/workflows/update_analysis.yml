@@ -6,9 +6,8 @@ on:
   workflow_dispatch:  # Allow manual trigger
   push:
     paths:
-      - 'data/vol_premium.csv'
-      - 'data/hist_iv_analysis.csv'
-      - 'utils/update_readme.py'
+      - 'data/**/*.csv'  # Any CSV file in data directory
+      - 'utils/**/*.py'  # Any Python file in utils directory
 
 # Add permissions to push to the repository
 permissions:
@@ -44,17 +43,15 @@ jobs:
         python -m utils.get_hist_iv
         
     - name: Update README
-      if: contains(github.event.push.changes, 'data/vol_premium.csv') || contains(github.event.push.changes, 'data/hist_iv_analysis.csv') || contains(github.event.push.changes, 'utils/update_readme.py')
-      run: |
-        python -m utils.update_readme
+      run: python -m utils.update_readme
         
     - name: Commit and push changes
       env:
         # Use GitHub Actions token for authentication
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config user.name github-actions
-        git config user.email github-actions@github.com
-        git add -f README.md data/vol_premium.csv data/hist_iv_analysis.csv
-        git commit -m "Update IV analysis" || exit 0
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add data/*.csv README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update analysis and README"
         git push
