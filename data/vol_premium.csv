@@ -1,15 +1,39 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-MMM,2025-01-21,Before market open,Industrials,76799.148032,139.18,0.1958,0.3313,1.6920326864147088
-SCHW,2025-01-21,Before market open,Financial Services,139873.091584,75.51,0.2328,0.3186,1.3685567010309279
-DHI,2025-01-21,Before market open,Consumer Cyclical,47370.399744,146.6,0.2731,0.3592,1.3152691321860124
-FBK,2025-01-21,Before market open,Financial Services,2445.094144,52.23,0.2834,0.369,1.302046577275935
-KEY,2025-01-21,Before market open,Financial Services,20249.499648,17.84,0.2729,0.3042,1.11469402711616
-PLD,2025-01-21,Before market open,Real Estate,101397.643264,110.93,0.2794,0.2618,0.937007874015748
-FITB,2025-01-21,Before market open,Financial Services,29436.526592,43.27,0.2642,0.2474,0.9364118092354278
-ONB,2025-01-21,Before market open,Financial Services,7816.859648,22.7,0.2953,0.2655,0.8990856755841518
-CBU,2025-01-21,Before market open,Financial Services,3324.958208,62.6,0.3067,0.2742,0.8940332572546463
-EDU,2025-01-21,Before market open,Consumer Defensive,9949.104128,59.2,,,
-FOR,2025-01-21,Before market open,Real Estate,1357.446656,27.26,,,
-GNTY,2025-01-21,Before market open,Financial Services,403.506272,34.72,,,
-MBWM,2025-01-21,Before market open,Financial Services,713.633408,43.76,,,
-PEBO,2025-01-21,Before market open,Financial Services,1112.3456,31.23,,,
+ABT,2025-01-22,Before market open,Healthcare,196826.529792,113.91,0.1494,,
+AGYS,2025-01-21,After market close,Technology,3518.968064,121.81,0.5258,,
+ALLY,2025-01-22,Before market open,Financial Services,11646.208,36.93,0.3009,,
+APH,2025-01-22,Before market open,Technology,83693.44512,69.86,0.2683,,
+BKU,2025-01-22,Before market open,Financial Services,2998.55616,39.82,0.2949,,
+CASH,2025-01-21,After market close,Financial Services,1891.684608,77.74,0.3131,,
+CBSH,2025-01-22,Before market open,Financial Services,8816.162816,64.85,0.214,,
+CMA,2025-01-22,Before market open,Financial Services,8724.63872,66.1,0.2944,,
+COF,2025-01-21,After market close,Financial Services,72803.500032,188.44,0.2549,,
+FCCO,2025-01-22,Before market open,Financial Services,185.132944,24.26,,,
+FNB,2025-01-22,Before market open,Financial Services,5731.800576,15.61,0.2999,,
+FULT,2025-01-21,After market close,Financial Services,3842.547712,20.86,0.2633,,
+GEV,2025-01-22,Before market open,Utilities,110649.868288,391.0,0.421,,
+GSBC,2025-01-21,After market close,Financial Services,723.837568,60.42,,,
+HAL,2025-01-22,Before market open,Energy,26267.209728,29.27,0.3092,,
+HBT,2025-01-22,Before market open,Financial Services,706.299328,22.25,,,
+HWC,2025-01-21,After market close,Financial Services,5227.309056,59.1,0.3006,,
+IBKR,2025-01-21,After market close,Financial Services,81474.912256,190.09,0.2687,,
+JNJ,2025-01-22,Before market open,Healthcare,353992.37632,147.77,0.1734,,
+LPL,2025-01-22,Before market open,Technology,3280.0,3.24,,,
+NFLX,2025-01-21,After market close,Communication Services,366801.682432,842.37,0.2521,,
+OFG,2025-01-22,Before market open,Financial Services,2053.935488,44.24,0.2809,,
+PG,2025-01-22,Before market open,Consumer Defensive,379467.595776,160.5,0.1436,,
+PNFP,2025-01-21,After market close,Financial Services,9286.418432,119.91,0.29,,
+PRGS,2025-01-21,After market close,Technology,2725.325568,62.94,0.1887,,
+RBB,2025-01-21,After market close,Financial Services,362.714688,20.09,,,
+SFNC,2025-01-21,After market close,Financial Services,2861.808896,22.72,0.2679,,
+SMBK,2025-01-21,After market close,Financial Services,545.876416,31.58,,,
+STX,2025-01-21,After market close,Technology,20660.133888,95.07,0.2668,,
+TDY,2025-01-22,Before market open,Technology,22084.364288,472.08,0.1515,,
+TEL,2025-01-22,Before market open,Technology,43593.883648,143.69,0.1526,,
+TRST,2025-01-21,After market close,Financial Services,618.028096,32.22,0.2966,,
+TRV,2025-01-22,Before market open,Financial Services,54375.591936,242.37,0.2253,,
+TXT,2025-01-22,Before market open,Industrials,14685.130752,78.84,0.1994,,
+UAL,2025-01-21,After market close,Industrials,35314.704384,106.11,0.379,,
+UCB,2025-01-22,Before market open,Financial Services,3966.889216,32.61,0.3046,,
+WTFC,2025-01-21,After market close,Financial Services,9104.111616,135.05,0.2501,,
+ZION,2025-01-21,After market close,Financial Services,8719.38048,58.04,0.2968,,
