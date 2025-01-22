@@ -10,22 +10,22 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-01-18 10:32:48 EST
+## 🕒 Last Updated: 2025-01-22 04:21:59 EST
 
 ### Top 10 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | MMM      | 2025-01-21 | Before market open | Industrials        | $76.8B       | $139.18 | 19.58%       | 33.13%       | 1.69x         |
-|  1 | DHI      | 2025-01-21 | Before market open | Consumer Cyclical  | $47.4B       | $146.60 | 27.31%       | 35.92%       | 1.32x         |
-|  2 | FBK      | 2025-01-21 | Before market open | Financial Services | $2.4B        | $52.23  | 28.34%       | 36.90%       | 1.30x         |
-|  3 | KEY      | 2025-01-21 | Before market open | Financial Services | $20.2B       | $17.84  | 27.29%       | 30.42%       | 1.11x         |
-|  4 | PLD      | 2025-01-21 | Before market open | Real Estate        | $101.4B      | $110.93 | 27.94%       | 26.18%       | 0.94x         |
-|  5 | FITB     | 2025-01-21 | Before market open | Financial Services | $29.4B       | $43.27  | 26.42%       | 24.74%       | 0.94x         |
-|  6 | ONB      | 2025-01-21 | Before market open | Financial Services | $7.8B        | $22.70  | 29.53%       | 26.55%       | 0.90x         |
-|  7 | CBU      | 2025-01-21 | Before market open | Financial Services | $3.3B        | $62.60  | 30.67%       | 27.42%       | 0.89x         |
-|  8 | EDU      | 2025-01-21 | Before market open | Consumer Defensive | $9.9B        | $59.20  | nan%         | nan%         | nanx          |
-|  9 | FOR      | 2025-01-21 | Before market open | Real Estate        | $1.4B        | $27.26  | nan%         | nan%         | nanx          |
+|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | PRGS     | 2025-01-21 | After market close | Technology             | $2.7B        | $62.94  | 18.39%       | 38.35%       | 2.09x         |
+|  1 | NFLX     | 2025-01-21 | After market close | Communication Services | $366.8B      | $842.37 | 25.38%       | 44.03%       | 1.73x         |
+|  2 | STX      | 2025-01-21 | After market close | Technology             | $20.7B       | $95.07  | 28.43%       | 43.90%       | 1.54x         |
+|  3 | UAL      | 2025-01-21 | After market close | Industrials            | $35.3B       | $106.11 | 37.47%       | 56.25%       | 1.50x         |
+|  4 | TEL      | 2025-01-22 | Before market open | Technology             | $43.6B       | $143.69 | 15.95%       | 23.91%       | 1.50x         |
+|  5 | PG       | 2025-01-22 | Before market open | Consumer Defensive     | $379.5B      | $160.50 | 14.48%       | 20.81%       | 1.44x         |
+|  6 | TRST     | 2025-01-21 | After market close | Financial Services     | $618.0M      | $32.22  | 29.60%       | 41.90%       | 1.42x         |
+|  7 | UCB      | 2025-01-22 | Before market open | Financial Services     | $4.0B        | $32.61  | 30.97%       | 42.03%       | 1.36x         |
+|  8 | COF      | 2025-01-21 | After market close | Financial Services     | $72.8B       | $188.44 | 25.54%       | 34.56%       | 1.35x         |
+|  9 | TDY      | 2025-01-22 | Before market open | Technology             | $22.1B       | $472.08 | 15.68%       | 20.85%       | 1.33x         |
 
 ### 📊 Historical Implied Volatility Analysis
 
@@ -33,16 +33,10 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 
 |    | symbol   | next_earnings_date   | earnings_time      | sector             |   market_cap |   iv_current |   iv_before_mean |   deviation_from_before |   iv_after_mean |   deviation_from_after |   iv_before_std |   iv_before_count |   iv_after_std |   iv_after_count |
 |---:|:---------|:---------------------|:-------------------|:-------------------|-------------:|-------------:|-----------------:|------------------------:|----------------:|-----------------------:|----------------:|------------------:|---------------:|-----------------:|
-|  0 | MUR      | 2025-01-30           | Before market open | Energy             |    4701.9786 |       0.3281 |           0.4943 |                 -0.1662 |          0.4572 |                -0.1291 |          0.1264 |                11 |         0.1091 |                3 |
-|  1 | INTC     | 2025-01-30           | After market close | Technology         |   92686.3688 |       0.6731 |           0.8157 |                 -0.1426 |          0.3236 |                 0.3495 |        nan      |                 1 |         0.0735 |               12 |
-|  2 | ATGE     | 2025-01-30           | After market close | Consumer Defensive |    3680.4718 |       0.3949 |           0.5091 |                 -0.1142 |          0.3948 |                 0.0001 |          0.0109 |                 2 |         0.0996 |               13 |
-|  3 | BFH      | 2025-01-30           | Before market open | Financial Services |    3058.9701 |       0.4676 |           0.5811 |                 -0.1135 |          0.5535 |                -0.0859 |          0.0934 |                10 |       nan      |                1 |
-|  4 | CNX      | 2025-01-30           | Before market open | Energy             |    4499.0280 |       0.3407 |           0.4519 |                 -0.1112 |          0.3657 |                -0.0250 |          0.0904 |                13 |         0.0387 |                2 |
-|  5 | GEN      | 2025-01-30           | After market close | Technology         |   16960.4659 |       0.3273 |           0.4130 |                 -0.0857 |          0.2662 |                 0.0611 |          0.0011 |                 2 |         0.0310 |                6 |
-|  6 | BKR      | 2025-01-30           | After market close | Energy             |   46052.5404 |       0.2841 |           0.3688 |                 -0.0847 |          0.3548 |                -0.0707 |          0.0444 |                 4 |         0.0875 |               13 |
-|  7 | VLO      | 2025-01-30           | Before market open | Energy             |   44654.3135 |       0.3062 |           0.3833 |                 -0.0771 |          0.3320 |                -0.0258 |          0.0670 |                14 |       nan      |                1 |
-|  8 | CAH      | 2025-01-30           | Before market open | Healthcare         |   30558.6012 |       0.2527 |           0.3227 |                 -0.0700 |          0.2191 |                 0.0336 |          0.0610 |                12 |         0.0292 |                4 |
-|  9 | PPG      | 2025-01-30           | After market close | Basic Materials    |   27895.6790 |       0.2308 |           0.3002 |                 -0.0694 |          0.2430 |                -0.0122 |          0.0671 |                 5 |         0.0597 |               10 |
+|  0 | CBOE     | 2025-02-07           | Before market open | Financial Services |   20390.7400 |       0.2123 |           0.3317 |                 -0.1194 |          0.2460 |                -0.0337 |        nan      |                 1 |         0.0519 |               13 |
+|  1 | KIM      | 2025-02-07           | Before market open | Real Estate        |   15025.2667 |       0.2187 |           0.3141 |                 -0.0954 |          0.2716 |                -0.0529 |          0.0357 |                12 |         0.0149 |                2 |
+|  2 | FTV      | 2025-02-07           | Before market open | Technology         |   27377.7459 |       0.2516 |           0.3195 |                 -0.0679 |          0.2336 |                 0.0180 |          0.0254 |                 4 |         0.0400 |               11 |
+|  3 | AVTR     | 2025-02-07           | Before market open | Healthcare         |   14816.9677 |       0.5147 |           0.5383 |                 -0.0236 |          0.3604 |                 0.1543 |        nan      |                 1 |       nan      |                1 |
 
 ## 📝 Data Interpretation
 
