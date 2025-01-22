@@ -223,6 +223,3 @@ if __name__ == "__main__":
         # Save results
         print("\nSaving results to data/hist_iv_analysis.csv")
         analysis_df.to_csv("data/hist_iv_analysis.csv", index=False)
-        
-        print("\nSaving raw historical data to data/hist_iv_earnings.csv")
-        hist_df.to_csv("data/hist_iv_earnings.csv", index=False)
