@@ -1,7 +1,8 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-T,2025-01-27,Before market open,Communication Services,159937.216512,22.02,0.1798,0.2569,1.4288097886540603
-BOH,2025-01-27,Before market open,Financial Services,2826.494464,71.12,0.2614,0.3437,1.3148431522570772
+T,2025-01-27,Before market open,Communication Services,159937.216512,22.02,0.1721,0.2356,1.36897152818129
+BOH,2025-01-27,Before market open,Financial Services,2826.494464,71.12,0.2608,0.3191,1.2235429447852761
 BMRC,2025-01-27,Before market open,Financial Services,385.828768,23.58,,,
 DX,2025-01-27,Before market open,Real Estate,1001.603264,12.6,,,
-HOPE,2025-01-27,Before market open,Financial Services,1463.356672,12.1,0.3097,,
+HOPE,2025-01-27,Before market open,Financial Services,1463.356672,12.1,0.309,,
+OXLC,2025-01-27,Before market open,Financial Services,1883.15648,5.09,,,
 SOFI,2025-01-27,Before market open,Financial Services,19445.886976,18.03,,,

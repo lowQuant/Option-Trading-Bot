@@ -10,18 +10,19 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-01-24 20:28:27 EST
+## 🕒 Last Updated: 2025-01-25 20:42:09 EST
 
 ### Top 10 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | T        | 2025-01-27 | Before market open | Communication Services | $159.9B      | $22.02  | 17.98%       | 25.69%       | 1.43x         |
-|  1 | BOH      | 2025-01-27 | Before market open | Financial Services     | $2.8B        | $71.12  | 26.14%       | 34.37%       | 1.31x         |
+|  0 | T        | 2025-01-27 | Before market open | Communication Services | $159.9B      | $22.02  | 17.21%       | 23.56%       | 1.37x         |
+|  1 | BOH      | 2025-01-27 | Before market open | Financial Services     | $2.8B        | $71.12  | 26.08%       | 31.91%       | 1.22x         |
 |  2 | BMRC     | 2025-01-27 | Before market open | Financial Services     | $385.8M      | $23.58  | nan%         | nan%         | nanx          |
 |  3 | DX       | 2025-01-27 | Before market open | Real Estate            | $1.0B        | $12.60  | nan%         | nan%         | nanx          |
-|  4 | HOPE     | 2025-01-27 | Before market open | Financial Services     | $1.5B        | $12.10  | 30.97%       | nan%         | nanx          |
-|  5 | SOFI     | 2025-01-27 | Before market open | Financial Services     | $19.4B       | $18.03  | nan%         | nan%         | nanx          |
+|  4 | HOPE     | 2025-01-27 | Before market open | Financial Services     | $1.5B        | $12.10  | 30.90%       | nan%         | nanx          |
+|  5 | OXLC     | 2025-01-27 | Before market open | Financial Services     | $1.9B        | $5.09   | nan%         | nan%         | nanx          |
+|  6 | SOFI     | 2025-01-27 | Before market open | Financial Services     | $19.4B       | $18.03  | nan%         | nan%         | nanx          |
 
 ### 📊 Historical Implied Volatility Analysis
 
@@ -29,16 +30,16 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 
 |    | symbol   | next_earnings_date   | earnings_time      | sector             |   market_cap |   iv_current |   iv_before_mean |   deviation_from_before |   iv_after_mean |   deviation_from_after |   iv_before_std |   iv_before_count |   iv_after_std |   iv_after_count |
 |---:|:---------|:---------------------|:-------------------|:-------------------|-------------:|-------------:|-----------------:|------------------------:|----------------:|-----------------------:|----------------:|------------------:|---------------:|-----------------:|
-|  0 | HUM      | 2025-02-11           | Before market open | Healthcare         |   34031.7614 |       0.4718 |           0.6209 |                 -0.1491 |          0.2824 |                 0.1894 |        nan      |                 1 |         0.0972 |               12 |
-|  1 | WELL     | 2025-02-11           | After market close | Real Estate        |   80538.7223 |       0.2102 |           0.2804 |                 -0.0702 |          0.2640 |                -0.0538 |          0.0333 |                 9 |         0.0465 |                7 |
-|  2 | BHF      | 2025-02-11           | After market close | Financial Services |    3008.0760 |       0.3826 |           0.4521 |                 -0.0695 |          0.3362 |                 0.0464 |          0.0678 |                 6 |         0.0522 |                8 |
-|  3 | SPGI     | 2025-02-11           | Before market open | Financial Services |  155727.1511 |       0.2102 |           0.2691 |                 -0.0589 |          0.2405 |                -0.0303 |          0.0495 |                14 |       nan      |                1 |
-|  4 | ECL      | 2025-02-11           | Before market open | Basic Materials    |   67228.3197 |       0.2343 |           0.2825 |                 -0.0482 |          0.1930 |                 0.0413 |          0.0445 |                15 |       nan      |                1 |
-|  5 | AIZ      | 2025-02-11           | After market close | Financial Services |   10851.9004 |       0.2620 |           0.3052 |                 -0.0432 |          0.2579 |                 0.0041 |        nan      |                 1 |         0.0414 |               13 |
-|  6 | MAS      | 2025-02-11           | Before market open | Industrials        |   16871.5704 |       0.2971 |           0.3379 |                 -0.0408 |          0.2877 |                 0.0094 |          0.0389 |                 9 |         0.0578 |                7 |
-|  7 | DD       | 2025-02-11           | Before market open | Basic Materials    |   32378.9742 |       0.2867 |           0.3217 |                 -0.0350 |          0.2251 |                 0.0616 |          0.0551 |                11 |         0.0317 |                3 |
-|  8 | HIW      | 2025-02-11           | After market close | Real Estate        |    3181.3386 |       0.2816 |           0.3138 |                 -0.0322 |          0.3290 |                -0.0474 |        nan      |                 1 |         0.0768 |               13 |
-|  9 | ADC      | 2025-02-11           | After market close | Real Estate        |    7824.4419 |       0.1820 |           0.2025 |                 -0.0205 |          0.2457 |                -0.0637 |          0.0390 |                 4 |         0.0526 |               11 |
+|  0 | HUM      | 2025-02-11           | Before market open | Healthcare         |   34031.7614 |       0.4567 |           0.6209 |                 -0.1642 |          0.2824 |                 0.1743 |        nan      |                 1 |         0.0972 |               12 |
+|  1 | AN       | 2025-02-11           | Before market open | Consumer Cyclical  |    7243.3608 |       0.3452 |           0.4435 |                 -0.0983 |          0.3583 |                -0.0131 |          0.0569 |                11 |         0.0377 |                7 |
+|  2 | BHF      | 2025-02-11           | After market close | Financial Services |    3008.0760 |       0.3544 |           0.4521 |                 -0.0977 |          0.3362 |                 0.0182 |          0.0678 |                 6 |         0.0522 |                8 |
+|  3 | FIS      | 2025-02-11           | Before market open | Technology         |   42411.5282 |       0.3118 |           0.4058 |                 -0.0940 |          0.3043 |                 0.0075 |          0.0698 |                11 |         0.0700 |                5 |
+|  4 | MAR      | 2025-02-11           | Before market open | Consumer Cyclical  |   77026.3777 |       0.2522 |           0.3286 |                 -0.0764 |          0.2869 |                -0.0347 |          0.0551 |                10 |         0.0564 |                5 |
+|  5 | AIZ      | 2025-02-11           | After market close | Financial Services |   10851.9004 |       0.2427 |           0.3052 |                 -0.0625 |          0.2579 |                -0.0152 |        nan      |                 1 |         0.0414 |               13 |
+|  6 | MAS      | 2025-02-11           | Before market open | Industrials        |   16871.5704 |       0.2758 |           0.3379 |                 -0.0621 |          0.2877 |                -0.0119 |          0.0389 |                 9 |         0.0578 |                7 |
+|  7 | SPGI     | 2025-02-11           | Before market open | Financial Services |  155727.1511 |       0.2148 |           0.2691 |                 -0.0543 |          0.2405 |                -0.0257 |          0.0495 |                14 |       nan      |                1 |
+|  8 | AIG      | 2025-02-11           | After market close | Financial Services |   46838.8127 |       0.2714 |           0.3232 |                 -0.0518 |          0.2926 |                -0.0212 |          0.0445 |                 5 |         0.0472 |                9 |
+|  9 | ECL      | 2025-02-11           | Before market open | Basic Materials    |   67228.3197 |       0.2336 |           0.2825 |                 -0.0489 |          0.1930 |                 0.0406 |          0.0445 |                15 |       nan      |                1 |
 
 ## 📝 Data Interpretation
 
