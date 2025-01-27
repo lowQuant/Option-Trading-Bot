@@ -10,13 +10,13 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-01-25 20:42:09 EST
+## 🕒 Last Updated: 2025-01-26 20:47:10 EST
 
 ### Top 10 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | T        | 2025-01-27 | Before market open | Communication Services | $159.9B      | $22.02  | 17.21%       | 23.56%       | 1.37x         |
+|  0 | T        | 2025-01-27 | Before market open | Communication Services | $163.0B      | $22.53  | 17.21%       | 23.56%       | 1.37x         |
 |  1 | BOH      | 2025-01-27 | Before market open | Financial Services     | $2.8B        | $71.12  | 26.08%       | 31.91%       | 1.22x         |
 |  2 | BMRC     | 2025-01-27 | Before market open | Financial Services     | $385.8M      | $23.58  | nan%         | nan%         | nanx          |
 |  3 | DX       | 2025-01-27 | Before market open | Real Estate            | $1.0B        | $12.60  | nan%         | nan%         | nanx          |
@@ -28,18 +28,18 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 
 #### Top 10Stocks with Low IV compared to their historical values before earnings
 
-|    | symbol   | next_earnings_date   | earnings_time      | sector             |   market_cap |   iv_current |   iv_before_mean |   deviation_from_before |   iv_after_mean |   deviation_from_after |   iv_before_std |   iv_before_count |   iv_after_std |   iv_after_count |
-|---:|:---------|:---------------------|:-------------------|:-------------------|-------------:|-------------:|-----------------:|------------------------:|----------------:|-----------------------:|----------------:|------------------:|---------------:|-----------------:|
-|  0 | HUM      | 2025-02-11           | Before market open | Healthcare         |   34031.7614 |       0.4567 |           0.6209 |                 -0.1642 |          0.2824 |                 0.1743 |        nan      |                 1 |         0.0972 |               12 |
-|  1 | AN       | 2025-02-11           | Before market open | Consumer Cyclical  |    7243.3608 |       0.3452 |           0.4435 |                 -0.0983 |          0.3583 |                -0.0131 |          0.0569 |                11 |         0.0377 |                7 |
-|  2 | BHF      | 2025-02-11           | After market close | Financial Services |    3008.0760 |       0.3544 |           0.4521 |                 -0.0977 |          0.3362 |                 0.0182 |          0.0678 |                 6 |         0.0522 |                8 |
-|  3 | FIS      | 2025-02-11           | Before market open | Technology         |   42411.5282 |       0.3118 |           0.4058 |                 -0.0940 |          0.3043 |                 0.0075 |          0.0698 |                11 |         0.0700 |                5 |
-|  4 | MAR      | 2025-02-11           | Before market open | Consumer Cyclical  |   77026.3777 |       0.2522 |           0.3286 |                 -0.0764 |          0.2869 |                -0.0347 |          0.0551 |                10 |         0.0564 |                5 |
-|  5 | AIZ      | 2025-02-11           | After market close | Financial Services |   10851.9004 |       0.2427 |           0.3052 |                 -0.0625 |          0.2579 |                -0.0152 |        nan      |                 1 |         0.0414 |               13 |
-|  6 | MAS      | 2025-02-11           | Before market open | Industrials        |   16871.5704 |       0.2758 |           0.3379 |                 -0.0621 |          0.2877 |                -0.0119 |          0.0389 |                 9 |         0.0578 |                7 |
-|  7 | SPGI     | 2025-02-11           | Before market open | Financial Services |  155727.1511 |       0.2148 |           0.2691 |                 -0.0543 |          0.2405 |                -0.0257 |          0.0495 |                14 |       nan      |                1 |
-|  8 | AIG      | 2025-02-11           | After market close | Financial Services |   46838.8127 |       0.2714 |           0.3232 |                 -0.0518 |          0.2926 |                -0.0212 |          0.0445 |                 5 |         0.0472 |                9 |
-|  9 | ECL      | 2025-02-11           | Before market open | Basic Materials    |   67228.3197 |       0.2336 |           0.2825 |                 -0.0489 |          0.1930 |                 0.0406 |          0.0445 |                15 |       nan      |                1 |
+|    | symbol   | next_earnings_date   | earnings_time      | sector            |   market_cap |   iv_current |   iv_before_mean |   deviation_from_before |   iv_after_mean |   deviation_from_after |   iv_before_std |   iv_before_count |   iv_after_std |   iv_after_count |
+|---:|:---------|:---------------------|:-------------------|:------------------|-------------:|-------------:|-----------------:|------------------------:|----------------:|-----------------------:|----------------:|------------------:|---------------:|-----------------:|
+|  0 | STAG     | 2025-02-12           | After market close | Real Estate       |    6399.7435 |       0.2138 |           0.4017 |                 -0.1879 |          0.2642 |                -0.0504 |        nan      |                 1 |         0.0666 |                3 |
+|  1 | SAH      | 2025-02-12           | Before market open | Consumer Cyclical |    2430.9161 |       0.3680 |           0.5426 |                 -0.1746 |          0.4132 |                -0.0452 |          0.0792 |                11 |         0.0426 |                5 |
+|  2 | PAYC     | 2025-02-12           | After market close | Technology        |   11964.8645 |       0.4708 |           0.6175 |                 -0.1467 |          0.4087 |                 0.0621 |          0.0801 |                 3 |         0.0572 |               11 |
+|  3 | TMHC     | 2025-02-12           | Before market open | Consumer Cyclical |    6780.9132 |       0.3232 |           0.4455 |                 -0.1223 |          0.3970 |                -0.0738 |          0.0672 |                 5 |         0.0858 |               11 |
+|  4 | AR       | 2025-02-12           | After market close | Energy            |   12493.2352 |       0.3824 |           0.4776 |                 -0.0952 |          0.4357 |                -0.0533 |          0.0562 |                 7 |       nan      |                1 |
+|  5 | NBR      | 2025-02-12           | After market close | Energy            |     597.6935 |       0.6186 |           0.7118 |                 -0.0932 |          0.6466 |                -0.0280 |          0.1433 |                 6 |         0.0847 |                7 |
+|  6 | AEIS     | 2025-02-12           | After market close | Industrials       |    4722.6998 |       0.3996 |           0.4815 |                 -0.0819 |          0.4408 |                -0.0412 |          0.0521 |                 8 |         0.0570 |                6 |
+|  7 | AM       | 2025-02-12           | After market close | Energy            |    7888.9001 |       0.2276 |           0.3083 |                 -0.0807 |          0.2418 |                -0.0142 |          0.0771 |                14 |       nan      |                1 |
+|  8 | SW       | 2025-02-12           | Before market open | Consumer Cyclical |   29139.1386 |       0.3098 |           0.3855 |                 -0.0757 |          0.3828 |                -0.0730 |        nan      |                 1 |       nan      |                1 |
+|  9 | EXC      | 2025-02-12           | Before market open | Utilities         |   39570.2067 |       0.1808 |           0.2435 |                 -0.0627 |          0.2134 |                -0.0326 |          0.0390 |                12 |         0.0311 |                9 |
 
 ## 📝 Data Interpretation
 
