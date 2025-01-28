@@ -10,19 +10,22 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-01-26 20:47:10 EST
+## 🕒 Last Updated: 2025-01-27 20:34:59 EST
 
 ### Top 10 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | T        | 2025-01-27 | Before market open | Communication Services | $163.0B      | $22.53  | 17.21%       | 23.56%       | 1.37x         |
-|  1 | BOH      | 2025-01-27 | Before market open | Financial Services     | $2.8B        | $71.12  | 26.08%       | 31.91%       | 1.22x         |
-|  2 | BMRC     | 2025-01-27 | Before market open | Financial Services     | $385.8M      | $23.58  | nan%         | nan%         | nanx          |
-|  3 | DX       | 2025-01-27 | Before market open | Real Estate            | $1.0B        | $12.60  | nan%         | nan%         | nanx          |
-|  4 | HOPE     | 2025-01-27 | Before market open | Financial Services     | $1.5B        | $12.10  | 30.90%       | nan%         | nanx          |
-|  5 | OXLC     | 2025-01-27 | Before market open | Financial Services     | $1.9B        | $5.09   | nan%         | nan%         | nanx          |
-|  6 | SOFI     | 2025-01-27 | Before market open | Financial Services     | $19.4B       | $18.03  | nan%         | nan%         | nanx          |
+|    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | SANM     | 2025-01-27 | After market close | Technology         | $4.2B        | $84.01  | 18.50%       | 52.00%       | 2.81x         |
+|  1 | MRTN     | 2025-01-27 | After market close | Industrials        | $1.3B        | $15.94  | 25.13%       | 63.32%       | 2.52x         |
+|  2 | CVLT     | 2025-01-28 | Before market open | Technology         | $6.9B        | $159.88 | 32.60%       | 79.46%       | 2.44x         |
+|  3 | SYY      | 2025-01-28 | Before market open | Consumer Defensive | $37.8B       | $74.77  | 11.36%       | 22.76%       | 2.00x         |
+|  4 | PII      | 2025-01-28 | Before market open | Consumer Cyclical  | $3.2B        | $53.83  | 30.00%       | 59.85%       | 2.00x         |
+|  5 | ADNT     | 2025-01-28 | Before market open | Consumer Cyclical  | $1.5B        | $17.14  | 35.66%       | 54.77%       | 1.54x         |
+|  6 | RCL      | 2025-01-28 | Before market open | Consumer Cyclical  | $63.7B       | $232.10 | 26.80%       | 39.98%       | 1.49x         |
+|  7 | PCAR     | 2025-01-28 | Before market open | Industrials        | $57.6B       | $109.90 | 20.05%       | 29.81%       | 1.49x         |
+|  8 | KMB      | 2025-01-28 | Before market open | Consumer Defensive | $43.8B       | $128.41 | 14.55%       | 21.37%       | 1.47x         |
+|  9 | BRO      | 2025-01-27 | After market close | Financial Services | $30.8B       | $106.00 | 16.87%       | 24.67%       | 1.46x         |
 
 ### 📊 Historical Implied Volatility Analysis
 
@@ -30,16 +33,16 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 
 |    | symbol   | next_earnings_date   | earnings_time      | sector            |   market_cap |   iv_current |   iv_before_mean |   deviation_from_before |   iv_after_mean |   deviation_from_after |   iv_before_std |   iv_before_count |   iv_after_std |   iv_after_count |
 |---:|:---------|:---------------------|:-------------------|:------------------|-------------:|-------------:|-----------------:|------------------------:|----------------:|-----------------------:|----------------:|------------------:|---------------:|-----------------:|
-|  0 | STAG     | 2025-02-12           | After market close | Real Estate       |    6399.7435 |       0.2138 |           0.4017 |                 -0.1879 |          0.2642 |                -0.0504 |        nan      |                 1 |         0.0666 |                3 |
-|  1 | SAH      | 2025-02-12           | Before market open | Consumer Cyclical |    2430.9161 |       0.3680 |           0.5426 |                 -0.1746 |          0.4132 |                -0.0452 |          0.0792 |                11 |         0.0426 |                5 |
-|  2 | PAYC     | 2025-02-12           | After market close | Technology        |   11964.8645 |       0.4708 |           0.6175 |                 -0.1467 |          0.4087 |                 0.0621 |          0.0801 |                 3 |         0.0572 |               11 |
-|  3 | TMHC     | 2025-02-12           | Before market open | Consumer Cyclical |    6780.9132 |       0.3232 |           0.4455 |                 -0.1223 |          0.3970 |                -0.0738 |          0.0672 |                 5 |         0.0858 |               11 |
-|  4 | AR       | 2025-02-12           | After market close | Energy            |   12493.2352 |       0.3824 |           0.4776 |                 -0.0952 |          0.4357 |                -0.0533 |          0.0562 |                 7 |       nan      |                1 |
-|  5 | NBR      | 2025-02-12           | After market close | Energy            |     597.6935 |       0.6186 |           0.7118 |                 -0.0932 |          0.6466 |                -0.0280 |          0.1433 |                 6 |         0.0847 |                7 |
-|  6 | AEIS     | 2025-02-12           | After market close | Industrials       |    4722.6998 |       0.3996 |           0.4815 |                 -0.0819 |          0.4408 |                -0.0412 |          0.0521 |                 8 |         0.0570 |                6 |
-|  7 | AM       | 2025-02-12           | After market close | Energy            |    7888.9001 |       0.2276 |           0.3083 |                 -0.0807 |          0.2418 |                -0.0142 |          0.0771 |                14 |       nan      |                1 |
-|  8 | SW       | 2025-02-12           | Before market open | Consumer Cyclical |   29139.1386 |       0.3098 |           0.3855 |                 -0.0757 |          0.3828 |                -0.0730 |        nan      |                 1 |       nan      |                1 |
-|  9 | EXC      | 2025-02-12           | Before market open | Utilities         |   39570.2067 |       0.1808 |           0.2435 |                 -0.0627 |          0.2134 |                -0.0326 |          0.0390 |                12 |         0.0311 |                9 |
+|  0 | PBF      | 2025-02-13           | Before market open | Energy            |    3468.6559 |       0.4405 |           0.6800 |                 -0.2395 |          0.5736 |                -0.1331 |          0.1807 |                12 |         0.0023 |                2 |
+|  1 | HCC      | 2025-02-13           | After market close | Basic Materials   |    2784.5412 |       0.4480 |           0.5689 |                 -0.1209 |          0.6352 |                -0.1872 |          0.0740 |                10 |         0.0915 |                4 |
+|  2 | YETI     | 2025-02-13           | Before market open | Consumer Cyclical |    3293.7705 |       0.5065 |           0.6255 |                 -0.1190 |          0.4744 |                 0.0321 |          0.0984 |                11 |         0.1722 |                3 |
+|  3 | OGN      | 2025-02-13           | Before market open | Healthcare        |    4187.5843 |       0.2995 |           0.4156 |                 -0.1161 |          0.4116 |                -0.1121 |          0.1038 |                12 |       nan      |                1 |
+|  4 | FRT      | 2025-02-13           | After market close | Real Estate       |    9410.0511 |       0.1919 |           0.3030 |                 -0.1111 |          0.2486 |                -0.0567 |          0.0473 |                 7 |         0.0398 |                6 |
+|  5 | AVNT     | 2025-02-13           | Before market open | Basic Materials   |    3943.2876 |       0.3554 |           0.4340 |                 -0.0786 |          0.4575 |                -0.1021 |          0.1058 |                 7 |         0.1657 |                7 |
+|  6 | AMAT     | 2025-02-13           | After market close | Technology        |  141873.2175 |       0.3896 |           0.4666 |                 -0.0770 |          0.3846 |                 0.0050 |          0.0568 |                 2 |         0.0508 |               15 |
+|  7 | ZBRA     | 2025-02-13           | Before market open | Technology        |   20598.9888 |       0.3786 |           0.4479 |                 -0.0693 |          0.3679 |                 0.0107 |          0.0559 |                14 |         0.1277 |                2 |
+|  8 | IR       | 2025-02-13           | After market close | Industrials       |   37048.8934 |       0.2858 |           0.3465 |                 -0.0607 |          0.2479 |                 0.0379 |          0.0533 |                11 |         0.0617 |                3 |
+|  9 | H        | 2025-02-13           | Before market open | Consumer Cyclical |   14979.1089 |       0.2841 |           0.3348 |                 -0.0507 |          0.3096 |                -0.0255 |          0.0374 |                 4 |       nan      |                1 |
 
 ## 📝 Data Interpretation
 

@@ -1,8 +1,45 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-T,2025-01-27,Before market open,Communication Services,163022.585856,22.53,0.1721,0.2356,1.36897152818129
-BOH,2025-01-27,Before market open,Financial Services,2826.494464,71.12,0.2608,0.3191,1.2235429447852761
-BMRC,2025-01-27,Before market open,Financial Services,385.828768,23.58,,,
-DX,2025-01-27,Before market open,Real Estate,1001.603264,12.6,,,
-HOPE,2025-01-27,Before market open,Financial Services,1463.356672,12.1,0.309,,
-OXLC,2025-01-27,Before market open,Financial Services,1883.15648,5.09,,,
-SOFI,2025-01-27,Before market open,Financial Services,19445.886976,18.03,,,
+SANM,2025-01-27,After market close,Technology,4233.856,84.01,0.185,0.52,2.810810810810811
+MRTN,2025-01-27,After market close,Industrials,1327.599104,15.94,0.2513,0.6332,2.5196975726223636
+CVLT,2025-01-28,Before market open,Technology,6921.825792,159.88,0.326,0.7946,2.4374233128834355
+SYY,2025-01-28,Before market open,Consumer Defensive,37755.629568,74.77,0.1136,0.2276,2.003521126760563
+PII,2025-01-28,Before market open,Consumer Cyclical,3152.137472,53.83,0.3,0.5985,1.995
+ADNT,2025-01-28,Before market open,Consumer Cyclical,1452.875008,17.14,0.3566,0.5477,1.535894559730791
+RCL,2025-01-28,Before market open,Consumer Cyclical,63674.9824,232.1,0.268,0.3998,1.4917910447761193
+PCAR,2025-01-28,Before market open,Industrials,57625.923584,109.9,0.2005,0.2981,1.4867830423940147
+KMB,2025-01-28,Before market open,Consumer Defensive,43823.263744,128.41,0.1455,0.2137,1.4687285223367699
+BRO,2025-01-27,After market close,Financial Services,30837.710848,106.0,0.1687,0.2467,1.4623592175459397
+RTX,2025-01-28,Before market open,Industrials,166444.056576,125.31,0.1957,0.2691,1.3750638732754215
+CR,2025-01-27,After market close,Industrials,8953.39008,161.68,0.2607,0.3582,1.373993095512083
+GGG,2025-01-27,After market close,Industrials,14512.657408,85.86,0.1859,0.2464,1.3254437869822484
+BA,2025-01-28,Before market open,Industrials,131050.512384,176.06,0.2473,0.3272,1.3230893651435502
+JBLU,2025-01-28,Before market open,Industrials,2806.23488,8.07,0.5071,0.646,1.2739104713074345
+ELS,2025-01-27,After market close,Real Estate,13874.675712,67.23,0.2207,0.2802,1.2695967376529225
+GM,2025-01-28,Before market open,Consumer Cyclical,60390.03136,53.91,0.3289,0.4035,1.2268166615992704
+WRB,2025-01-27,After market close,Financial Services,22559.285248,57.52,0.2036,0.2454,1.2053045186640472
+NUE,2025-01-27,After market close,Basic Materials,28640.141312,122.17,0.3344,0.4014,1.200358851674641
+WAL,2025-01-27,After market close,Financial Services,10346.48576,92.15,0.3498,0.411,1.1749571183533447
+SYF,2025-01-28,Before market open,Financial Services,27199.571968,70.63,0.2896,0.3358,1.1595303867403313
+XRX,2025-01-28,Before market open,Technology,1207.671552,9.68,0.5279,0.6083,1.1523015722674748
+LMT,2025-01-28,Before market open,Industrials,119392.165888,496.96,0.211,0.2423,1.1483412322274882
+SFBS,2025-01-27,After market close,Financial Services,4892.259328,88.34,0.3088,0.3496,1.1321243523316062
+ARE,2025-01-27,After market close,Real Estate,17844.946944,101.63,0.2388,0.266,1.1139028475711892
+WSFS,2025-01-27,After market close,Financial Services,3227.01056,53.84,0.3067,0.3376,1.100749918487121
+NBTB,2025-01-27,After market close,Financial Services,2297.544192,48.02,0.2553,0.2797,1.0955738347042694
+IVZ,2025-01-28,Before market open,Financial Services,7977.560064,17.63,0.2919,0.3081,1.0554984583761562
+PFBC,2025-01-27,After market close,Financial Services,1141.613824,86.04,0.2753,0.2817,1.0232473665092627
+PCH,2025-01-27,After market close,Real Estate,3375.782144,41.71,0.3119,0.2459,0.7883937159345944
+AGNC,2025-01-27,After market close,Real Estate,8670.415872,9.68,,,
+BPOP,2025-01-28,Before market open,Financial Services,7399.433216,101.58,,,
+CAC,2025-01-28,Before market open,Financial Services,750.02272,43.8,,,
+EFSC,2025-01-27,After market close,Financial Services,2137.076224,56.43,,,
+FSBC,2025-01-27,After market close,Financial Services,650.232576,29.86,,,
+HBCP,2025-01-27,After market close,Financial Services,390.639968,47.57,,,
+HMST,2025-01-27,After market close,Financial Services,196.684768,10.17,,,
+PDCC,2025-01-28,Before market open,,135.38568,20.42,,,
+PROV,2025-01-28,Before market open,Financial Services,107.39644,15.8,,,
+SAP,2025-01-28,Before market open,Technology,321487.405056,276.29,,,
+SASR,2025-01-28,Before market open,Financial Services,1522.960128,32.75,,,
+SBCF,2025-01-27,After market close,Financial Services,2323.995392,26.73,0.3007,,
+TRNS,2025-01-27,After market close,Industrials,921.441088,99.5,,,
+WRLD,2025-01-28,Before market open,Financial Services,743.706944,129.66,0.2996,,
