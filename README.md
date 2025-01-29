@@ -10,39 +10,32 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-01-27 20:34:59 EST
+## 🕒 Last Updated: 2025-01-28 20:28:59 EST
 
 ### Top 10 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | SANM     | 2025-01-27 | After market close | Technology         | $4.2B        | $84.01  | 18.50%       | 52.00%       | 2.81x         |
-|  1 | MRTN     | 2025-01-27 | After market close | Industrials        | $1.3B        | $15.94  | 25.13%       | 63.32%       | 2.52x         |
-|  2 | CVLT     | 2025-01-28 | Before market open | Technology         | $6.9B        | $159.88 | 32.60%       | 79.46%       | 2.44x         |
-|  3 | SYY      | 2025-01-28 | Before market open | Consumer Defensive | $37.8B       | $74.77  | 11.36%       | 22.76%       | 2.00x         |
-|  4 | PII      | 2025-01-28 | Before market open | Consumer Cyclical  | $3.2B        | $53.83  | 30.00%       | 59.85%       | 2.00x         |
-|  5 | ADNT     | 2025-01-28 | Before market open | Consumer Cyclical  | $1.5B        | $17.14  | 35.66%       | 54.77%       | 1.54x         |
-|  6 | RCL      | 2025-01-28 | Before market open | Consumer Cyclical  | $63.7B       | $232.10 | 26.80%       | 39.98%       | 1.49x         |
-|  7 | PCAR     | 2025-01-28 | Before market open | Industrials        | $57.6B       | $109.90 | 20.05%       | 29.81%       | 1.49x         |
-|  8 | KMB      | 2025-01-28 | Before market open | Consumer Defensive | $43.8B       | $128.41 | 14.55%       | 21.37%       | 1.47x         |
-|  9 | BRO      | 2025-01-27 | After market close | Financial Services | $30.8B       | $106.00 | 16.87%       | 24.67%       | 1.46x         |
+|  0 | LRN      | 2025-01-28 | After market close | Consumer Defensive | $5.3B        | $118.91 | 19.58%       | 55.88%       | 2.85x         |
+|  1 | MNRO     | 2025-01-29 | Before market open | Consumer Cyclical  | $659.2M      | $21.90  | 23.18%       | 51.26%       | 2.21x         |
+|  2 | WNC      | 2025-01-29 | Before market open | Industrials        | $677.8M      | $15.26  | 32.36%       | 65.31%       | 2.02x         |
+|  3 | PKG      | 2025-01-28 | After market close | Consumer Cyclical  | $21.4B       | $239.72 | 13.28%       | 26.79%       | 2.02x         |
+|  4 | EXTR     | 2025-01-29 | Before market open | Technology         | $2.1B        | $16.25  | 30.17%       | 59.90%       | 1.99x         |
+|  5 | GPI      | 2025-01-29 | Before market open | Consumer Cyclical  | $6.1B        | $454.46 | 18.68%       | 36.17%       | 1.94x         |
+|  6 | VFC      | 2025-01-29 | Before market open | Consumer Cyclical  | $10.4B       | $25.99  | 32.81%       | 62.07%       | 1.89x         |
+|  7 | AVT      | 2025-01-29 | Before market open | Technology         | $4.6B        | $52.89  | 17.23%       | 31.84%       | 1.85x         |
+|  8 | LFUS     | 2025-01-28 | After market close | Technology         | $5.6B        | $229.21 | 19.30%       | 35.43%       | 1.84x         |
+|  9 | FFIV     | 2025-01-28 | After market close | Technology         | $15.8B       | $263.01 | 21.17%       | 38.34%       | 1.81x         |
 
 ### 📊 Historical Implied Volatility Analysis
 
 #### Top 10Stocks with Low IV compared to their historical values before earnings
 
-|    | symbol   | next_earnings_date   | earnings_time      | sector            |   market_cap |   iv_current |   iv_before_mean |   deviation_from_before |   iv_after_mean |   deviation_from_after |   iv_before_std |   iv_before_count |   iv_after_std |   iv_after_count |
-|---:|:---------|:---------------------|:-------------------|:------------------|-------------:|-------------:|-----------------:|------------------------:|----------------:|-----------------------:|----------------:|------------------:|---------------:|-----------------:|
-|  0 | PBF      | 2025-02-13           | Before market open | Energy            |    3468.6559 |       0.4405 |           0.6800 |                 -0.2395 |          0.5736 |                -0.1331 |          0.1807 |                12 |         0.0023 |                2 |
-|  1 | HCC      | 2025-02-13           | After market close | Basic Materials   |    2784.5412 |       0.4480 |           0.5689 |                 -0.1209 |          0.6352 |                -0.1872 |          0.0740 |                10 |         0.0915 |                4 |
-|  2 | YETI     | 2025-02-13           | Before market open | Consumer Cyclical |    3293.7705 |       0.5065 |           0.6255 |                 -0.1190 |          0.4744 |                 0.0321 |          0.0984 |                11 |         0.1722 |                3 |
-|  3 | OGN      | 2025-02-13           | Before market open | Healthcare        |    4187.5843 |       0.2995 |           0.4156 |                 -0.1161 |          0.4116 |                -0.1121 |          0.1038 |                12 |       nan      |                1 |
-|  4 | FRT      | 2025-02-13           | After market close | Real Estate       |    9410.0511 |       0.1919 |           0.3030 |                 -0.1111 |          0.2486 |                -0.0567 |          0.0473 |                 7 |         0.0398 |                6 |
-|  5 | AVNT     | 2025-02-13           | Before market open | Basic Materials   |    3943.2876 |       0.3554 |           0.4340 |                 -0.0786 |          0.4575 |                -0.1021 |          0.1058 |                 7 |         0.1657 |                7 |
-|  6 | AMAT     | 2025-02-13           | After market close | Technology        |  141873.2175 |       0.3896 |           0.4666 |                 -0.0770 |          0.3846 |                 0.0050 |          0.0568 |                 2 |         0.0508 |               15 |
-|  7 | ZBRA     | 2025-02-13           | Before market open | Technology        |   20598.9888 |       0.3786 |           0.4479 |                 -0.0693 |          0.3679 |                 0.0107 |          0.0559 |                14 |         0.1277 |                2 |
-|  8 | IR       | 2025-02-13           | After market close | Industrials       |   37048.8934 |       0.2858 |           0.3465 |                 -0.0607 |          0.2479 |                 0.0379 |          0.0533 |                11 |         0.0617 |                3 |
-|  9 | H        | 2025-02-13           | Before market open | Consumer Cyclical |   14979.1089 |       0.2841 |           0.3348 |                 -0.0507 |          0.3096 |                -0.0255 |          0.0374 |                 4 |       nan      |                1 |
+|    | symbol   | next_earnings_date   | earnings_time      | sector             |   market_cap |   iv_current |   iv_before_mean |   deviation_from_before |   iv_after_mean |   deviation_from_after |   iv_before_std |   iv_before_count |   iv_after_std |   iv_after_count |
+|---:|:---------|:---------------------|:-------------------|:-------------------|-------------:|-------------:|-----------------:|------------------------:|----------------:|-----------------------:|----------------:|------------------:|---------------:|-----------------:|
+|  0 | THS      | 2025-02-14           | Before market open | Consumer Defensive |    1755.1360 |       0.4672 |           0.4654 |                  0.0018 |          0.3460 |                 0.1212 |          0.0753 |                17 |         0.0899 |               11 |
+|  1 | POR      | 2025-02-14           | Before market open | Utilities          |    4399.6247 |       0.2857 |           0.2699 |                  0.0158 |          0.2500 |                 0.0357 |          0.0376 |                 4 |         0.0493 |                6 |
+|  2 | BGC      | 2025-02-14           | Before market open | Financial Services |    4563.0116 |       0.6073 |           0.4867 |                  0.1206 |          0.3984 |                 0.2089 |          0.0665 |                 3 |       nan      |                1 |
 
 ## 📝 Data Interpretation
 
