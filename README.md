@@ -10,7 +10,7 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-02-01 20:48:49 EST
+## 🕒 Last Updated: 2025-02-02 20:48:50 EST
 
 ### Top 10 Upcoming Earnings by Volatility Premium
 
@@ -29,18 +29,18 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 
 #### Top 10Stocks with Low IV compared to their historical values before earnings
 
-|    | symbol   | next_earnings_date   | earnings_time      | sector             |   market_cap |   iv_current |   iv_before_mean |   deviation_from_before |   iv_after_mean |   deviation_from_after |   iv_before_std |   iv_before_count |   iv_after_std |   iv_after_count |
-|---:|:---------|:---------------------|:-------------------|:-------------------|-------------:|-------------:|-----------------:|------------------------:|----------------:|-----------------------:|----------------:|------------------:|---------------:|-----------------:|
-|  0 | PUMP     | 2025-02-19           | Before market open | Energy             |     914.0184 |       0.5185 |           0.9204 |                 -0.4019 |          0.8130 |                -0.2945 |          0.3705 |                 3 |         0.3582 |               19 |
-|  1 | SKT      | 2025-02-19           | After market close | Real Estate        |    3632.9441 |       0.3077 |           0.5856 |                 -0.2779 |          0.3441 |                -0.0364 |          0.2580 |                10 |         0.1278 |                9 |
-|  2 | PK       | 2025-02-19           | After market close | Real Estate        |    2784.4032 |       0.3457 |           0.5965 |                 -0.2508 |          0.5095 |                -0.1638 |          0.3159 |                12 |         0.2209 |               10 |
-|  3 | NYMT     | 2025-02-19           | After market close | Real Estate        |     546.1938 |       0.3355 |           0.5822 |                 -0.2467 |          0.4284 |                -0.0929 |          0.3779 |                11 |         0.2092 |                7 |
-|  4 | CHDN     | 2025-02-19           | After market close | Consumer Cyclical  |    9082.7223 |       0.2812 |           0.4395 |                 -0.1583 |          0.2653 |                 0.0159 |          0.1357 |                21 |       nan      |                1 |
-|  5 | OII      | 2025-02-19           | After market close | Energy             |    2511.3411 |       0.6142 |           0.7604 |                 -0.1462 |          0.5270 |                 0.0872 |          0.2262 |                17 |         0.1438 |                4 |
-|  6 | CF       | 2025-02-19           | After market close | Basic Materials    |   16046.3841 |       0.2905 |           0.4280 |                 -0.1375 |          0.4162 |                -0.1257 |          0.0902 |                18 |         0.1501 |                2 |
-|  7 | CAKE     | 2025-02-19           | After market close | Consumer Cyclical  |    2865.8793 |       0.3824 |           0.5116 |                 -0.1292 |          0.5911 |                -0.2087 |          0.1218 |                14 |         0.1869 |                5 |
-|  8 | LOPE     | 2025-02-19           | After market close | Consumer Defensive |    5119.1685 |       0.3438 |           0.4646 |                 -0.1208 |          0.3092 |                 0.0346 |          0.0892 |                 6 |         0.0652 |               14 |
-|  9 | TNL      | 2025-02-19           | Before market open | Consumer Cyclical  |    3715.0876 |       0.3452 |           0.4543 |                 -0.1091 |          0.3431 |                 0.0021 |          0.0748 |                 4 |         0.0431 |               12 |
+|    | symbol   | next_earnings_date   | earnings_time      | sector            |   market_cap |   iv_current |   iv_before_mean |   deviation_from_before |   iv_after_mean |   deviation_from_after |   iv_before_std |   iv_before_count |   iv_after_std |   iv_after_count |
+|---:|:---------|:---------------------|:-------------------|:------------------|-------------:|-------------:|-----------------:|------------------------:|----------------:|-----------------------:|----------------:|------------------:|---------------:|-----------------:|
+|  0 | REZI     | 2025-02-20           | After market close | Industrials       |    3309.8094 |       0.4038 |           0.8008 |                 -0.3970 |          0.4314 |                -0.0276 |          0.2262 |                 8 |         0.1030 |               11 |
+|  1 | ESAB     | 2025-02-20           | Before market open | Industrials       |    7485.8926 |       0.2971 |           0.4548 |                 -0.1577 |          0.3438 |                -0.0467 |          0.1046 |                 7 |         0.0563 |                4 |
+|  2 | NVRI     | 2025-02-20           | Before market open | Industrials       |     767.6952 |       0.4514 |           0.6065 |                 -0.1551 |          0.6433 |                -0.1919 |          0.1098 |                 3 |       nan      |                1 |
+|  3 | LAMR     | 2025-02-20           | Before market open | Real Estate       |   12940.0986 |       0.2680 |           0.3734 |                 -0.1054 |          0.2830 |                -0.0150 |          0.1418 |                12 |         0.0618 |                7 |
+|  4 | LNT      | 2025-02-20           | After market close | Utilities         |   15108.5496 |       0.2014 |           0.3024 |                 -0.1010 |          0.2211 |                -0.0197 |          0.0005 |                 2 |         0.0455 |               13 |
+|  5 | DINO     | 2025-02-20           | Before market open | Energy            |    6797.6888 |       0.3693 |           0.4566 |                 -0.0873 |          0.4217 |                -0.0524 |          0.0717 |                 7 |         0.0981 |                7 |
+|  6 | TPX      | 2025-02-20           | Before market open | Consumer Cyclical |   10964.4503 |       0.4354 |           0.5146 |                 -0.0792 |          0.3790 |                 0.0564 |          0.1066 |                16 |         0.1317 |                2 |
+|  7 | ALRM     | 2025-02-20           | After market close | Technology        |    2998.8634 |       0.3862 |           0.4601 |                 -0.0739 |          0.4078 |                -0.0216 |          0.0711 |                 5 |         0.1045 |               17 |
+|  8 | ITGR     | 2025-02-20           | Before market open | Healthcare        |    4770.3434 |       0.3497 |           0.4217 |                 -0.0720 |          0.4168 |                -0.0671 |          0.0872 |                18 |         0.0742 |                2 |
+|  9 | BLDR     | 2025-02-20           | Before market open | Industrials       |   19251.4191 |       0.4519 |           0.5191 |                 -0.0672 |          0.4774 |                -0.0255 |          0.0758 |                10 |         0.0827 |                8 |
 
 ## 📝 Data Interpretation
 
