@@ -10,45 +10,49 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-02-03 20:36:51 EST
+## 🕒 Last Updated: 2025-02-07 05:57:53 EST
 
-### Top 10 Upcoming Earnings by Volatility Premium
+### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | FOX      | 2025-02-04 | Before market open | Communication Services | $23.0B       | $48.60  | 18.50%       | 44.68%       | 2.42x         |
-|  1 | INGR     | 2025-02-04 | Before market open | Consumer Defensive     | $8.8B        | $136.44 | 14.79%       | 31.55%       | 2.13x         |
-|  2 | KD       | 2025-02-03 | After market close | Technology             | $8.8B        | $37.96  | 31.26%       | 64.55%       | 2.06x         |
-|  3 | BERY     | 2025-02-04 | Before market open | Consumer Cyclical      | $7.7B        | $67.92  | 15.96%       | 32.37%       | 2.03x         |
-|  4 | EL       | 2025-02-04 | Before market open | Consumer Defensive     | $29.7B       | $83.43  | 29.41%       | 55.34%       | 1.88x         |
-|  5 | WWD      | 2025-02-03 | After market close | Industrials            | $11.2B       | $185.25 | 23.11%       | 43.20%       | 1.87x         |
-|  6 | AMCR     | 2025-02-04 | Before market open | Consumer Cyclical      | $13.8B       | $9.72   | 14.77%       | 27.19%       | 1.84x         |
-|  7 | SNCY     | 2025-02-03 | After market close | Industrials            | $879.9M      | $16.96  | 35.48%       | 64.64%       | 1.82x         |
-|  8 | J        | 2025-02-04 | Before market open | Industrials            | $17.2B       | $140.13 | 16.78%       | 29.74%       | 1.77x         |
-|  9 | JJSF     | 2025-02-03 | After market close | Consumer Defensive     | $2.6B        | $137.23 | 20.82%       | 36.40%       | 1.75x         |
-
-### 📊 Historical Implied Volatility Analysis
-
-#### Top 10Stocks with Low IV compared to their historical values before earnings
-
-|    | symbol   | next_earnings_date   | earnings_time      | sector          |   market_cap |   iv_current |   iv_before_mean |   deviation_from_before |   iv_after_mean |   deviation_from_after |   iv_before_std |   iv_before_count |   iv_after_std |   iv_after_count |
-|---:|:---------|:---------------------|:-------------------|:----------------|-------------:|-------------:|-----------------:|------------------------:|----------------:|-----------------------:|----------------:|------------------:|---------------:|-----------------:|
-|  0 | TXNM     | 2025-02-21           | Before market open | Utilities       |    4362.0915 |       0.2031 |           0.8051 |                 -0.6020 |        nan      |               nan      |        nan      |                 1 |       nan      |                0 |
-|  1 | UNIT     | 2025-02-21           | Before market open | Real Estate     |    1293.8095 |       0.5246 |           0.5902 |                 -0.0656 |          0.5950 |                -0.0704 |          0.1469 |                12 |         0.2627 |                9 |
-|  2 | ASIX     | 2025-02-21           | Before market open | Basic Materials |     816.3647 |       0.5662 |           0.4634 |                  0.1028 |          0.5364 |                 0.0298 |          0.0260 |                 2 |         0.2006 |               18 |
-|  3 | HE       | 2025-02-21           | After market close | Utilities       |    1609.1077 |     nan      |           0.2834 |                nan      |          0.2634 |               nan      |          0.0938 |                 5 |         0.0478 |                7 |
-|  4 | SHO      | 2025-02-21           | Before market open | Real Estate     |    2246.0731 |     nan      |           0.3638 |                nan      |          0.3688 |               nan      |          0.0678 |                 2 |         0.0698 |                4 |
+|    | symbol   | date       | when               | sector                 | market_cap   | close    | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:---------|:-------------|:-------------|:--------------|
+|  0 | FTNT     | 2025-02-06 | After market close | Technology             | $80.3B       | $105.07  | 22.06%       | 58.32%       | 2.64x         |
+|  1 | LESL     | 2025-02-06 | After market close | Consumer Cyclical      | $414.9M      | $2.22    | 42.79%       | 105.97%      | 2.48x         |
+|  2 | NWL      | 2025-02-07 | Before market open | Consumer Defensive     | $4.0B        | $9.70    | 27.56%       | 66.02%       | 2.40x         |
+|  3 | G        | 2025-02-06 | After market close | Technology             | $8.7B        | $49.41   | 15.95%       | 36.78%       | 2.31x         |
+|  4 | BYD      | 2025-02-06 | After market close | Consumer Cyclical      | $6.9B        | $76.49   | 16.17%       | 36.89%       | 2.28x         |
+|  5 | DOCS     | 2025-02-06 | After market close | Healthcare             | $10.9B       | $58.14   | 40.02%       | 90.10%       | 2.25x         |
+|  6 | EXPO     | 2025-02-06 | After market close | Industrials            | $4.6B        | $92.61   | 19.75%       | 43.91%       | 2.22x         |
+|  7 | EXPE     | 2025-02-06 | After market close | Consumer Cyclical      | $22.1B       | $169.73  | 24.93%       | 54.35%       | 2.18x         |
+|  8 | BILL     | 2025-02-06 | After market close | Technology             | $10.0B       | $97.03   | 35.65%       | 75.24%       | 2.11x         |
+|  9 | PRLB     | 2025-02-07 | Before market open | Industrials            | $1.1B        | $44.25   | 30.37%       | 62.60%       | 2.06x         |
+| 10 | PFG      | 2025-02-06 | After market close | Financial Services     | $18.3B       | $80.57   | 15.65%       | 31.09%       | 1.99x         |
+| 11 | FTV      | 2025-02-07 | Before market open | Technology             | $27.7B       | $79.49   | 15.25%       | 29.14%       | 1.91x         |
+| 12 | PCTY     | 2025-02-06 | After market close | Technology             | $11.8B       | $209.12  | 24.92%       | 46.34%       | 1.86x         |
+| 13 | QLYS     | 2025-02-06 | After market close | Technology             | $5.1B        | $145.97  | 26.41%       | 48.91%       | 1.85x         |
+| 14 | FBIN     | 2025-02-06 | After market close | Industrials            | $8.6B        | $69.35   | 25.17%       | 44.36%       | 1.76x         |
+| 15 | RGA      | 2025-02-06 | After market close | Financial Services     | $15.2B       | $229.50  | 16.49%       | 28.56%       | 1.73x         |
+| 16 | VRSN     | 2025-02-06 | After market close | Technology             | $21.2B       | $220.91  | 14.83%       | 25.41%       | 1.71x         |
+| 17 | SKX      | 2025-02-06 | After market close | Consumer Cyclical      | $11.4B       | $74.41   | 29.36%       | 50.27%       | 1.71x         |
+| 18 | AMZN     | 2025-02-06 | After market close | Consumer Cyclical      | $2.5tr       | $236.17  | 22.33%       | 37.81%       | 1.69x         |
+| 19 | QNST     | 2025-02-06 | After market close | Communication Services | $1.4B        | $25.00   | 50.45%       | 84.39%       | 1.67x         |
+| 20 | ESE      | 2025-02-06 | After market close | Technology             | $3.4B        | $133.61  | 19.15%       | 31.93%       | 1.67x         |
+| 21 | MCHP     | 2025-02-06 | After market close | Technology             | $28.5B       | $53.50   | 31.77%       | 52.93%       | 1.67x         |
+| 22 | ELF      | 2025-02-06 | After market close | Consumer Defensive     | $5.0B        | $87.32   | 53.30%       | 87.32%       | 1.64x         |
+| 23 | SONO     | 2025-02-06 | After market close | Technology             | $1.8B        | $14.26   | 29.92%       | 48.79%       | 1.63x         |
+| 24 | MHK      | 2025-02-06 | After market close | Consumer Cyclical      | $7.7B        | $120.84  | 29.46%       | 47.07%       | 1.60x         |
+| 25 | POWI     | 2025-02-06 | After market close | Technology             | $3.5B        | $62.50   | 31.60%       | 50.44%       | 1.60x         |
+| 26 | AVTR     | 2025-02-07 | Before market open | Healthcare             | $14.8B       | $21.99   | 26.90%       | 42.82%       | 1.59x         |
+| 27 | MTX      | 2025-02-06 | After market close | Basic Materials        | $2.4B        | $75.89   | 18.39%       | 29.15%       | 1.59x         |
+| 28 | TTWO     | 2025-02-06 | After market close | Communication Services | $32.2B       | $184.92  | 24.49%       | 38.69%       | 1.58x         |
+| 29 | MTD      | 2025-02-06 | After market close | Healthcare             | $28.6B       | $1363.56 | 21.84%       | 34.42%       | 1.58x         |
 
 ## 📝 Data Interpretation
 
-- **Top 10 Upcoming Earnings**: 
+- **Volatility Premium**: 
   - Ratio of current implied volatility to historical volatility
-  - Potential candidates for short puts
-
-- **Historical IV Deviation**: 
-  - Measures difference between current and historical pre-earnings implied volatility
-  - Negative values indicate current IV is lower than historical pre-earnings IV
-  - Potential candidates for long straddles
+  - Higher values indicate potential candidates for short puts
+  - Values above 2x suggest significant overpricing of options
 
 ## ⚠️ Disclaimer
 - This is an experimental trading bot
