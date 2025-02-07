@@ -40,7 +40,6 @@ jobs:
     - name: Run analysis scripts
       run: |
         python -m utils.get_vol_data
-        python -m utils.get_hist_iv
         
     - name: Update README
       run: python -m utils.update_readme

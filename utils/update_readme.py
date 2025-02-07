@@ -34,9 +34,8 @@ def update_readme():
     # Ensure data directory exists
     os.makedirs('data', exist_ok=True)
     
-    # Read the analysis results
+    # Read the volatility data
     vol_df = pd.read_csv("data/vol_premium.csv")
-    analysis_df = pd.read_csv("data/hist_iv_analysis.csv")
     
     # Format the update time
     ny_tz = pytz.timezone('America/New_York')
@@ -53,11 +52,11 @@ def update_readme():
     display_vol_df['vol_premium_display'] = display_vol_df['vol_premium'].apply(lambda x: f'{x:.2f}x')
     
     # Use nlargest on the numeric column
-    top_10_vol_premium = display_vol_df.nlargest(10, 'vol_premium')
+    top_30_vol_premium = display_vol_df.nlargest(30, 'vol_premium')
     
     # Replace the display column for formatting in the table
-    top_10_vol_premium['vol_premium'] = top_10_vol_premium['vol_premium_display']
-    top_10_vol_premium.drop(columns=['vol_premium_display'], inplace=True)
+    top_30_vol_premium['vol_premium'] = top_30_vol_premium['vol_premium_display']
+    top_30_vol_premium.drop(columns=['vol_premium_display'], inplace=True)
     
     # Create README content
     readme_content = f"""# Options Trading Bot Analysis
@@ -74,26 +73,16 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 
 ## 🕒 Last Updated: {update_time}
 
-### Top 10 Upcoming Earnings by Volatility Premium
+### Top 30 Upcoming Earnings by Volatility Premium
 
-{format_table(top_10_vol_premium, headers='keys')}
-
-### 📊 Historical Implied Volatility Analysis
-
-#### Top 10Stocks with Low IV compared to their historical values before earnings
-
-{format_table(analysis_df.head(10), headers='keys')}
+{format_table(top_30_vol_premium, headers='keys')}
 
 ## 📝 Data Interpretation
 
-- **Top 10 Upcoming Earnings**: 
+- **Volatility Premium**: 
   - Ratio of current implied volatility to historical volatility
-  - Potential candidates for short puts
-
-- **Historical IV Deviation**: 
-  - Measures difference between current and historical pre-earnings implied volatility
-  - Negative values indicate current IV is lower than historical pre-earnings IV
-  - Potential candidates for long straddles
+  - Higher values indicate potential candidates for short puts
+  - Values above 2x suggest significant overpricing of options
 
 ## ⚠️ Disclaimer
 - This is an experimental trading bot
