@@ -1,17 +1,20 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-INCY,2025-02-10,Before market open,Healthcare,14439.114752,74.95,0.2054,0.5595,2.7239532619279454
-ROK,2025-02-10,Before market open,Industrials,30374.02112,268.72,0.1769,0.3569,2.0175240248728095
-MCD,2025-02-10,Before market open,Consumer Cyclical,210944.229376,294.36,0.1478,0.2185,1.4783491204330177
-ON,2025-02-10,Before market open,Technology,22328.805376,52.44,0.4379,0.5569,1.271751541447819
-ROIV,2025-02-10,Before market open,Healthcare,7927.375872,10.87,0.3369,0.3961,1.1757197981596914
-L,2025-02-10,Before market open,Financial Services,18801.061888,86.81,0.1855,0.1948,1.050134770889488
-HAIN,2025-02-10,Before market open,Consumer Defensive,441.951392,4.9,0.609,0.6073,0.9972085385878489
-TGI,2025-02-10,Before market open,Industrials,1949.905152,25.18,0.8557,0.0528,0.0617038681780998
+INCY,2025-02-10,Before market open,Healthcare,14281.14432,74.95,0.2061,0.5706,2.7685589519650655
+ROK,2025-02-10,Before market open,Industrials,30338.056192,268.72,0.177,0.3545,2.0028248587570623
+EPC,2025-02-10,Before market open,Consumer Defensive,1539.747968,32.01,0.2459,0.4429,1.8011386742578284
+NSP,2025-02-10,Before market open,Industrials,2601.870592,71.43,0.341,0.5171,1.5164222873900293
+ROIV,2025-02-10,Before market open,Healthcare,7927.375872,10.87,0.3194,0.4803,1.5037570444583594
+MCD,2025-02-10,Before market open,Consumer Cyclical,210901.270528,294.36,0.1471,0.2187,1.486743711760707
+ON,2025-02-10,Before market open,Technology,21822.09536,52.44,0.4338,0.5825,1.3427846934071
+L,2025-02-10,Before market open,Financial Services,18792.384512,86.81,0.1855,0.2044,1.1018867924528302
+HAIN,2025-02-10,Before market open,Consumer Defensive,423.010304,4.9,0.6141,0.6639,1.081094284318515
 AIOT,2025-02-10,Before market open,Technology,786.5424,6.1,,,
 ALX,2025-02-10,Before market open,Real Estate,1011.60096,196.47,,,
 CAN,2025-02-10,Before market open,Technology,544.858624,1.87,,,
 CNA,2025-02-10,Before market open,Financial Services,13273.965568,49.65,,,
-EPC,2025-02-10,Before market open,Consumer Defensive,1559.72544,32.01,0.2453,,
+CSPI,2025-02-10,Before market open,Technology,194.19328,20.82,,,
 GCMG,2025-02-10,Before market open,Financial Services,2534.0928,13.7,,,
-MNDY,2025-02-10,Before market open,Technology,13229.04064,265.33,,,
+ISPR,2025-02-10,Before market open,Consumer Defensive,264.539152,4.71,,,
+MNDY,2025-02-10,Before market open,Technology,12875.536384,265.33,,,
+MPAA,2025-02-10,Before market open,Consumer Cyclical,114.147848,5.66,,,
 TSEM,2025-02-10,Before market open,Technology,5599.09632,49.71,,,
