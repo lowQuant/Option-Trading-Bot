@@ -1,25 +1,28 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-GPC,2025-02-18,Before market open,Consumer Cyclical,17365.59616,124.68,0.1943,0.3984,2.0504374678332473
-BLKB,2025-02-18,Before market open,Technology,4097.484288,80.79,0.1802,0.3382,1.8768035516093229
-WSO,2025-02-18,Before market open,Industrials,19499.769856,476.5,0.1846,0.3405,1.844528710725894
-TPH,2025-02-18,Before market open,Consumer Cyclical,3389.833472,35.98,0.2975,0.5345,1.796638655462185
-VC,2025-02-18,Before market open,Consumer Cyclical,2298.168576,81.62,0.2608,0.4404,1.6886503067484664
-VMI,2025-02-18,Before market open,Industrials,6427.155968,323.04,0.2397,0.3521,1.4689194826866918
-VMC,2025-02-18,Before market open,Basic Materials,35717.218304,269.33,0.205,0.2931,1.4297560975609758
-FELE,2025-02-18,Before market open,Industrials,4567.826432,100.86,0.1743,0.2434,1.3964429145152035
-CC,2025-02-18,Before market open,Basic Materials,2658.01216,17.79,0.4698,0.6415,1.3654746700723712
-ALLE,2025-02-18,Before market open,Industrials,11595.498496,133.15,0.2169,0.2931,1.351313969571231
-ETR,2025-02-18,Before market open,Utilities,35698.950144,83.25,0.2375,0.2798,1.1781052631578948
-DFIN,2025-02-18,Before market open,Technology,1900.312448,66.54,0.3105,0.332,1.069243156199678
-MDT,2025-02-18,Before market open,Healthcare,119009.337344,92.2,0.2203,0.2162,0.9813890149795733
-FLR,2025-02-18,Before market open,Industrials,7706.190848,44.93,0.5984,0.5492,0.9177807486631016
-NEO,2025-02-18,Before market open,Healthcare,1850.965632,13.91,0.9497,0.5503,0.5794461408865957
-AXSM,2025-02-18,Before market open,Healthcare,6381.522432,131.68,,,
-BIDU,2025-02-18,Before market open,Communication Services,34163.525632,96.59,,,
-HLMN,2025-02-18,Before market open,Industrials,2050.440832,10.43,,,
+BLKB,2025-02-18,Before market open,Technology,4051.329792,80.79,0.185,0.3592,1.9416216216216218
+GPC,2025-02-18,Before market open,Consumer Cyclical,17365.59616,124.68,0.1936,0.3462,1.788223140495868
+WSO,2025-02-18,Before market open,Industrials,19532.756992,476.5,0.1894,0.324,1.7106652587117213
+VC,2025-02-18,Before market open,Consumer Cyclical,2298.168576,81.62,0.2683,0.4232,1.5773387998509134
+VMI,2025-02-18,Before market open,Industrials,6427.155968,323.04,0.2409,0.36,1.4943960149439601
+FELE,2025-02-18,Before market open,Industrials,4567.826432,100.86,0.1766,0.2532,1.4337485843714608
+VMC,2025-02-18,Before market open,Basic Materials,35717.218304,269.33,0.2046,0.2852,1.393939393939394
+TPH,2025-02-18,Before market open,Consumer Cyclical,3389.833472,35.98,0.2982,0.4019,1.3477531857813547
+ALLE,2025-02-18,Before market open,Industrials,11595.498496,133.15,0.2168,0.2813,1.2975092250922509
+CC,2025-02-18,Before market open,Basic Materials,2514.587136,17.79,0.4982,0.6182,1.2408671216378964
+EXPD,2025-02-18,Before market open,Industrials,15908.272128,112.74,0.2092,0.2539,1.2136711281070747
+ETR,2025-02-18,Before market open,Utilities,35373.031424,83.25,0.2401,0.2729,1.136609745939192
+FLR,2025-02-18,Before market open,Industrials,7443.794432,44.93,0.6053,0.6623,1.0941681810672395
+DFIN,2025-02-18,Before market open,Technology,1900.312448,66.54,0.3121,0.3342,1.0708106376161488
+MDT,2025-02-18,Before market open,Healthcare,119009.337344,92.2,0.2203,0.208,0.94416704493872
+NEO,2025-02-18,Before market open,Healthcare,1850.965632,13.91,0.9556,0.5572,0.5830891586437841
+AXSM,2025-02-18,Before market open,Healthcare,6355.843584,131.68,,,
+BIDU,2025-02-18,Before market open,Communication Services,34775.79776,96.59,,,
+GLDD,2025-02-18,Before market open,Industrials,739.993088,11.12,,,
+HLMN,2025-02-18,Before market open,Industrials,2036.682752,10.43,,,
 IHG,2025-02-18,Before market open,Consumer Cyclical,21059.555328,134.91,,,
 IQ,2025-02-18,Before market open,Communication Services,2437.543936,2.52,,,
-SPNS,2025-02-18,Before market open,Technology,1500.561792,26.85,,,
+SOHU,2025-02-18,Before market open,Communication Services,484.824416,14.88,,,
+SPNS,2025-02-18,Before market open,Technology,1474.852608,26.85,,,
 WAY,2025-02-18,Before market open,Healthcare,7804.099584,44.7,,,
-WGS,2025-02-18,Before market open,Healthcare,2142.770304,78.0,,,
+WGS,2025-02-18,Before market open,Healthcare,2097.441408,78.0,,,
 WSO.B,2025-02-18,Before market open,,,,,,
