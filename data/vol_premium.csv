@@ -1,12 +1,17 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-FDP,2025-02-24,Before market open,Consumer Defensive,1480.445824,30.61,0.1882,0.4164,2.212539851222104
-OC,2025-02-24,Before market open,Industrials,14193.871872,172.1,0.2644,0.3518,1.3305597579425112
-WLK,2025-02-24,Before market open,Basic Materials,14120.33536,111.4,0.2501,0.3314,1.3250699720111954
-DPZ,2025-02-24,Before market open,Consumer Cyclical,15966.560256,471.76,0.3051,0.3594,1.1779744346116028
+FDP,2025-02-24,Before market open,Consumer Defensive,1480.445824,30.61,0.1888,0.4577,2.424258474576271
+OC,2025-02-24,Before market open,Industrials,14193.871872,172.1,0.2855,0.4235,1.4833625218914186
+WLK,2025-02-24,Before market open,Basic Materials,14120.33536,111.4,0.2492,0.3559,1.4281701444622792
+DPZ,2025-02-24,Before market open,Consumer Cyclical,15966.560256,471.76,0.2943,0.3985,1.3540604825008495
 BCRX,2025-02-24,Before market open,Healthcare,1907.694848,9.39,,,
 CCO,2025-02-24,Before market open,Communication Services,660.25536,1.4,,,
+CRGO,2025-02-24,Before market open,Industrials,200.39592,4.1,,,
+EDRY,2025-02-24,Before market open,Industrials,29.273476,10.79,,,
+GTE,2025-02-24,Before market open,Energy,203.949904,5.89,,,
 HE,2025-02-21,After market close,Utilities,1855.734144,10.97,,,
-HOV,2025-02-24,Before market open,Consumer Cyclical,714.002496,126.96,,,
+HOV,2025-02-24,Before market open,Consumer Cyclical,717.65568,126.96,,,
 KOS,2025-02-24,Before market open,Energy,1500.626176,3.35,,,
-KSPI,2025-02-24,Before market open,Technology,19794.526208,104.0,,,
+KSPI,2025-02-24,Before market open,Technology,20304.96768,104.0,,,
+LINC,2025-02-24,Before market open,Consumer Defensive,506.50032,17.63,,,
+SMMT,2025-02-24,Before market open,Healthcare,16312.35072,23.06,,,
 WLKP,2025-02-24,Before market open,Basic Materials,853.478848,24.14,,,
