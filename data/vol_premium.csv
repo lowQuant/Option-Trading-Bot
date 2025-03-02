@@ -1,10 +1,20 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-FTRE,2025-03-03,Before market open,Healthcare,1242.345088,14.05,0.4557,0.9632,2.1136712749615976
-NABL,2025-03-03,Before market open,Technology,1878.879744,10.09,0.215,0.412,1.916279069767442
-RC,2025-03-03,Before market open,Real Estate,1134.288512,6.8,0.2506,0.3677,1.4672785315243417
-CRC,2025-03-03,Before market open,Energy,4077.063168,44.68,0.2962,0.4139,1.3973666441593517
+FTRE,2025-03-03,Before market open,Healthcare,1242.345088,14.05,0.453,0.9496,2.0962472406181014
+NABL,2025-03-03,Before market open,Technology,1878.879744,10.09,0.2168,0.4204,1.9391143911439115
+BLFS,2025-03-03,Before market open,Healthcare,1113.2928,23.58,0.3769,0.7299,1.9365879543645528
+TGTX,2025-03-03,Before market open,Healthcare,4683.959808,28.53,0.4657,0.7925,1.701739317156968
+RC,2025-03-03,Before market open,Real Estate,1134.288512,6.8,0.255,0.3664,1.4368627450980391
+CRC,2025-03-03,Before market open,Energy,4077.063168,44.68,0.295,0.4195,1.4220338983050849
+MSEX,2025-02-28,After market close,Utilities,895.081216,51.05,0.2967,0.3349,1.1287495786990225
+AVDL,2025-03-03,Before market open,Healthcare,762.219456,7.68,,,
+BUR,2025-03-03,Before market open,Financial Services,3422.983168,15.57,,,
 HUT,2025-03-03,Before market open,Financial Services,1381.760896,14.41,,,
-MSEX,2025-02-28,After market close,Utilities,895.081216,51.05,0.292,,
+MITT,2025-03-03,Before market open,Real Estate,223.389184,7.49,,,
+MRSN,2025-03-03,Before market open,Healthcare,64.657172,0.5029,,,
+NOMD,2025-03-03,Before market open,Consumer Defensive,3039.592192,18.61,,,
 NOVA,2025-03-03,Before market open,Technology,207.421968,1.72,,,
+OCUL,2025-03-03,Before market open,Healthcare,1122.52928,6.94,,,
 SGRY,2025-03-03,Before market open,Healthcare,3060.905216,24.62,,,
+SNDX,2025-03-03,Before market open,Healthcare,1334.994432,15.28,,,
+SPHR,2025-03-03,Before market open,Communication Services,1561.661696,43.0,,,
 STXS,2025-03-03,Before market open,Healthcare,174.542768,2.17,,,
