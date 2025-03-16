@@ -1,12 +1,14 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-SAIC,2025-03-17,Before market open,Technology,5104.695296,104.26,0.4176,0.5912,1.4157088122605361
+SAIC,2025-03-17,Before market open,Technology,5104.695296,104.26,0.4108,0.5244,1.2765335929892891
+CBAT,2025-03-17,Before market open,Industrials,76.44832,0.8515,,,
 CODA,2025-03-17,Before market open,Industrials,74.268456,6.71,,,
 FF,2025-03-14,After market close,Basic Materials,181.179648,4.36,,,
 INSE,2025-03-17,Before market open,Consumer Cyclical,222.460368,8.03,,,
 LNZA,2025-03-17,Before market open,Industrials,106.960504,0.4986,,,
 NIU,2025-03-17,Before market open,Consumer Cyclical,211.067904,2.57,,,
 NXPL,2025-03-17,Before market open,Technology,25.9631,1.03,,,
-QFIN,2025-03-17,Before market open,Financial Services,6827.604992,39.97,,,
+PLX,2025-03-17,Before market open,Healthcare,164.939264,2.17,,,
+QFIN,2025-03-17,Before market open,Financial Services,6705.420288,39.97,,,
 SNDA,2025-03-17,Before market open,Healthcare,449.479904,22.83,,,
 TE,2025-03-17,Before market open,Industrials,237.01056,1.39,,,
 TSQ,2025-03-17,Before market open,Communication Services,121.112688,7.61,,,
