@@ -1,54 +1,30 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-FDS,2025-03-20,Before market open,Financial Services,16672.352256,439.82,0.1817,0.3428,1.8866263070996148
-CAL,2025-03-20,Before market open,Consumer Cyclical,551.180928,16.23,0.47,0.8751,1.8619148936170213
-FIVE,2025-03-19,After market close,Consumer Cyclical,4158.175488,73.91,0.4293,0.7936,1.8485907290938737
-SCVL,2025-03-20,Before market open,Consumer Cyclical,615.509184,22.72,0.3919,0.634,1.6177596325593262
-ACN,2025-03-20,Before market open,Technology,202949.492736,324.07,0.247,0.3875,1.5688259109311742
-ASO,2025-03-20,Before market open,Consumer Cyclical,3301.220096,46.39,0.392,0.5652,1.4418367346938776
-JBL,2025-03-20,Before market open,Technology,15277.94176,135.62,0.3436,0.4606,1.3405122235157159
-CMC,2025-03-20,Before market open,Basic Materials,5325.264384,46.35,0.3819,0.4675,1.2241424456664047
-DRI,2025-03-20,Before market open,Consumer Cyclical,22041.206784,188.07,0.3018,0.3636,1.2047713717693835
-ADAP,2025-03-20,Before market open,Healthcare,116.452528,0.4551,,,
-AEVA,2025-03-19,After market close,Technology,167.575504,2.68,,,
-ALAR,2025-03-20,Before market open,Technology,55.750164,8.1,,,
-AUTL,2025-03-20,Before market open,Healthcare,516.276704,1.79,,,
-BRAG,2025-03-20,Before market open,Consumer Cyclical,112.079432,4.25,,,
-BZUN,2025-03-20,Before market open,Consumer Cyclical,192.205648,3.48,,,
-CAPR,2025-03-19,After market close,Healthcare,555.642176,11.61,,,
-CVV,2025-03-19,After market close,Industrials,21.953076,3.14,,,
-DBI,2025-03-20,Before market open,Consumer Cyclical,182.127152,3.72,,,
-DXLG,2025-03-20,Before market open,Consumer Cyclical,109.700544,2.01,,,
-FVR,2025-03-19,After market close,Real Estate,233.310272,14.38,,,
-GLUE,2025-03-20,Before market open,Healthcare,411.625888,6.67,,,
-GROY,2025-03-19,After market close,Basic Materials,259.050416,1.54,,,
-HTHT,2025-03-20,Before market open,Consumer Cyclical,11922.359296,38.48,,,
-ICAD,2025-03-19,After market close,Healthcare,65.094876,2.32,,,
-IFRX,2025-03-20,Before market open,Healthcare,85.930616,1.21,,,
-IPM,2025-03-19,After market close,Technology,25.41504,1.85,,,
-KNOP,2025-03-20,Before market open,Energy,196.699824,5.56,,,
-LE,2025-03-20,Before market open,Consumer Cyclical,353.834624,11.13,,,
-LENZ,2025-03-19,After market close,Healthcare,701.822976,24.4,,,
-LFT,2025-03-19,After market close,Real Estate,145.89496,2.75,,,
-MSIF,2025-03-19,After market close,Financial Services,802.321792,17.01,,,
-NEUE,2025-03-20,Before market open,Healthcare,40.104048,5.14,,,
-NOA,2025-03-19,After market close,Energy,469.041344,16.95,,,
-NRXS,2025-03-20,Before market open,Healthcare,16.433933,2.43,,,
-OPTN,2025-03-20,Before market open,Healthcare,60.3318,5.8,,,
-PDD,2025-03-20,Before market open,Consumer Cyclical,174873.919488,126.79,,,
-PGEN,2025-03-19,After market close,Healthcare,524.235488,1.67,,,
-PRSO,2025-03-19,After market close,Technology,3.248337,0.82,,,
-RMTI,2025-03-20,Before market open,Healthcare,56.881088,1.73,,,
-SCPH,2025-03-19,After market close,Healthcare,152.622288,3.05,,,
-SERA,2025-03-19,After market close,Healthcare,144.993152,4.08,,,
-SPRY,2025-03-20,Before market open,Healthcare,1132.211072,11.53,,,
-STRR,2025-03-20,Before market open,Healthcare,7.075315,2.16,,,
-SWKH,2025-03-19,After market close,Financial Services,200.62448,15.91,,,
-SY,2025-03-20,Before market open,Healthcare,98.065224,0.9708,,,
-TWFG,2025-03-19,After market close,Financial Services,473.9808,30.66,,,
-VEEE,2025-03-20,Before market open,Consumer Cyclical,5.209225,0.3958,,,
-VEON,2025-03-20,Before market open,Communication Services,3245.78944,45.98,,,
-WS,2025-03-19,After market close,Basic Materials,1364.259456,26.1,0.3988,,
-YI,2025-03-20,Before market open,Healthcare,94.230728,9.83,,,
-YRD,2025-03-20,Before market open,Financial Services,748.505984,8.07,,,
-YY,2025-03-19,After market close,Communication Services,2567.083264,47.69,,,
-ZK,2025-03-20,Before market open,Consumer Cyclical,6991.80032,28.74,,,
+SCHL,2025-03-20,After market close,Communication Services,528.300672,19.15,0.5299,0.9587,1.8092092847707113
+FDX,2025-03-20,After market close,Industrials,59299.930112,247.12,0.2764,0.4594,1.662083936324168
+LEN,2025-03-20,After market close,Consumer Cyclical,31551.39584,120.3,0.3021,0.4596,1.5213505461767627
+NKE,2025-03-20,After market close,Consumer Cyclical,106290.282496,72.99,0.3709,0.4527,1.220544621191696
+CCL,2025-03-21,Before market open,Consumer Cyclical,28660.0704,21.05,0.5336,0.5534,1.0371064467766118
+MU,2025-03-20,After market close,Technology,114759.507968,102.06,0.6195,0.6167,0.9954802259887006
+AMPX,2025-03-20,After market close,Industrials,255.42824,2.2,,,
+BFRI,2025-03-21,Before market open,Healthcare,9.140148,1.04,,,
+CBUS,2025-03-20,After market close,Healthcare,74.258744,2.37,,,
+CUK,2025-03-21,Before market open,Consumer Cyclical,23862.790144,18.99,,,
+CURV,2025-03-20,After market close,Consumer Cyclical,579.30624,5.6,,,
+FLUX,2025-03-20,After market close,Industrials,27.109062,1.62,,,
+IDN,2025-03-20,After market close,Technology,50.393864,2.6,,,
+KLC,2025-03-20,After market close,Consumer Defensive,2085.638912,17.26,,,
+LAZR,2025-03-20,After market close,Consumer Cyclical,209.09952,7.24,,,
+LEN.B,2025-03-20,After market close,,,,,,
+MGNX,2025-03-20,After market close,Healthcare,131.803136,2.18,,,
+MNSO,2025-03-21,Before market open,Consumer Cyclical,6496.20992,21.79,,,
+NIO,2025-03-21,Before market open,Consumer Cyclical,10036.680704,5.17,,,
+OUST,2025-03-20,After market close,Technology,433.851872,8.3,,,
+PL,2025-03-20,After market close,Industrials,1267.64544,4.32,,,
+QUBT,2025-03-20,After market close,Technology,1013.730624,8.37,,,
+RKDA,2025-03-20,After market close,Consumer Defensive,4.504302,3.49,,,
+RWAY,2025-03-20,After market close,Financial Services,399.617184,10.75,,,
+SOWG,2025-03-21,Before market open,Consumer Defensive,28.17485,2.78,,,
+STG,2025-03-21,Before market open,Consumer Defensive,76.585888,5.38,,,
+TELA,2025-03-20,After market close,Healthcare,92.168856,2.36,,,
+TNON,2025-03-20,After market close,Healthcare,3.481615,1.18,,,
+VXRT,2025-03-20,After market close,Healthcare,129.1404,0.584,,,
