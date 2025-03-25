@@ -1,30 +1,32 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-SCHL,2025-03-20,After market close,Communication Services,528.300672,19.15,0.5299,0.9587,1.8092092847707113
-FDX,2025-03-20,After market close,Industrials,59299.930112,247.12,0.2764,0.4594,1.662083936324168
-LEN,2025-03-20,After market close,Consumer Cyclical,31551.39584,120.3,0.3021,0.4596,1.5213505461767627
-NKE,2025-03-20,After market close,Consumer Cyclical,106290.282496,72.99,0.3709,0.4527,1.220544621191696
-CCL,2025-03-21,Before market open,Consumer Cyclical,28660.0704,21.05,0.5336,0.5534,1.0371064467766118
-MU,2025-03-20,After market close,Technology,114759.507968,102.06,0.6195,0.6167,0.9954802259887006
-AMPX,2025-03-20,After market close,Industrials,255.42824,2.2,,,
-BFRI,2025-03-21,Before market open,Healthcare,9.140148,1.04,,,
-CBUS,2025-03-20,After market close,Healthcare,74.258744,2.37,,,
-CUK,2025-03-21,Before market open,Consumer Cyclical,23862.790144,18.99,,,
-CURV,2025-03-20,After market close,Consumer Cyclical,579.30624,5.6,,,
-FLUX,2025-03-20,After market close,Industrials,27.109062,1.62,,,
-IDN,2025-03-20,After market close,Technology,50.393864,2.6,,,
-KLC,2025-03-20,After market close,Consumer Defensive,2085.638912,17.26,,,
-LAZR,2025-03-20,After market close,Consumer Cyclical,209.09952,7.24,,,
-LEN.B,2025-03-20,After market close,,,,,,
-MGNX,2025-03-20,After market close,Healthcare,131.803136,2.18,,,
-MNSO,2025-03-21,Before market open,Consumer Cyclical,6496.20992,21.79,,,
-NIO,2025-03-21,Before market open,Consumer Cyclical,10036.680704,5.17,,,
-OUST,2025-03-20,After market close,Technology,433.851872,8.3,,,
-PL,2025-03-20,After market close,Industrials,1267.64544,4.32,,,
-QUBT,2025-03-20,After market close,Technology,1013.730624,8.37,,,
-RKDA,2025-03-20,After market close,Consumer Defensive,4.504302,3.49,,,
-RWAY,2025-03-20,After market close,Financial Services,399.617184,10.75,,,
-SOWG,2025-03-21,Before market open,Consumer Defensive,28.17485,2.78,,,
-STG,2025-03-21,Before market open,Consumer Defensive,76.585888,5.38,,,
-TELA,2025-03-20,After market close,Healthcare,92.168856,2.36,,,
-TNON,2025-03-20,After market close,Healthcare,3.481615,1.18,,,
-VXRT,2025-03-20,After market close,Healthcare,129.1404,0.584,,,
+CNM,2025-03-25,Before market open,Industrials,9862.127616,48.27,0.2746,0.522,1.9009468317552805
+KBH,2025-03-24,After market close,Consumer Cyclical,4414.72256,59.75,0.3072,0.4414,1.4368489583333335
+EPAC,2025-03-24,After market close,Industrials,2359.880704,42.25,0.2918,0.3275,1.1223440712816999
+MKC,2025-03-25,Before market open,Consumer Defensive,21547.42784,80.17,0.2585,0.2674,1.0344294003868473
+ABVX,2025-03-24,After market close,Healthcare,467.134912,7.38,,,
+ACCS,2025-03-25,Before market open,Communication Services,35.464316,9.31,,,
+ATAT,2025-03-25,Before market open,Consumer Cyclical,4160.87296,30.27,,,
+ATOS,2025-03-25,Before market open,Healthcare,94.162048,0.7538,,,
+CRMD,2025-03-25,Before market open,Healthcare,653.49344,10.91,,,
+CSIQ,2025-03-25,Before market open,Technology,642.227392,9.96,,,
+DFLI,2025-03-24,After market close,Industrials,9.432904,1.38,,,
+FUFU,2025-03-25,Before market open,Financial Services,726.542912,4.28,,,
+HDL,2025-03-25,Before market open,Consumer Cyclical,1517.984256,26.57,,,
+INLX,2025-03-24,After market close,Technology,46.961992,11.1,,,
+IPM,2025-03-24,After market close,Technology,25.81215,1.82,,,
+MKC.V,2025-03-25,Before market open,,,,,,
+NA,2025-03-25,Before market open,Technology,78.118112,4.7,,,
+NXGL,2025-03-24,After market close,Healthcare,20.990214,2.7,,,
+OCX,2025-03-24,After market close,Healthcare,95.235664,3.4,,,
+OKLO,2025-03-24,After market close,Utilities,4228.364288,27.16,,,
+PAVM,2025-03-25,Before market open,Healthcare,10.91432,0.81,,,
+PHGE,2025-03-25,Before market open,Healthcare,15.747543,0.642,,,
+PONY,2025-03-25,Before market open,Technology,4609.787904,12.71,,,
+RUM,2025-03-25,Before market open,Communication Services,2541.741312,7.74,,,
+SBS,2025-03-24,After market close,Utilities,12021.436416,17.66,,,
+SFD,2025-03-25,Before market open,Consumer Defensive,7705.014784,19.05,,,
+SMTI,2025-03-25,Before market open,Healthcare,311.972,33.6,,,
+VERB,2025-03-25,Before market open,Technology,5.680646,5.46,,,
+VIOT,2025-03-25,Before market open,Consumer Cyclical,162.557344,1.88,,,
+XFOR,2025-03-25,Before market open,Healthcare,50.311068,0.3073,,,
+YQ,2025-03-25,Before market open,Consumer Defensive,18.339324,2.31,,,
