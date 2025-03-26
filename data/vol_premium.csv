@@ -1,32 +1,28 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-CNM,2025-03-25,Before market open,Industrials,9862.127616,48.27,0.2746,0.522,1.9009468317552805
-KBH,2025-03-24,After market close,Consumer Cyclical,4414.72256,59.75,0.3072,0.4414,1.4368489583333335
-EPAC,2025-03-24,After market close,Industrials,2359.880704,42.25,0.2918,0.3275,1.1223440712816999
-MKC,2025-03-25,Before market open,Consumer Defensive,21547.42784,80.17,0.2585,0.2674,1.0344294003868473
-ABVX,2025-03-24,After market close,Healthcare,467.134912,7.38,,,
-ACCS,2025-03-25,Before market open,Communication Services,35.464316,9.31,,,
-ATAT,2025-03-25,Before market open,Consumer Cyclical,4160.87296,30.27,,,
-ATOS,2025-03-25,Before market open,Healthcare,94.162048,0.7538,,,
-CRMD,2025-03-25,Before market open,Healthcare,653.49344,10.91,,,
-CSIQ,2025-03-25,Before market open,Technology,642.227392,9.96,,,
-DFLI,2025-03-24,After market close,Industrials,9.432904,1.38,,,
-FUFU,2025-03-25,Before market open,Financial Services,726.542912,4.28,,,
-HDL,2025-03-25,Before market open,Consumer Cyclical,1517.984256,26.57,,,
-INLX,2025-03-24,After market close,Technology,46.961992,11.1,,,
-IPM,2025-03-24,After market close,Technology,25.81215,1.82,,,
-MKC.V,2025-03-25,Before market open,,,,,,
-NA,2025-03-25,Before market open,Technology,78.118112,4.7,,,
-NXGL,2025-03-24,After market close,Healthcare,20.990214,2.7,,,
-OCX,2025-03-24,After market close,Healthcare,95.235664,3.4,,,
-OKLO,2025-03-24,After market close,Utilities,4228.364288,27.16,,,
-PAVM,2025-03-25,Before market open,Healthcare,10.91432,0.81,,,
-PHGE,2025-03-25,Before market open,Healthcare,15.747543,0.642,,,
-PONY,2025-03-25,Before market open,Technology,4609.787904,12.71,,,
-RUM,2025-03-25,Before market open,Communication Services,2541.741312,7.74,,,
-SBS,2025-03-24,After market close,Utilities,12021.436416,17.66,,,
-SFD,2025-03-25,Before market open,Consumer Defensive,7705.014784,19.05,,,
-SMTI,2025-03-25,Before market open,Healthcare,311.972,33.6,,,
-VERB,2025-03-25,Before market open,Technology,5.680646,5.46,,,
-VIOT,2025-03-25,Before market open,Consumer Cyclical,162.557344,1.88,,,
-XFOR,2025-03-25,Before market open,Healthcare,50.311068,0.3073,,,
-YQ,2025-03-25,Before market open,Consumer Defensive,18.339324,2.31,,,
+REX,2025-03-26,Before market open,Basic Materials,648.403392,36.91,0.2922,0.6565,2.2467488021902806
+CTAS,2025-03-26,Before market open,Industrials,78517.485568,194.57,0.2048,0.3583,1.74951171875
+DLTR,2025-03-26,Before market open,Consumer Defensive,14996.793344,69.74,0.4584,0.6793,1.4818935427574171
+GME,2025-03-25,After market close,Consumer Cyclical,11442.547712,25.61,0.5377,0.7322,1.3617258694439278
+WOR,2025-03-25,After market close,Industrials,2083.331712,41.03,0.3473,0.4288,1.2346674344946733
+CHWY,2025-03-26,Before market open,Consumer Cyclical,13685.789696,34.02,0.5002,0.6067,1.2129148340663736
+PAYX,2025-03-26,Before market open,Technology,52147.965952,144.83,0.2378,0.2675,1.1248948696383516
+AACG,2025-03-25,After market close,Consumer Defensive,31.788638,0.99,,,
+ALUR,2025-03-26,Before market open,Healthcare,18.540918,3.45,,,
+BBNX,2025-03-25,After market close,Healthcare,659.548032,14.85,,,
+CAN,2025-03-26,Before market open,Technology,386.080544,1.07,,,
+CLGN,2025-03-26,Before market open,Healthcare,32.0726,3.15,,,
+CMCM,2025-03-26,Before market open,Communication Services,150.313376,5.03,,,
+CRVS,2025-03-25,After market close,Healthcare,273.093344,4.25,,,
+DOOO,2025-03-26,Before market open,Consumer Cyclical,2777.483008,38.1,,,
+GCTS,2025-03-25,After market close,Technology,99.769904,2.06,,,
+JKS,2025-03-26,Before market open,Technology,1020.737728,21.07,,,
+NOAH,2025-03-25,After market close,Financial Services,807.36032,11.16,,,
+PAYS,2025-03-25,After market close,Technology,134.942016,2.52,,,
+PRTS,2025-03-25,After market close,Consumer Cyclical,58.43886,1.09,,,
+REED,2025-03-26,Before market open,Consumer Defensive,67.149376,1.25,,,
+SAIL,2025-03-26,Before market open,Technology,12133.00736,21.23,,,
+SURG,2025-03-25,After market close,Communication Services,27.82287,1.31,,,
+TH,2025-03-26,Before market open,Industrials,606.509568,6.11,,,
+TOI,2025-03-25,After market close,Healthcare,95.204472,1.24,,,
+TTAM,2025-03-26,Before market open,,2512.854016,13.2,,,
+ZH,2025-03-26,Before market open,Communication Services,417.28432,4.7,,,
