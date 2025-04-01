@@ -10,42 +10,42 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-03-27 21:44:40 EDT
+## 🕒 Last Updated: 2025-03-31 21:56:34 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | AIR      | 2025-03-27 | After market close | Industrials            | $2.5B        | $69.70  | 25.26%       | 42.24%       | 1.67x         |
-|  1 | LULU     | 2025-03-27 | After market close | Consumer Cyclical      | $41.1B       | $337.79 | 37.47%       | 56.28%       | 1.50x         |
-|  2 | OXM      | 2025-03-27 | After market close | Consumer Cyclical      | $981.9M      | $61.77  | 42.61%       | 46.93%       | 1.10x         |
-|  3 | ABL      | 2025-03-27 | After market close | Financial Services     | $696.8M      | $7.21   | nan%         | nan%         | nanx          |
-|  4 | AGX      | 2025-03-27 | After market close | Industrials            | $1.6B        | $119.52 | nan%         | nan%         | nanx          |
-|  5 | BCAB     | 2025-03-27 | After market close | Healthcare             | $22.8M       | $0.37   | nan%         | nan%         | nanx          |
-|  6 | BODI     | 2025-03-27 | After market close | Communication Services | $52.2M       | $7.54   | nan%         | nan%         | nanx          |
-|  7 | BRFH     | 2025-03-27 | After market close | Consumer Defensive     | $53.9M       | $3.33   | nan%         | nan%         | nanx          |
-|  8 | BRZE     | 2025-03-27 | After market close | Technology             | $3.9B        | $37.33  | nan%         | nan%         | nanx          |
-|  9 | BTTR     | 2025-03-27 | After market close | Consumer Defensive     | $3.8M        | $1.90   | nan%         | nan%         | nanx          |
-| 10 | BZAI     | 2025-03-27 | After market close | Technology             | $282.6M      | $2.76   | nan%         | nan%         | nanx          |
-| 11 | CAAS     | 2025-03-28 | Before market open | Consumer Cyclical      | $158.8M      | $4.82   | nan%         | nan%         | nanx          |
-| 12 | CCG      | 2025-03-28 | Before market open | Communication Services | $103.3M      | $1.04   | nan%         | nan%         | nanx          |
-| 13 | CLSD     | 2025-03-27 | After market close | Healthcare             | $78.1M       | $1.02   | nan%         | nan%         | nanx          |
-| 14 | CODX     | 2025-03-27 | After market close | Healthcare             | $13.3M       | $0.41   | nan%         | nan%         | nanx          |
-| 15 | FORA     | 2025-03-27 | After market close | Healthcare             | $63.9M       | $2.04   | nan%         | nan%         | nanx          |
-| 16 | FTLF     | 2025-03-27 | After market close | Consumer Defensive     | $128.2M      | $13.96  | nan%         | nan%         | nanx          |
-| 17 | GOVX     | 2025-03-27 | After market close | Healthcare             | $12.9M       | $1.37   | nan%         | nan%         | nanx          |
-| 18 | HQI      | 2025-03-27 | After market close | Industrials            | $188.5M      | $13.18  | nan%         | nan%         | nanx          |
-| 19 | IPA      | 2025-03-28 | Before market open | Healthcare             | $20.2M       | $0.43   | nan%         | nan%         | nanx          |
-| 20 | IRIX     | 2025-03-27 | After market close | Healthcare             | $15.0M       | $0.90   | nan%         | nan%         | nanx          |
-| 21 | KPLT     | 2025-03-28 | Before market open | Technology             | $64.8M       | $14.77  | nan%         | nan%         | nanx          |
-| 22 | KULR     | 2025-03-27 | After market close | Technology             | $373.3M      | $1.56   | nan%         | nan%         | nanx          |
-| 23 | LTRN     | 2025-03-27 | After market close | Healthcare             | $40.1M       | $3.65   | nan%         | nan%         | nanx          |
-| 24 | LVLU     | 2025-03-27 | After market close | Consumer Cyclical      | $18.5M       | $0.44   | nan%         | nan%         | nanx          |
-| 25 | MDAI     | 2025-03-27 | After market close | Healthcare             | $29.7M       | $1.34   | nan%         | nan%         | nanx          |
-| 26 | NUTX     | 2025-03-27 | After market close | Healthcare             | $306.3M      | $56.33  | nan%         | nan%         | nanx          |
-| 27 | PIII     | 2025-03-27 | After market close | Healthcare             | $98.9M       | $0.18   | nan%         | nan%         | nanx          |
-| 28 | PLSE     | 2025-03-27 | After market close | Healthcare             | $972.0M      | $15.80  | nan%         | nan%         | nanx          |
-| 29 | PSTV     | 2025-03-27 | After market close | Healthcare             | $9.0M        | $1.47   | nan%         | nan%         | nanx          |
+|    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | PRGS     | 2025-03-31 | After market close | Technology         | $2.2B        | $51.39  | 26.82%       | 48.53%       | 1.81x         |
+|  1 | PVH      | 2025-03-31 | After market close | Consumer Cyclical  | $3.6B        | $64.69  | 38.42%       | 64.31%       | 1.67x         |
+|  2 | TTGT     | 2025-03-31 | After market close | Technology         | $1.1B        | $14.30  | 59.81%       | 62.23%       | 1.04x         |
+|  3 | ACOG     | 2025-03-31 | After market close | Healthcare         | $87.7M       | $5.38   | nan%         | nan%         | nanx          |
+|  4 | AQMS     | 2025-03-31 | After market close | Industrials        | $14.5M       | $2.04   | nan%         | nan%         | nanx          |
+|  5 | BHST     | 2025-03-31 | After market close | Consumer Defensive | $113.6M      | $6.55   | nan%         | nan%         | nanx          |
+|  6 | BNGO     | 2025-03-31 | After market close | Healthcare         | $7.9M        | $2.90   | nan%         | nan%         | nanx          |
+|  7 | BW       | 2025-03-31 | After market close | Industrials        | $66.9M       | $0.71   | nan%         | nan%         | nanx          |
+|  8 | CELC     | 2025-03-31 | After market close | Healthcare         | $379.1M      | $10.24  | nan%         | nan%         | nanx          |
+|  9 | CTSO     | 2025-03-31 | After market close | Healthcare         | $62.3M       | $1.00   | nan%         | nan%         | nanx          |
+| 10 | CWD      | 2025-03-31 | After market close | Financial Services | $13.4M       | $0.60   | nan%         | nan%         | nanx          |
+| 11 | CXAI     | 2025-03-31 | After market close | Technology         | $16.8M       | $0.82   | nan%         | nan%         | nanx          |
+| 12 | DARE     | 2025-03-31 | After market close | Healthcare         | $25.1M       | $2.88   | nan%         | nan%         | nanx          |
+| 13 | DGXX     | 2025-03-31 | After market close | Utilities          | $40.5M       | $1.07   | nan%         | nan%         | nanx          |
+| 14 | DUOT     | 2025-03-31 | After market close | Technology         | $52.2M       | $5.31   | nan%         | nan%         | nanx          |
+| 15 | FORA     | 2025-03-31 | After market close | Healthcare         | $62.0M       | $2.00   | nan%         | nan%         | nanx          |
+| 16 | GRRR     | 2025-03-31 | After market close | Technology         | $546.6M      | $25.04  | nan%         | nan%         | nanx          |
+| 17 | GRYP     | 2025-03-31 | After market close | Financial Services | $11.7M       | $0.16   | nan%         | nan%         | nanx          |
+| 18 | GWH      | 2025-03-31 | After market close | Industrials        | $39.8M       | $3.35   | nan%         | nan%         | nanx          |
+| 19 | IAUX     | 2025-03-31 | After market close | Basic Materials    | $270.5M      | $0.61   | nan%         | nan%         | nanx          |
+| 20 | MDBH     | 2025-03-31 | After market close | Financial Services | $62.8M       | $6.25   | nan%         | nan%         | nanx          |
+| 21 | MVST     | 2025-03-31 | After market close | Consumer Cyclical  | $379.0M      | $1.15   | nan%         | nan%         | nanx          |
+| 22 | NSYS     | 2025-03-31 | After market close | Healthcare         | $27.8M       | $9.77   | nan%         | nan%         | nanx          |
+| 23 | NVVE     | 2025-03-31 | After market close | Consumer Cyclical  | $2.1M        | $1.62   | nan%         | nan%         | nanx          |
+| 24 | OMER     | 2025-03-31 | After market close | Healthcare         | $490.8M      | $8.47   | nan%         | nan%         | nanx          |
+| 25 | RANI     | 2025-03-31 | After market close | Healthcare         | $79.3M       | $1.36   | nan%         | nan%         | nanx          |
+| 26 | SIDU     | 2025-03-31 | After market close | Industrials        | $21.6M       | $1.50   | nan%         | nan%         | nanx          |
+| 27 | SPIR     | 2025-03-31 | After market close | Industrials        | $250.4M      | $8.19   | nan%         | nan%         | nanx          |
+| 28 | SPRU     | 2025-03-31 | After market close | Technology         | $45.9M       | $2.47   | nan%         | nan%         | nanx          |
+| 29 | TLPH     | 2025-03-31 | After market close | Healthcare         | $9.6M        | $0.59   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
