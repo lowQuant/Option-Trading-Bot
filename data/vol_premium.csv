@@ -1,7 +1,11 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-ANGO,2025-04-02,Before market open,,,,,,
-BB,2025-04-02,Before market open,,,,,,
-CGNT,2025-04-02,Before market open,,,,,,
-NCNO,2025-04-01,After market close,,,,,,
-SPWH,2025-04-01,After market close,,,,,,
-UNF,2025-04-02,Before market open,,,,0.5022,,
+LNN,2025-04-03,Before market open,Industrials,1417.639296,127.59,0.2242,0.4043,1.8033006244424619
+LW,2025-04-03,Before market open,Consumer Defensive,7724.009984,53.31,0.3814,0.608,1.5941269008914525
+PENG,2025-04-02,After market close,Technology,961.89888,17.27,0.5242,0.7933,1.5133536818008393
+RH,2025-04-02,After market close,Consumer Cyclical,4638.608384,239.06,0.6939,0.9791,1.4110102320219051
+AYI,2025-04-03,Before market open,Industrials,8247.55712,263.67,0.3282,0.4141,1.2617306520414382
+MSM,2025-04-03,Before market open,Industrials,4428.509184,77.82,0.3083,0.3889,1.2614336685047032
+CAG,2025-04-03,Before market open,Consumer Defensive,12591.700992,26.6,0.2991,0.2976,0.9949849548645938
+BSET,2025-04-02,After market close,Consumer Cyclical,137.274176,15.16,,,
+FC,2025-04-02,After market close,Consumer Defensive,368.028064,28.0,,,
+RGP,2025-04-02,After market close,Industrials,219.394,6.65,,,
