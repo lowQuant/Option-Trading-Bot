@@ -10,14 +10,18 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-04-03 21:44:58 EDT
+## 🕒 Last Updated: 2025-04-07 21:45:57 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector            | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | SLP      | 2025-04-03 | After market close | Healthcare        | $478.5M      | $24.77  | 49.45%       | 66.21%       | 1.34x         |
-|  1 | GES      | 2025-04-03 | After market close | Consumer Cyclical | $516.6M      | $11.38  | 99.34%       | 45.82%       | 0.46x         |
+|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | WDFC     | 2025-04-08 | Before market open | Basic Materials        | $3.2B        | $245.09 | 25.97%       | 50.68%       | 1.95x         |
+|  1 | GBX      | 2025-04-07 | After market close | Industrials            | $1.4B        | $45.61  | 39.06%       | 75.80%       | 1.94x         |
+|  2 | RPM      | 2025-04-08 | Before market open | Basic Materials        | $13.7B       | $108.23 | 26.30%       | 47.93%       | 1.82x         |
+|  3 | PLAY     | 2025-04-07 | After market close | Communication Services | $623.4M      | $16.84  | 79.04%       | 116.73%      | 1.48x         |
+|  4 | LEVI     | 2025-04-07 | After market close | Consumer Cyclical      | $5.3B        | $13.89  | nan%         | nan%         | nanx          |
+|  5 | TLRY     | 2025-04-08 | Before market open | Healthcare             | $541.1M      | $0.59   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
