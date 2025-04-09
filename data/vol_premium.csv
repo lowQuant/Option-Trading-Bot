@@ -1,7 +1,8 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-WDFC,2025-04-08,Before market open,Basic Materials,3223.047168,245.09,0.2597,0.5068,1.9514824797843668
-GBX,2025-04-07,After market close,Industrials,1430.29312,45.61,0.3906,0.758,1.9406041986687148
-RPM,2025-04-08,Before market open,Basic Materials,13718.20544,108.23,0.263,0.4793,1.8224334600760455
-PLAY,2025-04-07,After market close,Communication Services,623.361984,16.835,0.7904,1.1673,1.476847165991903
-LEVI,2025-04-07,After market close,Consumer Cyclical,5336.928256,13.89,,,
-TLRY,2025-04-08,Before market open,Healthcare,541.05056,0.5922,,,
+SMPL,2025-04-09,Before market open,Consumer Defensive,3353.25184,33.89,0.2466,0.3802,1.5417680454176803
+DAL,2025-04-09,Before market open,Industrials,23177.117696,37.29,0.5926,0.8357,1.4102261221734729
+CALM,2025-04-08,After market close,Consumer Defensive,4430.325248,93.45,0.4844,0.6288,1.2981007431874485
+AEHR,2025-04-08,After market close,Technology,201.446016,7.22,,,
+KRUS,2025-04-08,After market close,Consumer Cyclical,500.26048,43.34,,,
+MAMA,2025-04-08,After market close,Consumer Defensive,259.349616,7.04,,,
+NEOG,2025-04-09,Before market open,Healthcare,1527.28576,7.85,0.4788,,
