@@ -1,8 +1,10 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-SMPL,2025-04-09,Before market open,Consumer Defensive,3353.25184,33.89,0.2466,0.3802,1.5417680454176803
-DAL,2025-04-09,Before market open,Industrials,23177.117696,37.29,0.5926,0.8357,1.4102261221734729
-CALM,2025-04-08,After market close,Consumer Defensive,4430.325248,93.45,0.4844,0.6288,1.2981007431874485
-AEHR,2025-04-08,After market close,Technology,201.446016,7.22,,,
-KRUS,2025-04-08,After market close,Consumer Cyclical,500.26048,43.34,,,
-MAMA,2025-04-08,After market close,Consumer Defensive,259.349616,7.04,,,
-NEOG,2025-04-09,Before market open,Healthcare,1527.28576,7.85,0.4788,,
+PSMT,2025-04-09,After market close,Consumer Defensive,2630.518784,82.12,0.2564,0.5631,2.1961778471138844
+STZ,2025-04-09,After market close,Consumer Defensive,33150.64832,170.96,0.2799,0.5297,1.8924615934262237
+KMX,2025-04-10,Before market open,Consumer Cyclical,12313.227264,73.31,0.4024,0.6792,1.6878727634194832
+BSVN,2025-04-10,Before market open,Financial Services,351.096608,35.79,,,
+BYRN,2025-04-10,Before market open,Industrials,375.822176,15.07,,,
+LAKE,2025-04-09,After market close,Consumer Cyclical,174.299312,16.52,,,
+LOVE,2025-04-10,Before market open,Consumer Cyclical,245.846096,12.47,,,
+PCYO,2025-04-09,After market close,Utilities,259.548976,9.95,,,
+RELL,2025-04-09,After market close,Technology,141.060192,9.14,,,
