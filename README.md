@@ -10,21 +10,17 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-04-09 21:46:03 EDT
+## 🕒 Last Updated: 2025-04-10 21:46:28 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | PSMT     | 2025-04-09 | After market close | Consumer Defensive | $2.6B        | $82.12  | 25.64%       | 56.31%       | 2.20x         |
-|  1 | STZ      | 2025-04-09 | After market close | Consumer Defensive | $33.2B       | $170.96 | 27.99%       | 52.97%       | 1.89x         |
-|  2 | KMX      | 2025-04-10 | Before market open | Consumer Cyclical  | $12.3B       | $73.31  | 40.24%       | 67.92%       | 1.69x         |
-|  3 | BSVN     | 2025-04-10 | Before market open | Financial Services | $351.1M      | $35.79  | nan%         | nan%         | nanx          |
-|  4 | BYRN     | 2025-04-10 | Before market open | Industrials        | $375.8M      | $15.07  | nan%         | nan%         | nanx          |
-|  5 | LAKE     | 2025-04-09 | After market close | Consumer Cyclical  | $174.3M      | $16.52  | nan%         | nan%         | nanx          |
-|  6 | LOVE     | 2025-04-10 | Before market open | Consumer Cyclical  | $245.8M      | $12.47  | nan%         | nan%         | nanx          |
-|  7 | PCYO     | 2025-04-09 | After market close | Utilities          | $259.5M      | $9.95   | nan%         | nan%         | nanx          |
-|  8 | RELL     | 2025-04-09 | After market close | Technology         | $141.1M      | $9.14   | nan%         | nan%         | nanx          |
+|  0 | BK       | 2025-04-11 | Before market open | Financial Services | $57.0B       | $79.35  | 44.19%       | 47.69%       | 1.08x         |
+|  1 | FAST     | 2025-04-11 | Before market open | Industrials        | $43.8B       | $76.47  | 38.07%       | 34.71%       | 0.91x         |
+|  2 | JPM      | 2025-04-11 | Before market open | Financial Services | $652.2B      | $234.34 | 48.28%       | 40.63%       | 0.84x         |
+|  3 | WFC      | 2025-04-11 | Before market open | Financial Services | $216.6B      | $66.33  | 52.04%       | 43.64%       | 0.84x         |
+|  4 | BLK      | 2025-04-11 | Before market open | Financial Services | $139.1B      | $897.08 | 49.09%       | 36.88%       | 0.75x         |
 
 ## 📝 Data Interpretation
 

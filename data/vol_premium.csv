@@ -1,10 +1,6 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-PSMT,2025-04-09,After market close,Consumer Defensive,2630.518784,82.12,0.2564,0.5631,2.1961778471138844
-STZ,2025-04-09,After market close,Consumer Defensive,33150.64832,170.96,0.2799,0.5297,1.8924615934262237
-KMX,2025-04-10,Before market open,Consumer Cyclical,12313.227264,73.31,0.4024,0.6792,1.6878727634194832
-BSVN,2025-04-10,Before market open,Financial Services,351.096608,35.79,,,
-BYRN,2025-04-10,Before market open,Industrials,375.822176,15.07,,,
-LAKE,2025-04-09,After market close,Consumer Cyclical,174.299312,16.52,,,
-LOVE,2025-04-10,Before market open,Consumer Cyclical,245.846096,12.47,,,
-PCYO,2025-04-09,After market close,Utilities,259.548976,9.95,,,
-RELL,2025-04-09,After market close,Technology,141.060192,9.14,,,
+BK,2025-04-11,Before market open,Financial Services,56971.255808,79.35,0.4419,0.4769,1.079203439692238
+FAST,2025-04-11,Before market open,Industrials,43828.903936,76.47,0.3807,0.3471,0.9117415287628055
+JPM,2025-04-11,Before market open,Financial Services,652166.7584,234.34,0.4828,0.4063,0.8415492957746479
+WFC,2025-04-11,Before market open,Financial Services,216577.736704,66.33,0.5204,0.4364,0.8385857033051499
+BLK,2025-04-11,Before market open,Financial Services,139067.408384,897.08,0.4909,0.3688,0.7512731717254023
