@@ -10,17 +10,15 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-04-10 21:46:28 EDT
+## 🕒 Last Updated: 2025-04-11 21:43:40 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | BK       | 2025-04-11 | Before market open | Financial Services | $57.0B       | $79.35  | 44.19%       | 47.69%       | 1.08x         |
-|  1 | FAST     | 2025-04-11 | Before market open | Industrials        | $43.8B       | $76.47  | 38.07%       | 34.71%       | 0.91x         |
-|  2 | JPM      | 2025-04-11 | Before market open | Financial Services | $652.2B      | $234.34 | 48.28%       | 40.63%       | 0.84x         |
-|  3 | WFC      | 2025-04-11 | Before market open | Financial Services | $216.6B      | $66.33  | 52.04%       | 43.64%       | 0.84x         |
-|  4 | BLK      | 2025-04-11 | Before market open | Financial Services | $139.1B      | $897.08 | 49.09%       | 36.88%       | 0.75x         |
+|  0 | MTB      | 2025-04-14 | Before market open | Financial Services | $25.9B       | $157.85 | 47.10%       | 47.70%       | 1.01x         |
+|  1 | GS       | 2025-04-14 | Before market open | Financial Services | $153.7B      | $489.80 | 61.65%       | 57.21%       | 0.93x         |
+|  2 | PLCE     | 2025-04-11 | After market close | Consumer Cyclical  | $86.7M       | $7.08   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 

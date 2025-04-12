@@ -1,6 +1,4 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-BK,2025-04-11,Before market open,Financial Services,56971.255808,79.35,0.4419,0.4769,1.079203439692238
-FAST,2025-04-11,Before market open,Industrials,43828.903936,76.47,0.3807,0.3471,0.9117415287628055
-JPM,2025-04-11,Before market open,Financial Services,652166.7584,234.34,0.4828,0.4063,0.8415492957746479
-WFC,2025-04-11,Before market open,Financial Services,216577.736704,66.33,0.5204,0.4364,0.8385857033051499
-BLK,2025-04-11,Before market open,Financial Services,139067.408384,897.08,0.4909,0.3688,0.7512731717254023
+MTB,2025-04-14,Before market open,Financial Services,25949.605888,157.85,0.471,0.477,1.0127388535031847
+GS,2025-04-14,Before market open,Financial Services,153667.01056,489.8,0.6165,0.5721,0.9279805352798054
+PLCE,2025-04-11,After market close,Consumer Cyclical,86.682304,7.08,,,
