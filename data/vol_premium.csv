@@ -1,4 +1,5 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-MTB,2025-04-14,Before market open,Financial Services,25949.605888,157.85,0.471,0.477,1.0127388535031847
-GS,2025-04-14,Before market open,Financial Services,153667.01056,489.8,0.6165,0.5721,0.9279805352798054
+MTB,2025-04-14,Before market open,Financial Services,25949.605888,157.85,0.4683,0.4904,1.0471919709587871
+GS,2025-04-14,Before market open,Financial Services,153667.01056,489.8,0.6118,0.5062,0.8273945733899967
+ALOT,2025-04-14,Before market open,Technology,64.221004,8.7,,,
 PLCE,2025-04-11,After market close,Consumer Cyclical,86.682304,7.08,,,
