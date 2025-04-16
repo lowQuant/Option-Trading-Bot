@@ -1,16 +1,18 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-PNC,2025-04-15,Before market open,Financial Services,61467.89376,151.99,0.4536,0.4816,1.0617283950617282
-FBK,2025-04-14,After market close,Financial Services,1918.318464,40.56,0.5064,0.5218,1.0304107424960507
-ACI,2025-04-15,Before market open,Consumer Defensive,12497.205248,21.19,0.3582,0.3516,0.9815745393634842
-BAC,2025-04-15,Before market open,Financial Services,278794.665984,35.95,0.5398,0.4739,0.87791774731382
-JNJ,2025-04-15,Before market open,Healthcare,371984.46592,151.73,0.3123,0.2705,0.8661543387768171
-C,2025-04-15,Before market open,Financial Services,118990.159872,61.64,0.6097,0.5215,0.8553386911595866
-PNFP,2025-04-14,After market close,Financial Services,7133.210112,90.04,0.6589,0.5508,0.8359386856882682
-APLD,2025-04-14,After market close,Technology,1196.989184,5.29,,,
-ERIC,2025-04-15,Before market open,Technology,24463.788032,7.29,,,
-HIT,2025-04-14,After market close,Technology,37.514976,0.7,,,
-JCTC,2025-04-14,After market close,Basic Materials,13.947587,3.57,,,
-KMTS,2025-04-14,After market close,Healthcare,1222.865024,24.28,,,
-RENT,2025-04-15,Before market open,Consumer Cyclical,20.925166,5.26,,,
-SKIL,2025-04-14,After market close,Consumer Defensive,144.548128,17.09,,,
-ZBAO,2025-04-14,After market close,Financial Services,36.214352,1.02,,,
+ABT,2025-04-16,Before market open,Healthcare,218905.870336,127.37,0.2902,0.3123,1.0761543762922123
+ALV,2025-04-16,Before market open,Consumer Cyclical,6357.612544,82.76,0.5133,0.538,1.048120007792714
+OMC,2025-04-15,After market close,Communication Services,15102.934016,76.54,0.4244,0.3905,0.9201225259189444
+JBHT,2025-04-15,After market close,Industrials,13512.081408,137.82,0.5281,0.4806,0.9100549138420754
+TRV,2025-04-16,Before market open,Financial Services,56562.470912,250.84,0.3437,0.3101,0.9022403258655805
+HWC,2025-04-15,After market close,Financial Services,4193.518336,47.63,0.5307,0.4643,0.8748822310156398
+PLD,2025-04-16,Before market open,Real Estate,91288.69888,98.3,0.5187,0.4258,0.8208983998457682
+CBSH,2025-04-16,Before market open,Financial Services,7876.847616,58.4,0.3943,0.3193,0.809789500380421
+USB,2025-04-16,Before market open,Financial Services,60185.92768,38.2,0.5047,0.3989,0.7903705171388943
+CFG,2025-04-16,Before market open,Financial Services,15780.537344,35.59,0.6076,0.4697,0.7730414746543779
+FHN,2025-04-16,Before market open,Financial Services,9028.614144,17.26,0.6285,0.4786,0.7614956245027845
+FULT,2025-04-15,After market close,Financial Services,2920.666112,15.67,0.517,0.3882,0.750870406189555
+IBKR,2025-04-15,After market close,Financial Services,73295.847424,172.99,0.8195,0.576,0.7028676021964612
+UAL,2025-04-15,After market close,Industrials,21956.16768,65.69,1.1001,0.7395,0.6722116171257159
+ASML,2025-04-16,Before market open,Technology,268618.498048,672.87,,,
+EQBK,2025-04-15,After market close,Financial Services,629.612864,35.54,,,
+WIT,2025-04-16,Before market open,Technology,29498.32704,2.85,,,

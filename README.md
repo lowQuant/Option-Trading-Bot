@@ -10,27 +10,29 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-04-14 21:49:19 EDT
+## 🕒 Last Updated: 2025-04-15 21:48:55 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | PNC      | 2025-04-15 | Before market open | Financial Services | $61.5B       | $151.99 | 45.36%       | 48.16%       | 1.06x         |
-|  1 | FBK      | 2025-04-14 | After market close | Financial Services | $1.9B        | $40.56  | 50.64%       | 52.18%       | 1.03x         |
-|  2 | ACI      | 2025-04-15 | Before market open | Consumer Defensive | $12.5B       | $21.19  | 35.82%       | 35.16%       | 0.98x         |
-|  3 | BAC      | 2025-04-15 | Before market open | Financial Services | $278.8B      | $35.95  | 53.98%       | 47.39%       | 0.88x         |
-|  4 | JNJ      | 2025-04-15 | Before market open | Healthcare         | $372.0B      | $151.73 | 31.23%       | 27.05%       | 0.87x         |
-|  5 | C        | 2025-04-15 | Before market open | Financial Services | $119.0B      | $61.64  | 60.97%       | 52.15%       | 0.86x         |
-|  6 | PNFP     | 2025-04-14 | After market close | Financial Services | $7.1B        | $90.04  | 65.89%       | 55.08%       | 0.84x         |
-|  7 | APLD     | 2025-04-14 | After market close | Technology         | $1.2B        | $5.29   | nan%         | nan%         | nanx          |
-|  8 | ERIC     | 2025-04-15 | Before market open | Technology         | $24.5B       | $7.29   | nan%         | nan%         | nanx          |
-|  9 | HIT      | 2025-04-14 | After market close | Technology         | $37.5M       | $0.70   | nan%         | nan%         | nanx          |
-| 10 | JCTC     | 2025-04-14 | After market close | Basic Materials    | $13.9M       | $3.57   | nan%         | nan%         | nanx          |
-| 11 | KMTS     | 2025-04-14 | After market close | Healthcare         | $1.2B        | $24.28  | nan%         | nan%         | nanx          |
-| 12 | RENT     | 2025-04-15 | Before market open | Consumer Cyclical  | $20.9M       | $5.26   | nan%         | nan%         | nanx          |
-| 13 | SKIL     | 2025-04-14 | After market close | Consumer Defensive | $144.5M      | $17.09  | nan%         | nan%         | nanx          |
-| 14 | ZBAO     | 2025-04-14 | After market close | Financial Services | $36.2M       | $1.02   | nan%         | nan%         | nanx          |
+|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | ABT      | 2025-04-16 | Before market open | Healthcare             | $218.9B      | $127.37 | 29.02%       | 31.23%       | 1.08x         |
+|  1 | ALV      | 2025-04-16 | Before market open | Consumer Cyclical      | $6.4B        | $82.76  | 51.33%       | 53.80%       | 1.05x         |
+|  2 | OMC      | 2025-04-15 | After market close | Communication Services | $15.1B       | $76.54  | 42.44%       | 39.05%       | 0.92x         |
+|  3 | JBHT     | 2025-04-15 | After market close | Industrials            | $13.5B       | $137.82 | 52.81%       | 48.06%       | 0.91x         |
+|  4 | TRV      | 2025-04-16 | Before market open | Financial Services     | $56.6B       | $250.84 | 34.37%       | 31.01%       | 0.90x         |
+|  5 | HWC      | 2025-04-15 | After market close | Financial Services     | $4.2B        | $47.63  | 53.07%       | 46.43%       | 0.87x         |
+|  6 | PLD      | 2025-04-16 | Before market open | Real Estate            | $91.3B       | $98.30  | 51.87%       | 42.58%       | 0.82x         |
+|  7 | CBSH     | 2025-04-16 | Before market open | Financial Services     | $7.9B        | $58.40  | 39.43%       | 31.93%       | 0.81x         |
+|  8 | USB      | 2025-04-16 | Before market open | Financial Services     | $60.2B       | $38.20  | 50.47%       | 39.89%       | 0.79x         |
+|  9 | CFG      | 2025-04-16 | Before market open | Financial Services     | $15.8B       | $35.59  | 60.76%       | 46.97%       | 0.77x         |
+| 10 | FHN      | 2025-04-16 | Before market open | Financial Services     | $9.0B        | $17.26  | 62.85%       | 47.86%       | 0.76x         |
+| 11 | FULT     | 2025-04-15 | After market close | Financial Services     | $2.9B        | $15.67  | 51.70%       | 38.82%       | 0.75x         |
+| 12 | IBKR     | 2025-04-15 | After market close | Financial Services     | $73.3B       | $172.99 | 81.95%       | 57.60%       | 0.70x         |
+| 13 | UAL      | 2025-04-15 | After market close | Industrials            | $22.0B       | $65.69  | 110.01%      | 73.95%       | 0.67x         |
+| 14 | ASML     | 2025-04-16 | Before market open | Technology             | $268.6B      | $672.87 | nan%         | nan%         | nanx          |
+| 15 | EQBK     | 2025-04-15 | After market close | Financial Services     | $629.6M      | $35.54  | nan%         | nan%         | nanx          |
+| 16 | WIT      | 2025-04-16 | Before market open | Technology             | $29.5B       | $2.85   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
