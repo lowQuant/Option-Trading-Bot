@@ -1,8 +1,8 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-BOH,2025-04-21,Before market open,Financial Services,2586.546432,64.23,0.3815,0.464,1.2162516382699868
-CMA,2025-04-21,Before market open,Financial Services,6947.357696,52.54,0.5117,0.5257,1.0273597811217507
-NFLX,2025-04-17,After market close,Communication Services,416220.413952,961.63,0.5498,0.5288,0.9618042924699892
-INDB,2025-04-17,After market close,Financial Services,2379.359232,55.36,0.4729,0.3848,0.8137026855572003
+BOH,2025-04-21,Before market open,Financial Services,2586.546432,64.23,0.3836,0.4315,1.1248696558915536
+NFLX,2025-04-17,After market close,Communication Services,416220.413952,961.63,0.4828,0.5065,1.0490886495443246
+CMA,2025-04-21,Before market open,Financial Services,6947.357696,52.54,0.5116,0.4915,0.9607114933541828
+INDB,2025-04-17,After market close,Financial Services,2379.359232,55.36,0.4731,0.3415,0.7218347072500528
 CCBG,2025-04-21,Before market open,Financial Services,584.962496,33.9,,,
 DX,2025-04-21,Before market open,Real Estate,1122.678528,11.59,,,
 GNTY,2025-04-21,Before market open,Financial Services,444.192032,39.09,,,

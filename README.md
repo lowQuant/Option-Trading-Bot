@@ -10,16 +10,16 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-04-17 21:44:21 EDT
+## 🕒 Last Updated: 2025-04-18 21:42:52 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | BOH      | 2025-04-21 | Before market open | Financial Services     | $2.6B        | $64.23  | 38.15%       | 46.40%       | 1.22x         |
-|  1 | CMA      | 2025-04-21 | Before market open | Financial Services     | $6.9B        | $52.54  | 51.17%       | 52.57%       | 1.03x         |
-|  2 | NFLX     | 2025-04-17 | After market close | Communication Services | $416.2B      | $961.63 | 54.98%       | 52.88%       | 0.96x         |
-|  3 | INDB     | 2025-04-17 | After market close | Financial Services     | $2.4B        | $55.36  | 47.29%       | 38.48%       | 0.81x         |
+|  0 | BOH      | 2025-04-21 | Before market open | Financial Services     | $2.6B        | $64.23  | 38.36%       | 43.15%       | 1.12x         |
+|  1 | NFLX     | 2025-04-17 | After market close | Communication Services | $416.2B      | $961.63 | 48.28%       | 50.65%       | 1.05x         |
+|  2 | CMA      | 2025-04-21 | Before market open | Financial Services     | $6.9B        | $52.54  | 51.16%       | 49.15%       | 0.96x         |
+|  3 | INDB     | 2025-04-17 | After market close | Financial Services     | $2.4B        | $55.36  | 47.31%       | 34.15%       | 0.72x         |
 |  4 | CCBG     | 2025-04-21 | Before market open | Financial Services     | $585.0M      | $33.90  | nan%         | nan%         | nanx          |
 |  5 | DX       | 2025-04-21 | Before market open | Real Estate            | $1.1B        | $11.59  | nan%         | nan%         | nanx          |
 |  6 | GNTY     | 2025-04-21 | Before market open | Financial Services     | $444.2M      | $39.09  | nan%         | nan%         | nanx          |
