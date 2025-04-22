@@ -1,10 +1,49 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-BOH,2025-04-21,Before market open,Financial Services,2586.546432,64.23,0.3836,0.4315,1.1248696558915536
-NFLX,2025-04-17,After market close,Communication Services,416220.413952,961.63,0.4828,0.5065,1.0490886495443246
-CMA,2025-04-21,Before market open,Financial Services,6947.357696,52.54,0.5116,0.4915,0.9607114933541828
-INDB,2025-04-17,After market close,Financial Services,2379.359232,55.36,0.4731,0.3415,0.7218347072500528
-CCBG,2025-04-21,Before market open,Financial Services,584.962496,33.9,,,
-DX,2025-04-21,Before market open,Real Estate,1122.678528,11.59,,,
-GNTY,2025-04-21,Before market open,Financial Services,444.192032,39.09,,,
-HBT,2025-04-21,Before market open,Financial Services,695.574464,21.975,,,
-WASH,2025-04-21,Before market open,Financial Services,524.502656,27.13,,,
+DCOM,2025-04-22,Before market open,Financial Services,1096.666368,25.21,0.4499,0.9229,2.0513447432762835
+IRDM,2025-04-22,Before market open,Communication Services,2522.605568,23.77,0.4926,0.627,1.2728380024360537
+ONB,2025-04-22,Before market open,Financial Services,6130.7904,19.59,0.6091,0.7663,1.2580857002134296
+DGX,2025-04-22,Before market open,Healthcare,17962.899456,163.8,0.2559,0.3182,1.2434544744040639
+MEDP,2025-04-21,After market close,Healthcare,8735.705088,296.28,0.5175,0.6371,1.2311111111111113
+ELV,2025-04-22,Before market open,Healthcare,92069.330944,424.53,0.308,0.3678,1.1941558441558442
+SFBS,2025-04-21,After market close,Financial Services,3794.776576,69.72,0.4901,0.5719,1.1669047133238115
+PHM,2025-04-22,Before market open,Consumer Cyclical,18769.577984,94.95,0.4144,0.4383,1.0576737451737452
+CALX,2025-04-21,After market close,Technology,2216.069376,33.84,0.6085,0.6246,1.0264585045193098
+AZZ,2025-04-21,After market close,Industrials,2319.456512,81.0,0.5162,0.5235,1.0141418055017435
+UCB,2025-04-22,Before market open,Financial Services,2937.408256,24.79,0.4935,0.4955,1.0040526849037488
+WRB,2025-04-21,After market close,Financial Services,25533.2864,68.8,0.3506,0.34,0.9697661152310325
+NOC,2025-04-22,Before market open,Industrials,76585.377792,540.39,0.3143,0.3036,0.9659560929048678
+LMT,2025-04-22,Before market open,Industrials,107511.832576,464.08,0.3367,0.3187,0.9465399465399464
+ELS,2025-04-21,After market close,Real Estate,12901.914624,65.32,0.2575,0.2422,0.9405825242718446
+GPC,2025-04-22,Before market open,Consumer Cyclical,15518.603264,114.1,0.4047,0.3802,0.9394613293797874
+MMM,2025-04-22,Before market open,Industrials,68002.607104,130.21,0.4905,0.4529,0.9233435270132518
+VMI,2025-04-22,Before market open,Industrials,5409.709568,277.83,0.5744,0.5195,0.9044220055710306
+EFX,2025-04-22,Before market open,Industrials,26867.976192,221.25,0.5101,0.46,0.9017839639286415
+MSCI,2025-04-22,Before market open,Financial Services,41398.898688,546.89,0.4275,0.3842,0.8987134502923977
+KMB,2025-04-22,Before market open,Consumer Defensive,46454.49728,142.81,0.2655,0.2356,0.8873822975517891
+NTRS,2025-04-22,Before market open,Financial Services,16919.66976,88.295,0.5053,0.4288,0.8486047892341184
+RTX,2025-04-22,Before market open,Industrials,168381.56288,128.89,0.396,0.3341,0.8436868686868687
+DHR,2025-04-22,Before market open,Healthcare,132329.63584,186.83,0.4996,0.4086,0.8178542834267415
+ZION,2025-04-21,After market close,Financial Services,6436.698112,44.28,0.624,0.4999,0.8011217948717949
+WAL,2025-04-21,After market close,Financial Services,7166.255104,66.32,0.7525,0.5851,0.7775415282392026
+IVZ,2025-04-22,Before market open,Financial Services,5580.036608,12.8,0.6697,0.5091,0.7601911303568762
+PNR,2025-04-22,Before market open,Industrials,13026.030592,80.36,0.4816,0.3652,0.7583056478405317
+GE,2025-04-22,Before market open,Industrials,190224.54784,181.79,0.5537,0.4195,0.7576304858226477
+VZ,2025-04-22,Before market open,Communication Services,184169.693184,44.04,0.3482,0.2611,0.7498564043653073
+MCO,2025-04-22,Before market open,Financial Services,74348.118016,424.86,0.5022,0.3732,0.7431302270011947
+WTFC,2025-04-21,After market close,Financial Services,6786.812928,102.51,0.5843,0.4201,0.7189799760397055
+HXL,2025-04-21,After market close,Industrials,4059.66464,52.1,0.543,0.385,0.7090239410681399
+SYF,2025-04-22,Before market open,Financial Services,18360.664064,47.87,0.778,0.5021,0.6453727506426735
+HAL,2025-04-22,Before market open,Energy,18894.62272,22.53,0.7615,0.4731,0.621273801707157
+AGNC,2025-04-21,After market close,Real Estate,7728.335872,8.34,,,
+BOKF,2025-04-21,After market close,Financial Services,5761.957888,91.17,,,
+CADE,2025-04-21,After market close,Financial Services,5063.45472,27.91,0.5047,,
+CATY,2025-04-21,After market close,Financial Services,2702.166016,38.63,0.4498,,
+FLXS,2025-04-21,After market close,Consumer Cyclical,168.277328,32.7,,,
+HBCP,2025-04-21,After market close,Financial Services,346.100992,43.56,,,
+HOPE,2025-04-22,Before market open,Financial Services,1216.060672,9.52,0.4139,,
+HRI,2025-04-22,Before market open,Industrials,3176.02176,117.66,,,
+MBWM,2025-04-22,Before market open,Financial Services,653.637184,40.68,,,
+MCB,2025-04-21,After market close,Financial Services,623.217536,54.64,,,
+PEBO,2025-04-22,Before market open,Financial Services,982.713984,27.85,,,
+SMBK,2025-04-21,After market close,Financial Services,482.275968,28.88,,,
+TRST,2025-04-21,After market close,Financial Services,540.730048,28.52,0.332,,
