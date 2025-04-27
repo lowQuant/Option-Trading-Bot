@@ -1,13 +1,16 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-DPZ,2025-04-28,Before market open,Consumer Cyclical,16722.530304,487.97,0.386,0.4078,1.056476683937824
-BKU,2025-04-28,Before market open,Financial Services,2530.38848,33.67,0.5788,0.6073,1.049239806496199
-ROP,2025-04-28,Before market open,Technology,59888.615424,559.66,0.3472,0.2797,0.8055875576036866
-RVTY,2025-04-28,Before market open,Healthcare,11328.66048,95.13,0.5348,0.3981,0.744390426327599
-ARLP,2025-04-28,Before market open,Energy,3485.535744,27.45,,,
-BMRC,2025-04-28,Before market open,Financial Services,337.344384,21.03,,,
-FMX,2025-04-28,Before market open,Consumer Defensive,184623.480832,105.91,,,
+DPZ,2025-04-28,Before market open,Consumer Cyclical,16735.939584,487.97,0.3779,0.4104,1.0860015877216194
+RVTY,2025-04-28,Before market open,Healthcare,11429.645312,95.13,0.5347,0.4717,0.882176921638302
+BKU,2025-04-28,Before market open,Financial Services,2533.398528,33.67,0.5778,0.5031,0.8707165109034268
+ROP,2025-04-28,Before market open,Technology,60099.428352,559.66,0.3468,0.2845,0.8203575547866204
+ARLP,2025-04-28,Before market open,Energy,3525.350144,27.45,,,
+BEDU,2025-04-28,Before market open,Consumer Defensive,49.048216,1.65,,,
+BMRC,2025-04-28,Before market open,Financial Services,340.746368,21.03,,,
+FMX,2025-04-28,Before market open,Consumer Defensive,184592.62976,105.91,,,
 INMD,2025-04-28,Before market open,Healthcare,1100.831872,16.13,,,
 OPRA,2025-04-28,Before market open,Communication Services,1389.948928,15.37,,,
-PERF,2025-04-28,Before market open,Technology,192.494608,1.77,,,
+PERF,2025-04-28,Before market open,Technology,193.513312,1.9,,,
+PROV,2025-04-28,Before market open,Financial Services,98.018896,14.65,,,
 RPT,2025-04-28,Before market open,Real Estate,138.267376,2.75,,,
-SILC,2025-04-28,Before market open,Technology,78.133232,13.88,,,
+SILC,2025-04-28,Before market open,Technology,80.036056,13.88,,,
+VLRS,2025-04-28,Before market open,Industrials,546.432128,4.69,,,
