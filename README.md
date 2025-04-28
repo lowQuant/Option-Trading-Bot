@@ -10,7 +10,7 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-04-26 21:54:19 EDT
+## 🕒 Last Updated: 2025-04-27 21:52:31 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
@@ -26,7 +26,7 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 |  7 | FMX      | 2025-04-28 | Before market open | Consumer Defensive     | $184.6B      | $105.91 | nan%         | nan%         | nanx          |
 |  8 | INMD     | 2025-04-28 | Before market open | Healthcare             | $1.1B        | $16.13  | nan%         | nan%         | nanx          |
 |  9 | OPRA     | 2025-04-28 | Before market open | Communication Services | $1.4B        | $15.37  | nan%         | nan%         | nanx          |
-| 10 | PERF     | 2025-04-28 | Before market open | Technology             | $193.5M      | $1.90   | nan%         | nan%         | nanx          |
+| 10 | PERF     | 2025-04-28 | Before market open | Technology             | $193.5M      | $1.77   | nan%         | nan%         | nanx          |
 | 11 | PROV     | 2025-04-28 | Before market open | Financial Services     | $98.0M       | $14.65  | nan%         | nan%         | nanx          |
 | 12 | RPT      | 2025-04-28 | Before market open | Real Estate            | $138.3M      | $2.75   | nan%         | nan%         | nanx          |
 | 13 | SILC     | 2025-04-28 | Before market open | Technology             | $80.0M       | $13.88  | nan%         | nan%         | nanx          |
