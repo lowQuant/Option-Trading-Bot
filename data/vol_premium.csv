@@ -1,273 +1,173 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-CWT,2025-05-01,Before market open,Utilities,3017.225728,50.47,0.2377,0.4862,2.045435422801851
-RGR,2025-04-30,After market close,Industrials,673.126272,40.68,0.1716,0.3301,1.9236596736596736
-K,2025-05-01,Before market open,Consumer Defensive,28573.528064,82.58,0.0379,0.0718,1.8944591029023745
-FTDR,2025-05-01,Before market open,Consumer Cyclical,3042.933248,41.18,0.3308,0.5911,1.7868802902055623
-TNDM,2025-04-30,After market close,Healthcare,1121.59168,16.77,0.4959,0.8612,1.7366404517039724
-ALKS,2025-05-01,Before market open,Healthcare,4742.331904,28.77,0.379,0.6228,1.6432717678100264
-SFM,2025-04-30,After market close,Consumer Defensive,16788.404224,172.3,0.3455,0.5437,1.5736613603473226
-JBSS,2025-04-30,After market close,Consumer Defensive,771.256832,66.74,0.1949,0.2976,1.5269368907131862
-GPK,2025-05-01,Before market open,Consumer Cyclical,7736.98816,25.64,0.3038,0.4419,1.4545753785385123
-MCW,2025-04-30,After market close,Consumer Cyclical,2228.224256,7.04,0.4653,0.6723,1.4448742746615086
-CNXN,2025-04-30,After market close,Technology,1617.159424,62.5,0.2733,0.3741,1.3688254665203075
-HSY,2025-05-01,Before market open,Consumer Defensive,33866.510336,165.07,0.2576,0.341,1.3237577639751554
-DLX,2025-04-30,After market close,Industrials,652.874048,15.5,0.4534,0.5933,1.3085575650639611
-PPC,2025-04-30,After market close,Consumer Defensive,12955.21792,53.98,0.3148,0.4072,1.2935196950444725
-GVA,2025-05-01,Before market open,Industrials,3555.42144,80.67,0.3648,0.4629,1.2689144736842104
-SHC,2025-05-01,Before market open,Healthcare,3264.332544,11.31,0.6104,0.7652,1.2536041939711664
-TTMI,2025-04-30,After market close,Technology,2034.45248,20.42,0.6291,0.7872,1.251311397234144
-WSR,2025-04-30,After market close,Real Estate,672.145472,13.09,0.2843,0.351,1.2346113260640168
-CVS,2025-05-01,Before market open,Healthcare,84213.366784,65.03,0.3181,0.3858,1.2128261552970763
-SCI,2025-04-30,After market close,Consumer Cyclical,11513.270272,80.1,0.294,0.3528,1.2000000000000002
-PATK,2025-05-01,Before market open,Consumer Cyclical,2583.079424,78.52,0.4837,0.5799,1.1988836055406242
-GRBK,2025-04-30,After market close,Consumer Cyclical,2624.948992,58.22,0.4166,0.4966,1.1920307249159865
-MGPI,2025-05-01,Before market open,Consumer Defensive,626.835712,29.55,0.4165,0.4933,1.1843937575030012
-IDCC,2025-05-01,Before market open,Technology,5167.649792,200.53,0.4216,0.4979,1.1809772296015182
-MPW,2025-05-01,Before market open,Real Estate,3348.730112,5.49,0.4534,0.5303,1.1696074106749006
-NSIT,2025-05-01,Before market open,Technology,4412.556288,139.32,0.4184,0.4844,1.1577437858508604
-MRNA,2025-05-01,Before market open,Healthcare,11034.220544,27.82,0.6719,0.7759,1.1547849382348563
-ALGN,2025-04-30,After market close,Healthcare,12687.345664,177.75,0.5505,0.633,1.1498637602179838
-ITRI,2025-05-01,Before market open,Technology,5071.48544,110.88,0.4407,0.5061,1.1484002722940776
-BIIB,2025-05-01,Before market open,Healthcare,17741.490176,120.17,0.4071,0.4637,1.1390321788258413
-EBAY,2025-04-30,After market close,Consumer Cyclical,31762.561024,67.2,0.3373,0.3829,1.1351912244292914
-GKOS,2025-04-30,After market close,Healthcare,5380.355584,93.83,0.7144,0.8097,1.1333986562150056
-THRY,2025-05-01,Before market open,Communication Services,594.184064,13.72,0.7062,0.7996,1.1322571509487396
-UPBD,2025-05-01,Before market open,Technology,1150.727424,20.55,0.5043,0.5702,1.1306761848106288
-VTR,2025-04-30,After market close,Real Estate,30673.874944,69.14,0.263,0.2957,1.1243346007604562
-PNW,2025-05-01,Before market open,Utilities,11346.883584,95.29,0.2185,0.2419,1.1070938215102974
-TFX,2025-05-01,Before market open,Healthcare,6123.435008,138.22,0.3359,0.3713,1.1053885084846682
-CHRW,2025-04-30,After market close,Industrials,10548.212736,88.33,0.3663,0.4047,1.1048321048321048
-SO,2025-05-01,Before market open,Utilities,101096.456192,91.45,0.2033,0.2245,1.104279390063945
-CNMD,2025-04-30,After market close,Healthcare,1582.67776,51.17,0.5116,0.5613,1.0971462079749803
-CAH,2025-05-01,Before market open,Healthcare,34131.140608,139.84,0.2903,0.3124,1.0761281433000345
-HII,2025-05-01,Before market open,Industrials,9037.528064,230.37,0.4129,0.443,1.0728990070234925
-TRN,2025-05-01,Before market open,Industrials,2048.965632,25.05,0.467,0.498,1.0663811563169163
-CHD,2025-05-01,Before market open,Consumer Defensive,24448.567296,99.01,0.2589,0.2746,1.0606411741985322
-FMC,2025-04-30,After market close,Basic Materials,5235.97568,41.74,0.5368,0.5656,1.0536512667660207
-BDX,2025-05-01,Before market open,Healthcare,59462.787072,206.44,0.3203,0.3312,1.034030596315954
-XRX,2025-05-01,Before market open,Technology,554.667712,4.44,0.8933,0.9141,1.0232844509123475
-MATW,2025-04-30,After market close,Industrials,633.309952,21.48,0.4807,0.4854,1.0097774079467443
-HCC,2025-04-30,After market close,Basic Materials,2513.385728,48.65,0.5256,0.5268,1.0022831050228311
-NYMT,2025-04-30,After market close,Real Estate,531.630624,5.87,0.4412,0.4383,0.993427017225748
-GWW,2025-05-01,Before market open,Industrials,49342.447616,1012.71,0.2846,0.2809,0.9869992972593112
-CAKE,2025-04-30,After market close,Consumer Cyclical,2490.740992,49.65,0.5216,0.507,0.9720092024539878
-SNDR,2025-05-01,Before market open,Industrials,3771.23712,21.7,0.4624,0.4494,0.971885813148789
-MCD,2025-05-01,Before market open,Consumer Cyclical,228572.758016,314.5,0.2554,0.2482,0.9718089271730618
-AAON,2025-05-01,Before market open,Industrials,7421.85728,89.11,0.5957,0.5786,0.9712942756421017
-AX,2025-04-30,After market close,Financial Services,3624.612864,63.94,0.4951,0.477,0.9634417289436478
-BLDR,2025-05-01,Before market open,Industrials,13607.074816,120.24,0.5371,0.5154,0.9595978402532116
-ANSS,2025-04-30,After market close,Technology,28213.362688,319.82,0.4092,0.3921,0.9582111436950147
-NFG,2025-04-30,After market close,Energy,6952.598016,77.65,0.2838,0.2719,0.9580690627202254
-OSIS,2025-05-01,Before market open,Technology,3439.488768,203.12,0.5489,0.5229,0.9526325378028785
-GL,2025-04-30,After market close,Financial Services,10267.16672,123.97,0.4353,0.4131,0.9490006891798759
-MYRG,2025-04-30,After market close,Industrials,1974.061312,125.63,0.6114,0.5802,0.9489695780176644
-RDN,2025-04-30,After market close,Financial Services,4510.566912,31.62,0.3372,0.3182,0.9436536180308421
-ASH,2025-04-30,After market close,Basic Materials,2566.277888,53.48,0.5756,0.5393,0.9369353717859624
-PWR,2025-05-01,Before market open,Industrials,43395.391488,292.38,0.516,0.4811,0.9323643410852713
-INVH,2025-04-30,After market close,Real Estate,20954.468352,33.65,0.294,0.2739,0.9316326530612244
-HAYW,2025-05-01,Before market open,Industrials,2881.812736,13.25,0.5658,0.5267,0.9308943089430893
-NNN,2025-05-01,Before market open,Real Estate,7730.077696,40.8,0.2689,0.2448,0.9103756043138714
-RUSHA,2025-04-30,After market close,Consumer Cyclical,4226.627328,50.89,0.4597,0.4138,0.9001522732216664
-PSA,2025-04-30,After market close,Real Estate,52700.524544,292.99,0.3239,0.2914,0.8996603890089533
-CGNX,2025-04-30,After market close,Technology,4623.800832,26.8,0.6779,0.6093,0.8988051335005163
-EG,2025-04-30,After market close,Financial Services,15307.041792,359.29,0.3422,0.3073,0.8980128579777908
-CCI,2025-04-30,After market close,Real Estate,46051.500032,103.7,0.342,0.3054,0.8929824561403509
-IDA,2025-05-01,Before market open,Utilities,6379.245056,117.56,0.2317,0.2056,0.8873543375053949
-HUBB,2025-05-01,Before market open,Industrials,19456.786432,359.47,0.4703,0.4147,0.8817775887731236
-AM,2025-04-30,After market close,Energy,8101.737984,16.92,0.3717,0.3257,0.8762442830239441
-DINO,2025-05-01,Before market open,Energy,5752.090112,30.53,0.6314,0.545,0.8631612290148877
-PTC,2025-04-30,After market close,Technology,18646.60992,153.65,0.4435,0.3822,0.8617812852311161
-EXC,2025-05-01,Before market open,Utilities,47347.42528,46.85,0.2624,0.2251,0.8578506097560975
-AWK,2025-04-30,After market close,Utilities,28668.567552,145.86,0.2679,0.2292,0.8555431131019036
-EL,2025-05-01,Before market open,Consumer Defensive,21568.512,59.59,0.7466,0.6366,0.8526654165550496
-WCC,2025-05-01,Before market open,Industrials,7952.464384,161.67,0.6871,0.5852,0.8516955319458595
-HOG,2025-05-01,Before market open,Consumer Cyclical,2773.421312,23.16,0.7016,0.5957,0.8490592930444698
-MAA,2025-04-30,After market close,Real Estate,19154.167808,157.49,0.3221,0.2728,0.8469419434958088
-DTE,2025-05-01,Before market open,Utilities,28429.965312,136.76,0.2642,0.2235,0.8459500378501136
-APD,2025-05-01,Before market open,Basic Materials,60311.01952,270.93,0.4232,0.3571,0.8438090737240075
-RYN,2025-04-30,After market close,Real Estate,3868.201984,24.52,0.3376,0.2842,0.841824644549763
-IRM,2025-05-01,Before market open,Real Estate,26449.780736,88.27,0.47,0.3956,0.8417021276595745
-CARR,2025-05-01,Before market open,Industrials,54033.809408,60.82,0.4629,0.3867,0.8353856124432923
-ICE,2025-05-01,Before market open,Financial Services,96498.425856,166.33,0.2955,0.2468,0.8351945854483925
-EQIX,2025-04-30,After market close,Real Estate,84197.105664,851.65,0.383,0.3191,0.8331592689295039
-CWEN,2025-04-30,After market close,Utilities,5858.34752,29.7,0.4252,0.3534,0.8311382878645343
-SW,2025-05-01,Before market open,Consumer Cyclical,21933.430784,42.35,0.5485,0.4538,0.8273473108477666
-HGV,2025-05-01,Before market open,Consumer Cyclical,3183.264768,33.94,0.6105,0.5048,0.8268632268632269
-CRK,2025-04-30,After market close,Energy,5539.080704,18.91,0.7701,0.6361,0.825996623815089
-PBF,2025-05-01,Before market open,Energy,1986.83264,17.22,0.8244,0.678,0.8224163027656478
-IEX,2025-05-01,Before market open,Industrials,13142.406144,172.2,0.4147,0.338,0.8150470219435737
-MTRN,2025-05-01,Before market open,Basic Materials,1727.795072,83.16,0.469,0.3815,0.8134328358208955
-WD,2025-05-01,Before market open,Financial Services,2599.926016,77.5,0.43,0.3483,0.81
-MGM,2025-04-30,After market close,Consumer Cyclical,8901.638144,31.8,0.646,0.5208,0.8061919504643963
-IDXX,2025-05-01,Before market open,Healthcare,35061.522432,436.97,0.4549,0.3656,0.8036931193668937
-CTSH,2025-04-30,After market close,Technology,36265.521152,73.29,0.4365,0.3504,0.8027491408934707
-SHAK,2025-05-01,Before market open,Consumer Cyclical,3958.056704,88.26,0.7543,0.6043,0.8011401299217817
-LXP,2025-05-01,Before market open,Real Estate,2339.810816,7.89,0.3852,0.3082,0.8001038421599169
-APTV,2025-05-01,Before market open,Consumer Cyclical,13227.592704,57.65,0.6235,0.4971,0.7972734562951082
-OGN,2025-05-01,Before market open,Healthcare,3335.293696,13.16,0.6876,0.5453,0.7930482838859803
-CNH,2025-05-01,Before market open,Industrials,14489.803776,11.61,0.5823,0.4564,0.7837884252103725
-TNC,2025-04-30,After market close,Industrials,1357.055488,72.89,0.3674,0.2879,0.7836145890038105
-AR,2025-04-30,After market close,Energy,10830.07488,36.18,0.7285,0.5697,0.7820178448867535
-BDC,2025-05-01,Before market open,Technology,4099.375104,102.75,0.6268,0.4892,0.780472239948947
-BAX,2025-05-01,Before market open,Healthcare,15987.841024,30.98,0.5577,0.435,0.7799892415277031
-BR,2025-05-01,Before market open,Technology,28365.40416,239.68,0.3517,0.2708,0.76997441000853
-KEX,2025-05-01,Before market open,Industrials,5483.16416,95.97,0.4997,0.3844,0.7692615569341605
-MSFT,2025-04-30,After market close,Technology,2938355.05664,394.04,0.4012,0.3085,0.7689431704885343
-VICI,2025-04-30,After market close,Real Estate,33835.536384,32.26,0.2798,0.2138,0.7641172265904217
-RWT,2025-04-30,After market close,Real Estate,825.824448,6.22,0.5492,0.4174,0.7600145666423889
-VNT,2025-05-01,Before market open,Technology,4718.059008,31.32,0.5334,0.4047,0.7587176602924635
-THG,2025-04-30,After market close,Financial Services,5986.144768,165.99,0.3634,0.2752,0.7572922399559714
-GTLS,2025-05-01,Before market open,Industrials,6065.487872,135.87,0.8834,0.6674,0.7554901516866652
-D,2025-05-01,Before market open,Utilities,46343.450624,54.31,0.337,0.2546,0.7554896142433234
-KIM,2025-05-01,Before market open,Real Estate,13576.389632,20.08,0.3762,0.2834,0.7533227006911217
-AEIS,2025-04-30,After market close,Industrials,3690.689792,97.23,0.8459,0.6368,0.7528076604799622
-AGCO,2025-05-01,Before market open,Industrials,6356.625408,85.23,0.6161,0.4628,0.7511767570199643
-ALL,2025-04-30,After market close,Financial Services,52600.926208,198.79,0.4049,0.304,0.7508026673252655
-ARW,2025-05-01,Before market open,Technology,5775.942656,111.38,0.5022,0.3769,0.7504978096375946
-HWM,2025-05-01,Before market open,Industrials,56050.622464,137.5,0.5987,0.447,0.7466176716218473
-HST,2025-04-30,After market close,Real Estate,9921.148928,14.03,0.5126,0.3779,0.737222005462349
-H,2025-05-01,Before market open,Consumer Cyclical,10753.017856,113.35,0.5964,0.4395,0.7369215291750503
-AFL,2025-04-30,After market close,Financial Services,59319.17312,108.6,0.3606,0.2651,0.7351636161952302
-META,2025-04-30,After market close,Communication Services,1399653.531648,554.44,0.6551,0.4797,0.7322546176156312
-MTG,2025-04-30,After market close,Financial Services,6041.347584,24.68,0.3859,0.2817,0.729981860585644
-TWI,2025-04-30,After market close,Industrials,468.225856,7.33,0.8161,0.593,0.7266266388922925
-AME,2025-05-01,Before market open,Industrials,39130.079232,167.8,0.3859,0.2801,0.7258357087328323
-MA,2025-05-01,Before market open,Financial Services,495934.01344,539.68,0.3936,0.2844,0.7225609756097561
-VAL,2025-05-01,Before market open,Energy,2295.334912,33.46,0.9295,0.67,0.720817643894567
-SKT,2025-04-30,After market close,Real Estate,3567.026432,31.1075,0.4609,0.3292,0.7142547190279888
-WHD,2025-04-30,After market close,Energy,2710.020096,39.67,0.7306,0.5183,0.7094169176019709
-CFR,2025-05-01,Before market open,Financial Services,7555.968,117.63,0.5009,0.3548,0.7083250149730485
-MORN,2025-04-30,After market close,Financial Services,12178.357248,282.33,0.4623,0.3264,0.7060350421804024
-GNW,2025-04-30,After market close,Financial Services,2852.930048,6.87,0.5046,0.3548,0.7031311930241775
-AVB,2025-04-30,After market close,Real Estate,29894.639616,207.18,0.3818,0.2683,0.7027239392352017
-ALB,2025-04-30,After market close,Basic Materials,6888.46592,59.46,0.8963,0.6273,0.6998772732344081
-IRT,2025-04-30,After market close,Real Estate,4603.685888,19.42,0.374,0.2607,0.6970588235294117
-NLY,2025-04-30,After market close,Real Estate,11724.034048,19.62,0.4043,0.2814,0.6960178085580014
-PRU,2025-04-30,After market close,Financial Services,36403.195904,104.03,0.5072,0.3484,0.6869085173501577
-WH,2025-04-30,After market close,Consumer Cyclical,6609.317376,86.1,0.5169,0.3549,0.6865931514799767
-ATI,2025-05-01,Before market open,Industrials,7670.89664,53.77,0.7885,0.5405,0.6854787571337984
-WEX,2025-04-30,After market close,Technology,5060.481024,131.75,0.7864,0.5335,0.6784079348931841
-NVRI,2025-05-01,Before market open,Industrials,551.060544,6.81,0.8776,0.5898,0.672060164083865
-LLY,2025-05-01,Before market open,Healthcare,807247.21664,885.2,0.5581,0.3728,0.6679806486292779
-FORM,2025-04-30,After market close,Technology,2168.907264,27.91,1.0012,0.6589,0.6581102676787854
-AAMI,2025-05-01,Before market open,Financial Services,998.566144,26.69,0.5329,0.3482,0.6534058922874836
-QCOM,2025-04-30,After market close,Technology,164196.7616,146.88,0.6648,0.4323,0.6502707581227437
-ITT,2025-05-01,Before market open,Industrials,11094.303744,136.89,0.5701,0.3688,0.6469040519207157
-LIN,2025-05-01,Before market open,Basic Materials,214337.912832,450.58,0.3641,0.2291,0.6292227410052184
-AIT,2025-05-01,Before market open,Industrials,9336.429568,242.37,0.5889,0.366,0.6214977075904228
-KLAC,2025-04-30,After market close,Technology,93378.363392,687.95,0.719,0.442,0.6147426981919333
-MET,2025-04-30,After market close,Financial Services,51344.15872,76.42,0.5583,0.3392,0.6075586602185205
-ESAB,2025-05-01,Before market open,Industrials,7281.95072,118.5,0.5607,0.3294,0.5874799357945426
-PH,2025-05-01,Before market open,Industrials,77910.54848,602.74,0.6589,0.3863,0.5862801639095462
-TRGP,2025-05-01,Before market open,Energy,37185.273856,177.11,0.6731,0.394,0.585351359381964
-MGY,2025-04-30,After market close,Energy,3983.785216,21.31,0.7238,0.4229,0.5842774247029566
-UDR,2025-04-30,After market close,Real Estate,15783.81824,41.24,0.4117,0.2336,0.5674034491134321
-KKR,2025-05-01,Before market open,Financial Services,105450.528768,114.35,0.8732,0.4842,0.554512139257902
-FTV,2025-05-01,Before market open,Technology,23685.95968,69.09,0.4876,0.27,0.553732567678425
-JHG,2025-05-01,Before market open,Financial Services,5232.501248,33.36,0.6627,0.3077,0.4643126603289573
-ACR,2025-04-30,After market close,Real Estate,142.929696,19.16,,,
-ACT,2025-04-30,After market close,Financial Services,5418.284544,35.5,,,
-AGI,2025-04-30,After market close,Basic Materials,11993.971712,28.13,,,
-AGIO,2025-05-01,Before market open,Healthcare,1719.502336,29.1,,,
-AIN,2025-04-30,After market close,Consumer Cyclical,2036.745088,66.56,0.5106,,
-ALKT,2025-04-30,After market close,Technology,2749.096704,26.42,,,
-ALNY,2025-05-01,Before market open,Healthcare,34070.362112,257.19,,,
-APG,2025-05-01,Before market open,Industrials,10449.440768,37.49,,,
-ARAY,2025-04-30,After market close,Healthcare,159.388048,1.62,,,
-ATNI,2025-04-30,After market close,Communication Services,273.862432,18.31,,,
-AWRE,2025-04-30,After market close,Technology,35.021184,1.61,,,
-AXS,2025-04-30,After market close,Financial Services,7575.645184,96.81,,,
-BE,2025-04-30,After market close,Industrials,4222.906368,18.91,,,
-BHC,2025-04-30,After market close,Healthcare,1958.418944,5.51,,,
-BNL,2025-04-30,After market close,Real Estate,3173.043456,16.05,,,
-BVN,2025-04-30,After market close,Basic Materials,3621.051904,14.18,,,
-CACC,2025-04-30,After market close,Financial Services,5740.345344,488.99,,,
-CCJ,2025-05-01,Before market open,Energy,19776.60416,45.42,,,
-CCO,2025-05-01,Before market open,Communication Services,488.777344,1.04,,,
-CDNA,2025-04-30,After market close,Healthcare,938.472256,18.13,,,
-CFLT,2025-04-30,After market close,Technology,8093.5424,24.055,,,
-CLMB,2025-04-30,After market close,Technology,499.579136,107.4,,,
-CMLS,2025-05-01,Before market open,Communication Services,4.067031,0.24,,,
-CMPR,2025-04-30,After market close,Industrials,1063.135424,42.68,,,
-COKE,2025-04-30,After market close,Consumer Defensive,11819.654144,1351.25,0.3114,,
-COMM,2025-05-01,Before market open,Technology,809.938112,3.88,,,
-CP,2025-04-30,After market close,Industrials,67667.5584,72.08,,,
-CRAI,2025-05-01,Before market open,Industrials,1104.39872,162.69,,,
-CSV,2025-04-30,After market close,Consumer Cyclical,626.5488,40.38,,,
-CTOS,2025-04-30,After market close,Industrials,957.991552,4.23,,,
-CWAN,2025-04-30,After market close,Technology,6455.657984,22.72,,,
-DALN,2025-05-01,Before market open,Communication Services,27.335386,5.15,,,
-DBRG,2025-05-01,Before market open,Financial Services,1583.878656,8.36,,,
-DNB,2025-05-01,Before market open,Financial Services,3987.900928,8.95,,,
-DRS,2025-05-01,Before market open,Industrials,9885.17376,37.15,,,
-DSGR,2025-05-01,Before market open,Industrials,1212.690688,26.31,,,
-ECVT,2025-05-01,Before market open,Basic Materials,701.968256,5.87,,,
-EEX,2025-05-01,Before market open,Communication Services,784.416192,3.99,,,
-FCPT,2025-04-30,After market close,Real Estate,2794.217472,27.85,0.2276,,
-FINW,2025-04-30,After market close,Financial Services,199.831968,15.53,,,
-FMBH,2025-04-30,After market close,Financial Services,801.72832,34.02,,,
-FOLD,2025-05-01,Before market open,Healthcare,2364.84864,7.52,,,
-FTAI,2025-04-30,After market close,Industrials,10984.773632,109.15,,,
-FTCI,2025-05-01,Before market open,Technology,41.047964,3.42,,,
-FULC,2025-05-01,Before market open,Healthcare,207.820304,3.65,,,
-GCI,2025-05-01,Before market open,Communication Services,499.3472,3.41,,,
-GFL,2025-04-30,After market close,Industrials,18445.037568,49.91,,,
-GH,2025-04-30,After market close,Healthcare,5829.17376,49.53,,,
-GTX,2025-05-01,Before market open,Consumer Cyclical,1880.243968,9.21,,,
-HBB,2025-04-30,After market close,Consumer Cyclical,272.883584,19.77,,,
-HLF,2025-04-30,After market close,Consumer Defensive,729.655168,7.07,,,
-HOOD,2025-04-30,After market close,Financial Services,43338.051584,49.37,,,
-HVT,2025-04-30,After market close,Consumer Cyclical,298.214432,18.38,,,
-HVT.A,2025-04-30,After market close,,,,,,
-ICLR,2025-04-30,After market close,Healthcare,12239.502336,149.31,,,
-IVT,2025-04-30,After market close,Real Estate,2165.014528,27.95,,,
-LAUR,2025-05-01,Before market open,Consumer Defensive,2993.500416,20.36,,,
-LUNG,2025-04-30,After market close,Healthcare,194.395424,5.27,,,
-LVWR,2025-05-01,Before market open,Consumer Cyclical,418.73648,1.91,,,
-MAX,2025-04-30,After market close,Communication Services,551.165952,8.75,,,
-MDGL,2025-05-01,Before market open,Healthcare,7372.799488,340.8,,,
-MDXG,2025-04-30,After market close,Healthcare,1013.87808,6.92,,,
-MEOH,2025-04-30,After market close,Basic Materials,2110.807936,31.78,,,
-MFIN,2025-04-30,After market close,Financial Services,204.70648,8.85,,,
-MRAM,2025-04-30,After market close,Technology,118.466136,5.3,,,
-MYE,2025-05-01,Before market open,Consumer Cyclical,391.608,10.54,,,
-NC,2025-04-30,After market close,Energy,259.38728,36.42,,,
-NREF,2025-05-01,Before market open,Real Estate,331.836192,14.49,,,
-NTGR,2025-04-30,After market close,Technology,694.217024,24.0,,,
-NWPX,2025-04-30,After market close,Industrials,425.163104,42.88,,,
-OCSL,2025-05-01,Before market open,Financial Services,1184.332288,14.62,,,
-OIS,2025-05-01,Before market open,Energy,217.681072,3.65,,,
-ONEW,2025-05-01,Before market open,Consumer Cyclical,244.859632,14.75,,,
-OPI,2025-04-30,After market close,Real Estate,28.628128,0.3839,,,
-OPK,2025-04-30,After market close,Healthcare,1094.323456,1.4,,,
-OTEX,2025-04-30,After market close,Technology,7175.97184,27.17,,,
-OWL,2025-05-01,Before market open,Financial Services,28301.611008,18.6,,,
-PGRE,2025-04-30,After market close,Real Estate,1021.212992,4.34,,,
-PHAT,2025-05-01,Before market open,Healthcare,298.791232,4.36,,,
-PSTL,2025-04-30,After market close,Real Estate,399.593792,13.2,,,
-RBLX,2025-05-01,Before market open,Communication Services,45476.261888,66.4,,,
-RM,2025-04-30,After market close,Financial Services,340.295328,33.91,,,
-RSI,2025-04-30,After market close,Consumer Cyclical,2768.660224,12.36,,,
-RUSHB,2025-04-30,After market close,Consumer Cyclical,4182.90176,58.33,,,
-RYI,2025-04-30,After market close,Industrials,744.673984,22.91,,,
-SACH,2025-05-01,Before market open,Real Estate,48.7294,1.03,,,
-SIRI,2025-05-01,Before market open,Communication Services,7358.990848,21.73,,,
-SNBR,2025-04-30,After market close,Consumer Cyclical,176.524512,7.59,,,
-SNDL,2025-05-01,Before market open,Consumer Defensive,383.368064,1.48,,,
-SPOK,2025-04-30,After market close,Healthcare,292.808448,14.42,,,
-SRI,2025-04-30,After market close,Consumer Cyclical,109.710464,3.94,,,
-STNG,2025-05-01,Before market open,Energy,1881.352832,37.8,,,
-TDOC,2025-04-30,After market close,Healthcare,1260.248832,7.33,,,
-TRI,2025-05-01,Before market open,Industrials,83772.45696,184.3,,,
-TROX,2025-04-30,After market close,Basic Materials,857.279424,5.49,,,
-TRP,2025-05-01,Before market open,Energy,52418.838528,50.22,,,
-TS,2025-04-30,After market close,Energy,18001.135616,33.74,,,
-TSLX,2025-04-30,After market close,Financial Services,1950.700928,20.88,,,
-UDMY,2025-04-30,After market close,Consumer Defensive,1021.782016,6.91,,,
-UFI,2025-04-30,After market close,Consumer Cyclical,95.059824,5.18,,,
-UIS,2025-04-30,After market close,Technology,282.140352,3.96,,,
-UTZ,2025-05-01,Before market open,Consumer Defensive,1143.76128,13.37,,,
-W,2025-05-01,Before market open,Consumer Cyclical,3828.781824,31.18,,,
-WAY,2025-04-30,After market close,Healthcare,6398.889472,37.03,,,
-WHG,2025-04-30,After market close,Financial Services,156.640656,16.77,,,
-XFOR,2025-05-01,Before market open,Healthcare,25.093724,4.35,,,
+SEM,2025-05-01,After market close,Healthcare,2352.285184,18.24,0.4112,0.7907,1.9229085603112839
+ATEN,2025-05-01,After market close,Technology,1217.259776,16.48,0.4373,0.7269,1.6622455979876514
+PRDO,2025-05-01,After market close,Consumer Defensive,1649.480704,25.12,0.2997,0.4663,1.5558892225558891
+HOLX,2025-05-01,After market close,Healthcare,12929.41312,58.2,0.2616,0.3827,1.462920489296636
+WEN,2025-05-02,Before market open,Consumer Cyclical,2450.962688,12.5,0.39,0.5168,1.3251282051282052
+CI,2025-05-02,Before market open,Healthcare,90869.981184,340.04,0.2454,0.3184,1.2974735126324368
+VIAV,2025-05-01,After market close,Technology,2365.758976,10.58,0.4304,0.5496,1.2769516728624535
+TRUP,2025-05-01,After market close,Financial Services,1548.361088,36.6,0.6363,0.8012,1.2591544868772593
+PCTY,2025-05-01,After market close,Technology,10851.058688,192.1,0.3682,0.4631,1.2577403585008147
+CART,2025-05-01,After market close,Consumer Cyclical,10448.176128,39.89,0.433,0.5288,1.2212471131639724
+MSEX,2025-05-01,After market close,Utilities,1123.595648,63.12,0.2635,0.313,1.1878557874762807
+CNK,2025-05-02,Before market open,Communication Services,3524.598784,29.91,0.3279,0.3894,1.1875571820677036
+EXPO,2025-05-01,After market close,Industrials,3949.940736,78.68,0.2701,0.3165,1.171788226582747
+NVST,2025-05-01,After market close,Healthcare,2813.551872,16.08,0.5633,0.65,1.153914432806675
+PRLB,2025-05-02,Before market open,Industrials,850.987456,35.16,0.552,0.6222,1.1271739130434781
+OHI,2025-05-01,After market close,Real Estate,11359.198208,39.05,0.2301,0.2591,1.126032159930465
+X,2025-05-01,After market close,Basic Materials,9839.560704,43.71,0.6686,0.7526,1.125635656595872
+LUMN,2025-05-01,After market close,Communication Services,3608.352,3.54,0.854,0.9535,1.1165105386416863
+AIG,2025-05-01,After market close,Financial Services,47192.20736,81.52,0.3807,0.4155,1.0914105594956658
+DXCM,2025-05-01,After market close,Healthcare,27549.44,71.38,0.5389,0.5861,1.087585822972722
+DUOL,2025-05-01,After market close,Technology,18173.48096,389.48,0.7358,0.7934,1.0782821418863822
+CTRE,2025-05-01,After market close,Real Estate,5455.3344,29.27,0.2418,0.259,1.0711331679073615
+GDYN,2025-05-01,After market close,Technology,1180.444672,14.16,0.6166,0.6549,1.0621148232241324
+BJRI,2025-05-01,After market close,Consumer Cyclical,747.3696,33.29,0.5288,0.5536,1.0468986384266261
+ASIX,2025-05-02,Before market open,Basic Materials,571.110464,21.42,0.5422,0.5671,1.045924013279233
+LMAT,2025-05-01,After market close,Healthcare,2038.918656,90.74,0.3887,0.4057,1.0437355286853616
+ED,2025-05-01,After market close,Utilities,40544.11264,112.75,0.2346,0.2414,1.0289855072463767
+GDDY,2025-05-01,After market close,Technology,26570.30144,188.33,0.4143,0.4165,1.0053101617185614
+AMGN,2025-05-01,After market close,Healthcare,152574.60736,290.92,0.323,0.3232,1.0006191950464396
+FLR,2025-05-02,Before market open,Industrials,6011.71968,34.89,0.6033,0.5972,0.9898889441405603
+LYV,2025-05-01,After market close,Communication Services,30745.378816,132.45,0.4771,0.469,0.9830224271641165
+CBOE,2025-05-02,Before market open,Financial Services,23163.342848,221.8,0.2622,0.2561,0.9767353165522502
+MHK,2025-05-01,After market close,Consumer Cyclical,6654.785536,106.35,0.5227,0.4941,0.9452841017792232
+DLB,2025-05-01,After market close,Industrials,7342.007808,76.79,0.3862,0.3616,0.9363024339720352
+CSR,2025-05-01,After market close,Real Estate,1065.202944,60.36,0.2931,0.2743,0.9358580689184577
+AES,2025-05-01,After market close,Utilities,7083.48416,9.8241,0.5296,0.4886,0.922583081570997
+SPXC,2025-05-01,After market close,Industrials,6393.258496,134.15,0.5186,0.4738,0.9136135750096415
+AEE,2025-05-01,After market close,Utilities,26499.79904,99.24,0.2478,0.2262,0.9128329297820824
+COHU,2025-05-01,After market close,Technology,747.176256,16.0,0.7524,0.6825,0.9070972886762361
+TILE,2025-05-02,Before market open,Consumer Cyclical,1104.760832,18.8,0.4509,0.4065,0.9015302727877577
+BIO,2025-05-01,After market close,Healthcare,6686.430208,244.08,0.5546,0.4992,0.9001081860800577
+ABNB,2025-05-01,After market close,Consumer Cyclical,77052.379136,121.92,0.5956,0.5334,0.8955674949630624
+CPT,2025-05-01,After market close,Real Estate,12493.389824,113.8,0.3392,0.3032,0.893867924528302
+HR,2025-05-01,After market close,Real Estate,5634.88,15.53,0.2782,0.2477,0.8903666427030913
+RYAN,2025-05-01,After market close,Financial Services,17004.977152,65.51,0.4382,0.388,0.8854404381560932
+FND,2025-05-01,After market close,Consumer Cyclical,7774.533632,71.44,0.6824,0.5916,0.8669402110199297
+TEX,2025-05-02,Before market open,Industrials,2412.544768,35.2,0.667,0.573,0.8590704647676161
+CUZ,2025-05-01,After market close,Real Estate,4663.555072,27.54,0.4034,0.3463,0.8584531482399603
+ATR,2025-05-01,After market close,Healthcare,9781.4528,149.5,0.3597,0.3087,0.8582151793160966
+RGA,2025-05-01,After market close,Financial Services,12354.079744,187.31,0.4742,0.4057,0.8555461830451286
+MSI,2025-05-01,After market close,Technology,73323.913216,440.39,0.3311,0.2825,0.8532165508909694
+SYK,2025-05-01,After market close,Healthcare,142747.860992,373.92,0.3711,0.3126,0.8423605497170574
+WSC,2025-05-01,After market close,Industrials,4690.289664,25.12,0.7468,0.6251,0.8370380289234065
+NVEE,2025-05-01,After market close,Industrials,1209.870592,18.55,0.65,0.5418,0.8335384615384615
+MTZ,2025-05-01,After market close,Industrials,10595.085312,127.32,0.6619,0.5467,0.8259555824142618
+NVT,2025-05-02,Before market open,Industrials,9283.823616,54.91,0.6992,0.569,0.813787185354691
+XOM,2025-05-02,Before market open,Energy,457529.163776,105.63,0.405,0.3256,0.8039506172839506
+MTD,2025-05-01,After market close,Healthcare,22020.182016,1070.57,0.5602,0.4429,0.7906104962513388
+BEN,2025-05-02,Before market open,Financial Services,9845.958656,18.76,0.4846,0.3777,0.7794056954189021
+KWR,2025-05-01,After market close,Basic Materials,1873.29216,105.94,0.6175,0.4789,0.7755465587044533
+AJG,2025-05-01,After market close,Financial Services,81231.675392,320.69,0.359,0.2772,0.7721448467966574
+ES,2025-05-01,After market close,Utilities,21687.20384,59.48,0.3442,0.2605,0.7568274259151656
+AMZN,2025-05-01,After market close,Consumer Cyclical,2018478.522368,184.42,0.5857,0.4375,0.7469694382789824
+ETN,2025-05-02,Before market open,Industrials,118181.036032,294.37,0.5829,0.4275,0.7334019557385486
+SNCY,2025-05-02,Before market open,Industrials,514.19648,9.8,1.0499,0.7657,0.7293075531002953
+BMRN,2025-05-01,After market close,Healthcare,12024.89344,63.69,0.5194,0.3756,0.7231420870234887
+RHP,2025-05-01,After market close,Real Estate,5285.461504,87.95,0.4773,0.3412,0.7148543892729939
+CUBE,2025-05-01,After market close,Real Estate,9423.741952,40.67,0.3845,0.2738,0.7120936280884265
+JNPR,2025-05-01,After market close,Technology,12150.96832,36.32,0.1997,0.1417,0.7095643465197796
+IR,2025-05-01,After market close,Industrials,30718.95552,75.43,0.5204,0.3654,0.702152190622598
+SM,2025-05-01,After market close,Energy,2709.315584,22.79,1.0383,0.7102,0.6840026967157855
+WLK,2025-05-02,Before market open,Basic Materials,11855.679488,92.43,0.5854,0.3999,0.6831226511786812
+CVX,2025-05-02,Before market open,Energy,238008.057856,136.06,0.4745,0.3194,0.6731296101159115
+EOG,2025-05-01,After market close,Energy,61596.434432,110.33,0.5448,0.3665,0.6727239353891337
+PEB,2025-05-01,After market close,Real Estate,1084.780928,9.05,0.8372,0.5616,0.670807453416149
+COLM,2025-05-01,After market close,Consumer Cyclical,3435.35488,62.17,0.6455,0.4315,0.6684740511231604
+OLN,2025-05-01,After market close,Basic Materials,2491.54688,21.62,0.9009,0.5985,0.6643356643356644
+PIPR,2025-05-02,Before market open,Financial Services,4314.636288,241.12,0.6599,0.4345,0.6584330959236248
+OLED,2025-05-01,After market close,Technology,6717.13792,125.63,0.8889,0.5754,0.6473169085386433
+TROW,2025-05-02,Before market open,Financial Services,19583.965184,88.55,0.5389,0.3471,0.6440898125811839
+MPWR,2025-05-01,After market close,Technology,28797.622272,593.1,1.0734,0.6607,0.6155207751071362
+APO,2025-05-02,Before market open,Financial Services,78663.483392,136.48,0.8124,0.4791,0.5897341211225997
+APLE,2025-05-01,After market close,Real Estate,2799.415808,11.77,0.5766,0.3236,0.5612209503988901
+DD,2025-05-02,Before market open,Basic Materials,27641.792512,65.99,0.7105,0.3879,0.5459535538353273
+AAPL,2025-05-01,After market close,Technology,3204514.578432,212.5,0.6585,0.3456,0.5248291571753987
+ACCO,2025-05-01,After market close,Industrials,347.782528,3.86,,,
+ADPT,2025-05-01,After market close,Healthcare,1118.109056,7.36,,,
+ALHC,2025-05-01,After market close,Healthcare,3217.02272,17.72,,,
+ALSN,2025-05-01,After market close,Consumer Cyclical,7959.284224,92.24,,,
+AMH,2025-05-01,After market close,Real Estate,15972.036608,37.39,0.3494,,
+AMRX,2025-05-02,Before market open,Healthcare,3602.962176,7.66,,,
+AMWL,2025-05-01,After market close,Healthcare,97.861424,7.33,,,
+ARDX,2025-05-01,After market close,Healthcare,1303.807232,5.505,,,
+ASUR,2025-05-01,After market close,Technology,264.938688,10.16,,,
+ATEC,2025-05-01,After market close,Healthcare,1616.065152,10.98,,,
+ATMU,2025-05-02,Before market open,Industrials,2914.729216,34.67,,,
+AXTI,2025-05-01,After market close,Technology,61.5573,1.4,,,
+BBAI,2025-05-01,After market close,Technology,965.283392,3.41,,,
+BBU,2025-05-02,Before market open,Industrials,1949.437824,22.11,,,
+BEP,2025-05-02,Before market open,Utilities,14399.13472,23.04,,,
+BFLY,2025-05-02,Before market open,Healthcare,568.439808,2.34,,,
+BIO.B,2025-05-01,After market close,,,,,,
+BOOM,2025-05-01,After market close,Industrials,132.55072,6.49,,,
+BRFH,2025-05-01,After market close,Consumer Defensive,47.1141,2.62,,,
+BTSG,2025-05-02,Before market open,Healthcare,3133.771008,17.53,,,
+BZH,2025-05-01,After market close,Consumer Cyclical,609.396544,19.56,,,
+CABO,2025-05-01,After market close,Communication Services,1474.35648,267.27,0.4763,,
+CERS,2025-05-01,After market close,Healthcare,248.507984,1.32,,,
+CIO,2025-05-02,Before market open,Real Estate,211.880544,5.08,,,
+CNI,2025-05-01,After market close,Industrials,59984.723968,96.82,,,
+COOK,2025-05-01,After market close,Consumer Cyclical,193.360528,1.46,,,
+CPS,2025-05-01,After market close,Consumer Cyclical,267.08208,14.67,,,
+CRTO,2025-05-02,Before market open,Communication Services,1792.626176,34.06,,,
+CTO,2025-05-01,After market close,Real Estate,596.11808,18.27,,,
+CWST,2025-05-01,After market close,Industrials,7446.14912,117.45,,,
+DRH,2025-05-01,After market close,Real Estate,1553.334016,7.34,0.5631,,
+EGO,2025-05-01,After market close,Basic Materials,3825.851648,18.84,,,
+EIG,2025-05-01,After market close,Financial Services,1166.692224,48.59,0.2879,,
+ELME,2025-05-01,After market close,Real Estate,1402.604928,15.57,0.2909,,
+EXAS,2025-05-01,After market close,Healthcare,8894.140416,45.64,,,
+FET,2025-05-01,After market close,Energy,187.275744,14.65,,,
+FIVN,2025-05-01,After market close,Technology,1912.179456,25.14,,,
+FLGT,2025-05-02,Before market open,Healthcare,532.433312,17.35,,,
+FUBO,2025-05-02,Before market open,Communication Services,1000.527616,3.0,,,
+GSIT,2025-05-01,After market close,Technology,80.389656,3.22,,,
+HL,2025-05-01,After market close,Basic Materials,3458.735616,5.72,,,
+HTGC,2025-05-01,After market close,Financial Services,3124.230144,17.9,,,
+HUN,2025-05-01,After market close,Basic Materials,2322.997504,13.31,,,
+ICFI,2025-05-01,After market close,Industrials,1570.09856,84.96,,,
+IMO,2025-05-02,Before market open,Energy,34650.693632,67.38,,,
+INTT,2025-05-02,Before market open,Technology,76.96192,6.2,,,
+IRTC,2025-05-01,After market close,Healthcare,3466.225152,106.89,,,
+JOUT,2025-05-02,Before market open,Consumer Cyclical,245.110608,22.83,,,
+KURA,2025-05-01,After market close,Healthcare,524.246592,6.56,,,
+LBTYA,2025-05-02,Before market open,Communication Services,3842.011136,10.95,,,
+LBTYB,2025-05-02,Before market open,Communication Services,3898.30912,10.7,,,
+LBTYK,2025-05-02,Before market open,Communication Services,3873.417984,11.34,,,
+LOCO,2025-05-01,After market close,Consumer Cyclical,283.440352,9.35,,,
+MERC,2025-05-01,After market close,Basic Materials,281.52608,4.47,,,
+MGA,2025-05-02,Before market open,Consumer Cyclical,9863.54176,34.76,,,
+MSTR,2025-05-01,After market close,Technology,104143.224832,380.11,,,
+MT,2025-05-02,Before market open,Basic Materials,22907.164672,29.69,,,
+NPKI,2025-05-01,After market close,Energy,522.789152,5.78,,,
+OFS,2025-05-01,After market close,Financial Services,117.635312,8.89,,,
+OSPN,2025-05-01,After market close,Technology,560.459136,14.87,,,
+PAX,2025-05-02,Before market open,Financial Services,1653.616384,10.48,,,
+PCOR,2025-05-01,After market close,Technology,9427.518464,64.09,,,
+PRO,2025-05-01,After market close,Technology,805.371072,17.08,,,
+PWP,2025-05-02,Before market open,Financial Services,1524.951808,17.17,,,
+RDDT,2025-05-01,After market close,Communication Services,21915.568128,116.57,,,
+RIOT,2025-05-01,After market close,Financial Services,2721.737728,7.24,,,
+RMAX,2025-05-01,After market close,Real Estate,252.914032,7.65,,,
+RMNI,2025-05-01,After market close,Technology,324.1008,3.53,,,
+ROKU,2025-05-01,After market close,Communication Services,9817.652224,68.18,,,
+RRR,2025-05-01,After market close,Consumer Cyclical,4355.965952,42.7,,,
+RZC,2025-05-01,After market close,,,25.68,,,
+SBFG,2025-05-01,After market close,Financial Services,126.694608,19.44,,,
+SKWD,2025-05-01,After market close,Financial Services,2160.510208,53.09,,,
+SVV,2025-05-01,After market close,Consumer Cyclical,1500.078848,9.59,,,
+TEAM,2025-05-01,After market close,Technology,60016.340992,228.31,,,
+TREE,2025-05-01,After market close,Financial Services,732.514176,51.59,,,
+TWLO,2025-05-01,After market close,Technology,14939.815936,96.71,,,
+ULCC,2025-05-01,After market close,Industrials,708.075392,2.98,,,
+UMH,2025-05-01,After market close,Real Estate,1467.030784,17.67,,,
+VEL,2025-05-01,After market close,Financial Services,651.178752,17.87,,,
+WK,2025-05-01,After market close,Technology,4147.465728,75.27,,,
+WLKP,2025-05-02,Before market open,Basic Materials,838.678656,23.39,,,
+WT,2025-05-02,Before market open,Financial Services,1283.589248,8.7,0.5358,,
+XHR,2025-05-02,Before market open,Real Estate,1147.2544,10.68,0.6423,,
+XYZ,2025-05-01,After market close,Technology,36001.284096,58.47,,,
+ZETA,2025-05-01,After market close,Technology,3206.86976,13.06,,,
+ZEUS,2025-05-01,After market close,Basic Materials,357.094784,32.25,,,
