@@ -1,21 +1,28 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-FRPT,2025-05-05,Before market open,Consumer Defensive,3724.619264,72.72,0.5459,0.8018,1.4687671734749952
-ZBH,2025-05-05,Before market open,Healthcare,20254.959616,101.82,0.2574,0.3771,1.465034965034965
-IART,2025-05-05,Before market open,Healthcare,1301.660928,16.44,0.5701,0.7963,1.3967724960533239
-HSIC,2025-05-05,Before market open,Healthcare,8000.033792,64.46,0.3263,0.37,1.1339258351210544
-TSN,2025-05-05,Before market open,Consumer Defensive,21653.03296,60.61,0.2808,0.3166,1.1274928774928774
-JBTM,2025-05-05,Before market open,Industrials,5568.612352,105.49,0.5819,0.5365,0.9219797216016498
-PK,2025-05-05,Before market open,Real Estate,2071.124736,10.04,0.6035,0.4263,0.7063794531897266
-CMI,2025-05-05,Before market open,Industrials,41302.24128,294.88,0.5133,0.3609,0.7030976037405027
-ON,2025-05-05,Before market open,Technology,17688.072192,39.6,0.9686,0.6171,0.6371051001445385
-L,2025-05-05,Before market open,Financial Services,18533.234688,86.31,0.377,0.236,0.6259946949602122
+IART,2025-05-05,Before market open,Healthcare,1301.660928,16.44,0.5791,0.9222,1.5924710758072873
+TGTX,2025-05-05,Before market open,Healthcare,6823.164416,45.37,0.4796,0.7325,1.5273144286905755
+FRPT,2025-05-05,Before market open,Consumer Defensive,3724.619264,72.72,0.567,0.7311,1.2894179894179896
+HSIC,2025-05-05,Before market open,Healthcare,8000.033792,64.46,0.3295,0.3912,1.1872534142640363
+ZBH,2025-05-05,Before market open,Healthcare,20254.959616,101.82,0.2579,0.3005,1.1651803024428071
+TSN,2025-05-05,Before market open,Consumer Defensive,21653.03296,60.61,0.2803,0.3063,1.0927577595433464
+JBTM,2025-05-05,Before market open,Industrials,5568.612352,105.49,0.5853,0.5088,0.8692977960020503
+PK,2025-05-05,Before market open,Real Estate,2071.124736,10.04,0.6083,0.4377,0.7195462765083018
+CMI,2025-05-05,Before market open,Industrials,41302.24128,294.88,0.5166,0.3659,0.7082849399922572
+ON,2025-05-05,Before market open,Technology,17688.072192,39.6,0.9838,0.6384,0.6489123805651554
+L,2025-05-05,Before market open,Financial Services,18533.234688,86.31,0.3818,0.2189,0.5733368255631222
+ALX,2025-05-05,Before market open,Real Estate,1097.09696,208.72,,,
 AOMR,2025-05-05,Before market open,Real Estate,224.426912,9.49,,,
 ARES,2025-05-05,Before market open,Financial Services,51296.862208,152.27,,,
 AXSM,2025-05-05,Before market open,Healthcare,5471.965696,112.24,,,
 BCRX,2025-05-05,Before market open,Healthcare,1868.227456,8.71,,,
 BNTX,2025-05-05,Before market open,Healthcare,25226.842112,102.43,,,
 CNA,2025-05-05,Before market open,Financial Services,12933.122048,47.44,,,
+ESCA,2025-05-05,Before market open,Consumer Cyclical,209.056144,14.69,,,
+IRMD,2025-05-05,Before market open,Healthcare,679.876416,52.94,,,
+NSSC,2025-05-05,Before market open,Industrials,865.625344,23.0,,,
+OCUL,2025-05-05,Before market open,Healthcare,1401.725696,8.53,,,
 RAND,2025-05-05,Before market open,Financial Services,55.59514,18.94,,,
 RLJ,2025-05-05,Before market open,Real Estate,1106.990336,7.11,,,
+RXRX,2025-05-05,Before market open,Healthcare,2316.679424,5.5,,,
 TWST,2025-05-05,Before market open,Healthcare,2340.709376,37.71,,,
 XGN,2025-05-05,Before market open,Healthcare,107.74656,6.14,,,
