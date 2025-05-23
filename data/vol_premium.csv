@@ -1,28 +1,15 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-AAP,2025-05-22,Before market open,Consumer Cyclical,1873.374336,34.16,0.543,0.7455,1.37292817679558
-RAMP,2025-05-21,After market close,Technology,1845.902848,28.85,0.4458,0.5546,1.2440556303275012
-BJ,2025-05-22,Before market open,Consumer Defensive,15516.109824,119.08,0.3382,0.399,1.1797752808988764
-URBN,2025-05-21,After market close,Consumer Cyclical,5522.583552,61.34,0.6582,0.5552,0.8435126101488909
-ENS,2025-05-21,After market close,Industrials,3765.421824,98.13,0.4366,0.3629,0.831195602382043
-RL,2025-05-22,Before market open,Consumer Cyclical,16915.979264,280.2,0.5413,0.4481,0.8278219102161463
-LPG,2025-05-22,Before market open,Energy,969.949952,23.41,0.5374,0.4328,0.8053591365835505
-CSWI,2025-05-22,Before market open,Industrials,5277.446144,324.68,0.5099,0.3422,0.671111982741714
-ADI,2025-05-22,Before market open,Technology,110215.790592,224.49,0.6595,0.3582,0.5431387414708113
-ARQQ,2025-05-22,Before market open,Technology,330.012064,24.63,,,
-ATAT,2025-05-22,Before market open,Consumer Cyclical,4170.453504,30.82,,,
-BBAR,2025-05-21,After market close,Financial Services,4627.956224,21.98,,,
-BORR,2025-05-21,After market close,Energy,385.287488,1.69,,,
-BZ,2025-05-22,Before market open,Communication Services,8032.75008,18.11,,,
-CLIR,2025-05-21,After market close,Industrials,37.219972,0.6781,,,
-DOMO,2025-05-21,After market close,Technology,343.746784,8.55,,,
-EDUC,2025-05-21,After market close,Communication Services,11.931204,1.3,,,
-FLX,2025-05-22,Before market open,Industrials,169.296288,2.33,,,
-LSPD,2025-05-22,Before market open,Technology,1576.71744,10.97,,,
-LX,2025-05-21,After market close,Financial Services,1458.848896,8.89,,,
-NNOX,2025-05-22,Before market open,Healthcare,334.112864,5.49,,,
-SNOW,2025-05-21,After market close,Technology,59843.989504,182.88,,,
-STG,2025-05-22,Before market open,Consumer Defensive,70.690008,5.4,,,
-TD,2025-05-22,Before market open,Financial Services,113482.252288,64.8,,,
-THR,2025-05-22,Before market open,Industrials,981.055744,29.7,,,
-TITN,2025-05-22,Before market open,Industrials,460.32688,20.63,,,
-ZM,2025-05-21,After market close,Technology,25083.9552,83.1,,,
+CVCO,2025-05-22,After market close,Consumer Cyclical,4000.404992,516.02,0.3362,0.4132,1.2290303390838786
+DECK,2025-05-22,After market close,Consumer Cyclical,19137.183744,123.36,0.5559,0.673,1.2106493973736285
+WDAY,2025-05-22,After market close,Technology,72773.828608,268.54,0.3974,0.438,1.1021640664318069
+ROST,2025-05-22,After market close,Consumer Cyclical,50064.973824,152.68,0.3064,0.3215,1.0492819843342036
+CPRT,2025-05-22,After market close,Industrials,58603.200512,61.09,0.2823,0.2902,1.0279844137442438
+ADSK,2025-05-22,After market close,Technology,63113.773056,292.93,0.3498,0.3442,0.9839908519153803
+INTU,2025-05-22,After market close,Technology,186207.8464,659.98,0.3534,0.3327,0.9414261460101868
+STEP,2025-05-22,After market close,Financial Services,6763.121152,56.24,0.5937,0.3987,0.6715512885295604
+BAH,2025-05-23,Before market open,Industrials,16018.060288,128.42,,,
+BULL,2025-05-22,After market close,Technology,6230.938624,12.59,,,
+ICG,2025-05-22,After market close,Technology,162.399344,2.43,,,
+LION,2025-05-22,After market close,,1914.243584,6.73,,,
+MNSO,2025-05-23,Before market open,Consumer Cyclical,6805.450752,20.77,,,
+SVM,2025-05-22,After market close,Basic Materials,841.399872,3.91,,,
