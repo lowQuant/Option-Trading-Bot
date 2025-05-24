@@ -1,15 +1,4 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-CVCO,2025-05-22,After market close,Consumer Cyclical,4000.404992,516.02,0.3362,0.4132,1.2290303390838786
-DECK,2025-05-22,After market close,Consumer Cyclical,19137.183744,123.36,0.5559,0.673,1.2106493973736285
-WDAY,2025-05-22,After market close,Technology,72773.828608,268.54,0.3974,0.438,1.1021640664318069
-ROST,2025-05-22,After market close,Consumer Cyclical,50064.973824,152.68,0.3064,0.3215,1.0492819843342036
-CPRT,2025-05-22,After market close,Industrials,58603.200512,61.09,0.2823,0.2902,1.0279844137442438
-ADSK,2025-05-22,After market close,Technology,63113.773056,292.93,0.3498,0.3442,0.9839908519153803
-INTU,2025-05-22,After market close,Technology,186207.8464,659.98,0.3534,0.3327,0.9414261460101868
-STEP,2025-05-22,After market close,Financial Services,6763.121152,56.24,0.5937,0.3987,0.6715512885295604
-BAH,2025-05-23,Before market open,Industrials,16018.060288,128.42,,,
-BULL,2025-05-22,After market close,Technology,6230.938624,12.59,,,
-ICG,2025-05-22,After market close,Technology,162.399344,2.43,,,
-LION,2025-05-22,After market close,,1914.243584,6.73,,,
-MNSO,2025-05-23,Before market open,Consumer Cyclical,6805.450752,20.77,,,
-SVM,2025-05-22,After market close,Basic Materials,841.399872,3.91,,,
+SKY,2025-05-27,Before market open,Consumer Cyclical,4826.075648,85.66,0.3284,0.542,1.6504263093788063
+AZO,2025-05-27,Before market open,Consumer Cyclical,64011.702272,3859.25,0.2065,0.281,1.3607748184019373
+ZH,2025-05-27,Before market open,Communication Services,346.427136,4.01,,,
