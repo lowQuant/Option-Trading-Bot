@@ -1,4 +1,9 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-SKY,2025-05-27,Before market open,Consumer Cyclical,4826.075648,85.66,0.3284,0.542,1.6504263093788063
-AZO,2025-05-27,Before market open,Consumer Cyclical,64011.702272,3859.25,0.2065,0.281,1.3607748184019373
-ZH,2025-05-27,Before market open,Communication Services,346.427136,4.01,,,
+SKY,2025-05-27,Before market open,Consumer Cyclical,4826.075648,85.66,0.3048,0.5669,1.8599081364829395
+AZO,2025-05-27,Before market open,Consumer Cyclical,64011.702272,3859.25,0.2072,0.2881,1.3904440154440156
+BLRX,2025-05-27,Before market open,Healthcare,13.61886,3.8,,,
+BNS,2025-05-27,Before market open,Financial Services,65004.208128,51.62,,,
+DLNG,2025-05-27,Before market open,Energy,133.7444,3.5,,,
+PDD,2025-05-27,Before market open,Consumer Cyclical,169279.062016,119.8,,,
+SHIP,2025-05-27,Before market open,Industrials,125.832448,5.93,,,
+ZH,2025-05-27,Before market open,Communication Services,356.204992,4.01,,,
