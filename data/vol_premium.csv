@@ -1,20 +1,3 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-NTAP,2025-05-29,After market close,Technology,20569.606144,99.67,0.2632,0.4605,1.7496200607902737
-COO,2025-05-29,After market close,Healthcare,16020.544512,80.12,0.2445,0.4115,1.6830265848670756
-GAP,2025-05-29,After market close,Consumer Cyclical,10635.283456,28.24,0.4134,0.6723,1.6262699564586358
-ULTA,2025-05-29,After market close,Consumer Cyclical,19042.932736,417.01,0.2839,0.4154,1.463191264529764
-DELL,2025-05-29,After market close,Technology,77759.2832,113.77,0.3929,0.5633,1.4336981420208703
-COST,2025-05-29,After market close,Consumer Defensive,449513.71776,1013.14,0.1983,0.2605,1.313666162380232
-AEO,2025-05-29,After market close,Consumer Cyclical,1937.10272,11.09,0.5344,0.6566,1.2286676646706587
-SCVL,2025-05-30,Before market open,Consumer Cyclical,521.757984,19.09,0.5334,0.647,1.212973378327709
-AMBA,2025-05-29,After market close,Technology,2646.587904,62.4,,,
-CGC,2025-05-30,Before market open,Healthcare,323.646592,1.77,,,
-ESTC,2025-05-29,After market close,Technology,9644.65152,92.37,,,
-MRVL,2025-05-29,After market close,Technology,55794.786304,64.59,,,
-NGL,2025-05-29,After market close,Energy,455.443232,3.45,,,
-PATH,2025-05-29,After market close,Technology,6921.178624,12.94,,,
-PD,2025-05-29,After market close,Technology,1483.896832,16.0,,,
-RRGB,2025-05-29,After market close,Consumer Cyclical,59.238068,3.34,,,
-TIGR,2025-05-30,Before market open,Financial Services,1503.229312,8.54,,,
-YTRA,2025-05-30,Before market open,Consumer Cyclical,56.349384,0.9002,,,
-ZS,2025-05-29,After market close,Technology,39245.983744,253.65,,,
+SAIC,2025-06-02,Before market open,Technology,5449.71008,115.31,0.2513,0.4723,1.879426979705531
+CPB,2025-06-02,Before market open,Consumer Defensive,10188.88704,34.17,0.2503,0.347,1.3863363963244104
