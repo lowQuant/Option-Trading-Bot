@@ -10,14 +10,14 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-05-30 21:51:06 EDT
+## 🕒 Last Updated: 2025-05-31 22:11:51 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | SAIC     | 2025-06-02 | Before market open | Technology         | $5.4B        | $115.31 | 25.13%       | 47.23%       | 1.88x         |
-|  1 | CPB      | 2025-06-02 | Before market open | Consumer Defensive | $10.2B       | $34.17  | 25.03%       | 34.70%       | 1.39x         |
+|  0 | SAIC     | 2025-06-02 | Before market open | Technology         | $5.4B        | $115.31 | 25.07%       | 49.99%       | 1.99x         |
+|  1 | CPB      | 2025-06-02 | Before market open | Consumer Defensive | $10.2B       | $34.17  | 24.30%       | 34.91%       | 1.44x         |
 
 ## 📝 Data Interpretation
 
