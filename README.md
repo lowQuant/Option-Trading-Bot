@@ -10,7 +10,7 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-05-31 22:11:51 EDT
+## 🕒 Last Updated: 2025-06-01 21:58:49 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
