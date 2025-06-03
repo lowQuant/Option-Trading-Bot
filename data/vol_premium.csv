@@ -1,3 +1,10 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-SAIC,2025-06-02,Before market open,Technology,5449.71008,115.31,0.2507,0.4999,1.9940167530913444
-CPB,2025-06-02,Before market open,Consumer Defensive,10150.116352,34.17,0.243,0.3491,1.4366255144032922
+SIG,2025-06-03,Before market open,Consumer Cyclical,2764.664576,66.51,0.4906,0.7366,1.5014268242967796
+DG,2025-06-03,Before market open,Consumer Defensive,21372.250112,97.225,0.3659,0.4774,1.3047280677780815
+OLLI,2025-06-03,Before market open,Consumer Defensive,6872.69376,111.45,0.4223,0.5249,1.2429552450864314
+DCI,2025-06-03,Before market open,Industrials,8267.059712,69.51,0.2367,0.2456,1.0376003379805663
+CRDO,2025-06-02,After market close,Technology,10638.032896,60.96,,,
+CTRN,2025-06-03,Before market open,Consumer Cyclical,223.581488,26.48,,,
+FERG,2025-06-03,Before market open,Industrials,36231.077888,182.23,,,
+NESR,2025-06-03,Before market open,Energy,609.582976,6.18,,,
+NIO,2025-06-03,Before market open,Consumer Cyclical,7875.929088,3.54,,,
