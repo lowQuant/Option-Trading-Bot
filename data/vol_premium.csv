@@ -1,10 +1,17 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-SIG,2025-06-03,Before market open,Consumer Cyclical,2764.664576,66.51,0.4906,0.7366,1.5014268242967796
-DG,2025-06-03,Before market open,Consumer Defensive,21372.250112,97.225,0.3659,0.4774,1.3047280677780815
-OLLI,2025-06-03,Before market open,Consumer Defensive,6872.69376,111.45,0.4223,0.5249,1.2429552450864314
-DCI,2025-06-03,Before market open,Industrials,8267.059712,69.51,0.2367,0.2456,1.0376003379805663
-CRDO,2025-06-02,After market close,Technology,10638.032896,60.96,,,
-CTRN,2025-06-03,Before market open,Consumer Cyclical,223.581488,26.48,,,
-FERG,2025-06-03,Before market open,Industrials,36231.077888,182.23,,,
-NESR,2025-06-03,Before market open,Energy,609.582976,6.18,,,
-NIO,2025-06-03,Before market open,Consumer Cyclical,7875.929088,3.54,,,
+CXM,2025-06-04,Before market open,Technology,2204.30976,8.205,0.3169,0.6154,1.9419375197223097
+GWRE,2025-06-03,After market close,Technology,18301.09184,215.23,0.2475,0.4798,1.9385858585858586
+HPE,2025-06-03,After market close,Technology,23237.230592,17.35,0.2959,0.5283,1.785400473132815
+DLTR,2025-06-04,Before market open,Consumer Defensive,20325.515264,91.24,0.2985,0.5307,1.7778894472361808
+THO,2025-06-04,Before market open,Consumer Cyclical,4384.508928,79.23,0.3267,0.5804,1.7765534129170495
+HQY,2025-06-03,After market close,Healthcare,8988.821504,102.81,0.3612,0.5056,1.399778516057586
+CRWD,2025-06-03,After market close,Technology,121737.412608,479.17,0.4165,0.4751,1.1406962785114048
+ASAN,2025-06-03,After market close,Technology,4473.16992,18.395,,,
+BASE,2025-06-03,After market close,Technology,1001.891072,18.35,,,
+GCO,2025-06-04,Before market open,Consumer Cyclical,240.921824,21.29,,,
+JFIN,2025-06-04,Before market open,Communication Services,788.802496,14.78,,,
+MAMA,2025-06-03,After market close,Consumer Defensive,319.59152,8.5,,,
+REVG,2025-06-04,Before market open,Industrials,1923.35104,36.55,,,
+SPWH,2025-06-03,After market close,Consumer Cyclical,88.826768,2.05,,,
+VBNK,2025-06-04,Before market open,Financial Services,375.917344,11.27,,,
+YEXT,2025-06-03,After market close,Technology,849.71744,6.685,,,
