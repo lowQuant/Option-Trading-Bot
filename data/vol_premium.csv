@@ -1,17 +1,23 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-CXM,2025-06-04,Before market open,Technology,2204.30976,8.205,0.3169,0.6154,1.9419375197223097
-GWRE,2025-06-03,After market close,Technology,18301.09184,215.23,0.2475,0.4798,1.9385858585858586
-HPE,2025-06-03,After market close,Technology,23237.230592,17.35,0.2959,0.5283,1.785400473132815
-DLTR,2025-06-04,Before market open,Consumer Defensive,20325.515264,91.24,0.2985,0.5307,1.7778894472361808
-THO,2025-06-04,Before market open,Consumer Cyclical,4384.508928,79.23,0.3267,0.5804,1.7765534129170495
-HQY,2025-06-03,After market close,Healthcare,8988.821504,102.81,0.3612,0.5056,1.399778516057586
-CRWD,2025-06-03,After market close,Technology,121737.412608,479.17,0.4165,0.4751,1.1406962785114048
-ASAN,2025-06-03,After market close,Technology,4473.16992,18.395,,,
-BASE,2025-06-03,After market close,Technology,1001.891072,18.35,,,
-GCO,2025-06-04,Before market open,Consumer Cyclical,240.921824,21.29,,,
-JFIN,2025-06-04,Before market open,Communication Services,788.802496,14.78,,,
-MAMA,2025-06-03,After market close,Consumer Defensive,319.59152,8.5,,,
-REVG,2025-06-04,Before market open,Industrials,1923.35104,36.55,,,
-SPWH,2025-06-03,After market close,Consumer Cyclical,88.826768,2.05,,,
-VBNK,2025-06-04,Before market open,Financial Services,375.917344,11.27,,,
-YEXT,2025-06-03,After market close,Technology,849.71744,6.685,,,
+BF.B,2025-06-05,Before market open,,,,0.2011,0.3676,1.827946295375435
+CIEN,2025-06-05,Before market open,Technology,11924.627456,83.21,0.3151,0.5583,1.7718184703268804
+GEF,2025-06-04,After market close,Consumer Cyclical,2700.20864,55.715,0.2335,0.343,1.468950749464668
+TTC,2025-06-05,Before market open,Industrials,7653.231104,76.69,0.2637,0.3858,1.4630261660978383
+VSCO,2025-06-05,Before market open,Consumer Cyclical,1634.304256,20.265,0.589,0.7276,1.235314091680815
+PVH,2025-06-04,After market close,Consumer Cyclical,3961.32224,82.4925,0.4589,0.562,1.2246676835911965
+FIVE,2025-06-04,After market close,Consumer Cyclical,6728.395776,122.21,0.7256,0.6161,0.849090407938258
+AGX,2025-06-04,After market close,Industrials,2983.141376,218.76,,,
+ALOT,2025-06-05,Before market open,Technology,69.201744,9.06,,,
+BARK,2025-06-04,After market close,Consumer Cyclical,236.135264,1.3,,,
+BF.A,2025-06-05,Before market open,,,,,,
+CHPT,2025-06-04,After market close,Consumer Cyclical,403.205088,0.7829,,,
+DLTH,2025-06-05,Before market open,Consumer Cyclical,75.718496,2.07,,,
+DSGX,2025-06-04,After market close,Technology,9871.9488,115.1,,,
+FUFU,2025-06-05,Before market open,Financial Services,576.674432,3.54,,,
+GEF.B,2025-06-04,After market close,,,,,,
+LE,2025-06-05,Before market open,Consumer Cyclical,263.08264,8.53,,,
+PL,2025-06-04,After market close,Industrials,1165.115904,3.84,,,
+TLYS,2025-06-04,After market close,Consumer Cyclical,39.197468,1.335,,,
+VRNT,2025-06-04,After market close,Technology,1104.641536,17.81,,,
+WDH,2025-06-05,Before market open,Financial Services,531.643488,1.49,,,
+YB,2025-06-05,Before market open,Technology,685.218304,15.2,,,
