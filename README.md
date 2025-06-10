@@ -10,29 +10,24 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-06-05 21:53:49 EDT
+## 🕒 Last Updated: 2025-06-09 21:57:04 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | ABM      | 2025-06-06 | Before market open | Industrials        | $3.3B        | $52.32  | 17.02%       | 39.64%       | 2.33x         |
-|  1 | DOCU     | 2025-06-05 | After market close | Technology         | $19.0B       | $93.84  | 35.71%       | 56.41%       | 1.58x         |
-|  2 | LULU     | 2025-06-05 | After market close | Consumer Cyclical  | $40.3B       | $335.19 | 35.76%       | 54.56%       | 1.53x         |
-|  3 | AVGO     | 2025-06-05 | After market close | Technology         | $1.2tr       | $261.08 | 33.01%       | 49.60%       | 1.50x         |
-|  4 | NX       | 2025-06-05 | After market close | Industrials        | $810.0M      | $17.13  | 55.09%       | 61.48%       | 1.12x         |
-|  5 | MTN      | 2025-06-05 | After market close | Consumer Cyclical  | $5.8B        | $154.22 | 34.91%       | 38.67%       | 1.11x         |
-|  6 | AVO      | 2025-06-05 | After market close | Consumer Defensive | $751.9M      | $10.58  | nan%         | nan%         | nanx          |
-|  7 | BBCP     | 2025-06-05 | After market close | Industrials        | $377.7M      | $7.10   | nan%         | nan%         | nanx          |
-|  8 | BRZE     | 2025-06-05 | After market close | Technology         | $3.8B        | $36.61  | nan%         | nan%         | nanx          |
-|  9 | CURV     | 2025-06-05 | After market close | Consumer Cyclical  | $534.4M      | $5.11   | nan%         | nan%         | nanx          |
-| 10 | FCEL     | 2025-06-06 | Before market open | Industrials        | $128.0M      | $5.64   | nan%         | nan%         | nanx          |
-| 11 | HUIZ     | 2025-06-06 | Before market open | Financial Services | $20.3M       | $2.01   | nan%         | nan%         | nanx          |
-| 12 | IOT      | 2025-06-05 | After market close | Technology         | $26.6B       | $46.72  | nan%         | nan%         | nanx          |
-| 13 | RBRK     | 2025-06-05 | After market close | Technology         | $19.1B       | $98.56  | nan%         | nan%         | nanx          |
-| 14 | RENT     | 2025-06-05 | After market close | Consumer Cyclical  | $26.1M       | $6.50   | nan%         | nan%         | nanx          |
-| 15 | TTAN     | 2025-06-05 | After market close | Technology         | $10.4B       | $114.71 | nan%         | nan%         | nanx          |
-| 16 | WOOF     | 2025-06-05 | After market close | Consumer Cyclical  | $985.0M      | $3.56   | nan%         | nan%         | nanx          |
+|  0 | CASY     | 2025-06-09 | After market close | Consumer Cyclical  | $16.2B       | $444.04 | 22.87%       | 35.99%       | 1.57x         |
+|  1 | UNFI     | 2025-06-10 | Before market open | Consumer Defensive | $1.7B        | $27.84  | 46.03%       | 71.51%       | 1.55x         |
+|  2 | SJM      | 2025-06-10 | Before market open | Consumer Defensive | $11.9B       | $110.89 | 17.85%       | 27.53%       | 1.54x         |
+|  3 | CNM      | 2025-06-10 | Before market open | Industrials        | $11.7B       | $59.66  | 38.67%       | 49.50%       | 1.28x         |
+|  4 | ASO      | 2025-06-10 | Before market open | Consumer Cyclical  | $3.0B        | $43.46  | 59.74%       | 54.12%       | 0.91x         |
+|  5 | AII      | 2025-06-09 | After market close | nan                | $332.9M      | $16.95  | nan%         | nan%         | nanx          |
+|  6 | CMTL     | 2025-06-09 | After market close | Technology         | $74.5M       | $2.27   | nan%         | nan%         | nanx          |
+|  7 | CVGW     | 2025-06-09 | After market close | Consumer Defensive | $493.7M      | $27.68  | nan%         | nan%         | nanx          |
+|  8 | DBI      | 2025-06-10 | Before market open | Consumer Cyclical  | $185.7M      | $3.82   | nan%         | nan%         | nanx          |
+|  9 | LAKE     | 2025-06-09 | After market close | Consumer Cyclical  | $184.1M      | $18.02  | nan%         | nan%         | nanx          |
+| 10 | LMNR     | 2025-06-09 | After market close | Consumer Defensive | $292.0M      | $15.35  | nan%         | nan%         | nanx          |
+| 11 | SKIL     | 2025-06-09 | After market close | Consumer Defensive | $154.6M      | $17.86  | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
