@@ -1,13 +1,14 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-CASY,2025-06-09,After market close,Consumer Cyclical,16164.685824,444.04,0.2287,0.3599,1.5736773065150853
-UNFI,2025-06-10,Before market open,Consumer Defensive,1686.203776,27.845,0.4603,0.7151,1.5535520312839453
-SJM,2025-06-10,Before market open,Consumer Defensive,11902.741504,110.89,0.1785,0.2753,1.542296918767507
-CNM,2025-06-10,Before market open,Industrials,11694.180352,59.66,0.3867,0.495,1.2800620636152056
-ASO,2025-06-10,Before market open,Consumer Cyclical,2951.785216,43.46,0.5974,0.5412,0.9059256779377302
-AII,2025-06-09,After market close,,332.890592,16.945,,,
-CMTL,2025-06-09,After market close,Technology,74.54036,2.27,,,
-CVGW,2025-06-09,After market close,Consumer Defensive,493.714336,27.68,,,
-DBI,2025-06-10,Before market open,Consumer Cyclical,185.735728,3.82,,,
-LAKE,2025-06-09,After market close,Consumer Cyclical,184.133744,18.02,,,
-LMNR,2025-06-09,After market close,Consumer Defensive,291.971328,15.35,,,
-SKIL,2025-06-09,After market close,Consumer Defensive,154.553696,17.86,,,
+CHWY,2025-06-11,Before market open,Consumer Cyclical,19002.073088,46.51,0.2904,0.5627,1.9376721763085398
+GME,2025-06-10,After market close,Consumer Cyclical,13571.088384,30.34,0.596,0.828,1.3892617449664428
+PLAY,2025-06-10,After market close,Communication Services,894.054272,25.57,0.7046,0.9039,1.2828555208629009
+VSCO,2025-06-11,Before market open,Consumer Cyclical,1813.942144,22.72,0.5823,0.7232,1.241971492357891
+CGNT,2025-06-11,Before market open,Technology,805.908928,11.2,,,
+GTLB,2025-06-10,After market close,Technology,8029.85984,48.64,,,
+JILL,2025-06-11,Before market open,Consumer Cyclical,262.104496,17.15,,,
+MIND,2025-06-10,After market close,Technology,55.068728,6.91,,,
+PETS,2025-06-10,After market close,Healthcare,86.550736,4.12,,,
+SAIL,2025-06-11,Before market open,Technology,10936.697856,19.18,,,
+SFIX,2025-06-10,After market close,Consumer Cyclical,609.211328,4.73,,,
+VRA,2025-06-11,Before market open,Consumer Cyclical,72.028904,2.58,,,
+YQ,2025-06-10,After market close,Consumer Defensive,18.50008,2.09,,,
