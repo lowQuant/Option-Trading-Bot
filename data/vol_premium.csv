@@ -1,8 +1,4 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-ORCL,2025-06-11,After market close,,494610.087936,,0.264,0.4119,1.5602272727272726
-OXM,2025-06-11,After market close,,744.18624,,0.4441,0.5518,1.242512947534339
-CRMT,2025-06-12,Before market open,,477.040384,,,,
-HOFT,2025-06-12,Before market open,,121.582672,,,,
-LOVE,2025-06-12,Before market open,,304.324544,,,,
-TOUR,2025-06-12,Before market open,,112.63804,,,,
-YRD,2025-06-12,Before market open,,642.000256,,,,
+ADBE,2025-06-12,After market close,Technology,176310.419456,412.84,0.194,0.4037,2.0809278350515465
+MNY,2025-06-13,Before market open,Communication Services,34.43634,0.8489,,,
+ZDGE,2025-06-12,After market close,Communication Services,37.36068,2.69,,,

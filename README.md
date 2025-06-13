@@ -10,19 +10,15 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-06-11 21:55:03 EDT
+## 🕒 Last Updated: 2025-06-12 21:56:10 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               |   sector | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|---------:|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | ORCL     | 2025-06-11 | After market close |      nan | $494.6B      | $nan    | 26.40%       | 41.19%       | 1.56x         |
-|  1 | OXM      | 2025-06-11 | After market close |      nan | $744.2M      | $nan    | 44.41%       | 55.18%       | 1.24x         |
-|  2 | CRMT     | 2025-06-12 | Before market open |      nan | $477.0M      | $nan    | nan%         | nan%         | nanx          |
-|  3 | HOFT     | 2025-06-12 | Before market open |      nan | $121.6M      | $nan    | nan%         | nan%         | nanx          |
-|  4 | LOVE     | 2025-06-12 | Before market open |      nan | $304.3M      | $nan    | nan%         | nan%         | nanx          |
-|  5 | TOUR     | 2025-06-12 | Before market open |      nan | $112.6M      | $nan    | nan%         | nan%         | nanx          |
-|  6 | YRD      | 2025-06-12 | Before market open |      nan | $642.0M      | $nan    | nan%         | nan%         | nanx          |
+|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | ADBE     | 2025-06-12 | After market close | Technology             | $176.3B      | $412.84 | 19.40%       | 40.37%       | 2.08x         |
+|  1 | MNY      | 2025-06-13 | Before market open | Communication Services | $34.4M       | $0.85   | nan%         | nan%         | nanx          |
+|  2 | ZDGE     | 2025-06-12 | After market close | Communication Services | $37.4M       | $2.69   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
