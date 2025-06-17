@@ -1,4 +1,14 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-ADBE,2025-06-12,After market close,Technology,176310.419456,412.84,0.194,0.4037,2.0809278350515465
-MNY,2025-06-13,Before market open,Communication Services,34.43634,0.8489,,,
-ZDGE,2025-06-12,After market close,Communication Services,37.36068,2.69,,,
+WLY,2025-06-17,Before market open,Communication Services,2040.578816,37.73,0.2043,0.4962,2.4287812041116004
+JBL,2025-06-17,Before market open,,19410.122752,,0.2253,0.4331,1.9223257878384377
+LEN,2025-06-16,After market close,Consumer Cyclical,28504.625152,108.61,0.323,0.4445,1.3761609907120742
+ANTA,2025-06-17,Before market open,Financial Services,295.448992,12.2,,,
+APPS,2025-06-16,After market close,,505.083648,,,,
+GLBS,2025-06-16,After market close,Industrials,27.786106,1.35,,,
+HITI,2025-06-16,After market close,Healthcare,184.516848,2.28,,,
+KIRK,2025-06-17,Before market open,Consumer Cyclical,28.525978,1.19,,,
+LEN.B,2025-06-16,After market close,,,,,,
+RFIL,2025-06-16,After market close,Industrials,47.694452,4.12,,,
+TEN,2025-06-17,Before market open,Energy,591.70656,19.64,,,
+VNCE,2025-06-17,Before market open,Consumer Cyclical,21.576408,1.46,,,
+WLYB,2025-06-17,Before market open,,2040.580864,,,,
