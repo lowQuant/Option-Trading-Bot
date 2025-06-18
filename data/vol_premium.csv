@@ -1,14 +1,8 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-WLY,2025-06-17,Before market open,Communication Services,2040.578816,37.73,0.2043,0.4962,2.4287812041116004
-JBL,2025-06-17,Before market open,,19410.122752,,0.2253,0.4331,1.9223257878384377
-LEN,2025-06-16,After market close,Consumer Cyclical,28504.625152,108.61,0.323,0.4445,1.3761609907120742
-ANTA,2025-06-17,Before market open,Financial Services,295.448992,12.2,,,
-APPS,2025-06-16,After market close,,505.083648,,,,
-GLBS,2025-06-16,After market close,Industrials,27.786106,1.35,,,
-HITI,2025-06-16,After market close,Healthcare,184.516848,2.28,,,
-KIRK,2025-06-17,Before market open,Consumer Cyclical,28.525978,1.19,,,
-LEN.B,2025-06-16,After market close,,,,,,
-RFIL,2025-06-16,After market close,Industrials,47.694452,4.12,,,
-TEN,2025-06-17,Before market open,Energy,591.70656,19.64,,,
-VNCE,2025-06-17,Before market open,Consumer Cyclical,21.576408,1.46,,,
-WLYB,2025-06-17,Before market open,,2040.580864,,,,
+KFY,2025-06-18,Before market open,Industrials,3492.295936,67.62,0.2219,0.4936,2.224425416854439
+LZB,2025-06-17,After market close,Consumer Cyclical,1600.353792,38.92,0.296,0.4732,1.5986486486486489
+GMS,2025-06-18,Before market open,Industrials,2811.617536,76.14,0.3138,0.4836,1.5411089866156786
+ACB,2025-06-18,Before market open,,336.33776,,,,
+LVO,2025-06-18,Before market open,Communication Services,83.023872,0.864,,,
+VTGN,2025-06-17,After market close,Healthcare,68.6918,2.36,,,
+XAIR,2025-06-17,After market close,Healthcare,24.615422,0.1796,,,
