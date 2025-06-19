@@ -10,19 +10,17 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-06-17 21:55:53 EDT
+## 🕒 Last Updated: 2025-06-18 21:56:45 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | KFY      | 2025-06-18 | Before market open | Industrials            | $3.5B        | $67.62  | 22.19%       | 49.36%       | 2.22x         |
-|  1 | LZB      | 2025-06-17 | After market close | Consumer Cyclical      | $1.6B        | $38.92  | 29.60%       | 47.32%       | 1.60x         |
-|  2 | GMS      | 2025-06-18 | Before market open | Industrials            | $2.8B        | $76.14  | 31.38%       | 48.36%       | 1.54x         |
-|  3 | ACB      | 2025-06-18 | Before market open | nan                    | $336.3M      | $nan    | nan%         | nan%         | nanx          |
-|  4 | LVO      | 2025-06-18 | Before market open | Communication Services | $83.0M       | $0.86   | nan%         | nan%         | nanx          |
-|  5 | VTGN     | 2025-06-17 | After market close | Healthcare             | $68.7M       | $2.36   | nan%         | nan%         | nanx          |
-|  6 | XAIR     | 2025-06-17 | After market close | Healthcare             | $24.6M       | $0.18   | nan%         | nan%         | nanx          |
+|    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | KMX      | 2025-06-20 | Before market open | Consumer Cyclical  | $9.8B        | $64.43  | 30.55%       | 53.76%       | 1.76x         |
+|  1 | ACN      | 2025-06-20 | Before market open | Technology         | $195.3B      | $312.03 | 20.37%       | 35.66%       | 1.75x         |
+|  2 | KR       | 2025-06-20 | Before market open | Consumer Defensive | $43.9B       | $65.95  | 20.32%       | 30.46%       | 1.50x         |
+|  3 | DRI      | 2025-06-20 | Before market open | Consumer Cyclical  | $26.3B       | $224.78 | 22.83%       | 33.60%       | 1.47x         |
+|  4 | SWBI     | 2025-06-18 | After market close | Industrials        | $478.7M      | $10.49  | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 

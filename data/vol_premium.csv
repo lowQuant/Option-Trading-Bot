@@ -1,8 +1,6 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-KFY,2025-06-18,Before market open,Industrials,3492.295936,67.62,0.2219,0.4936,2.224425416854439
-LZB,2025-06-17,After market close,Consumer Cyclical,1600.353792,38.92,0.296,0.4732,1.5986486486486489
-GMS,2025-06-18,Before market open,Industrials,2811.617536,76.14,0.3138,0.4836,1.5411089866156786
-ACB,2025-06-18,Before market open,,336.33776,,,,
-LVO,2025-06-18,Before market open,Communication Services,83.023872,0.864,,,
-VTGN,2025-06-17,After market close,Healthcare,68.6918,2.36,,,
-XAIR,2025-06-17,After market close,Healthcare,24.615422,0.1796,,,
+KMX,2025-06-20,Before market open,Consumer Cyclical,9814.893568,64.43,0.3055,0.5376,1.7597381342062193
+ACN,2025-06-20,Before market open,Technology,195338.698752,312.03,0.2037,0.3566,1.750613647520864
+KR,2025-06-20,Before market open,Consumer Defensive,43913.007104,65.95,0.2032,0.3046,1.499015748031496
+DRI,2025-06-20,Before market open,Consumer Cyclical,26305.216512,224.78,0.2283,0.336,1.4717477003942183
+SWBI,2025-06-18,After market close,Industrials,478.749376,10.49,,,
