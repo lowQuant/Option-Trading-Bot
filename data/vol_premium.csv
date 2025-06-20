@@ -1,6 +1,6 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-KMX,2025-06-20,Before market open,Consumer Cyclical,9814.893568,64.43,0.3055,0.5376,1.7597381342062193
-ACN,2025-06-20,Before market open,Technology,195338.698752,312.03,0.2037,0.3566,1.750613647520864
-KR,2025-06-20,Before market open,Consumer Defensive,43913.007104,65.95,0.2032,0.3046,1.499015748031496
-DRI,2025-06-20,Before market open,Consumer Cyclical,26305.216512,224.78,0.2283,0.336,1.4717477003942183
+KMX,2025-06-20,Before market open,Consumer Cyclical,9799.711744,64.43,0.3054,0.5247,1.7180746561886053
+ACN,2025-06-20,Before market open,Technology,191801.851904,312.03,0.2074,0.3314,1.5978784956605592
+KR,2025-06-20,Before market open,Consumer Defensive,43626.684416,65.95,0.2029,0.3084,1.519960571710202
+DRI,2025-06-20,Before market open,Consumer Cyclical,26067.542016,224.78,0.2198,0.3278,1.4913557779799818
 SWBI,2025-06-18,After market close,Industrials,478.749376,10.49,,,
