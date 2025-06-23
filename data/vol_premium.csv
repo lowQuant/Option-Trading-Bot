@@ -1,4 +1,4 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
 FDS,2025-06-23,Before market open,,16026.57792,,0.2077,0.2761,1.329321136254213
-CMC,2025-06-23,Before market open,,5500.888576,,0.3541,0.4639,1.3100818977689916
-JRSH,2025-06-23,Before market open,,41.18758,,,,
+CMC,2025-06-23,Before market open,Basic Materials,5500.888576,49.04,0.3541,0.4639,1.3100818977689916
+JRSH,2025-06-23,Before market open,Consumer Cyclical,41.18758,3.27,,,
