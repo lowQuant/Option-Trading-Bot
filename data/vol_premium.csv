@@ -1,4 +1,13 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-SNX,2025-06-24,Before market open,Technology,10708.370432,124.39,0.2471,0.3538,1.4318089842169164
-KBH,2025-06-23,After market close,Consumer Cyclical,3824.830464,51.75,0.3656,0.447,1.2226477024070024
-THCH,2025-06-24,Before market open,,88.509056,,,,
+WOR,2025-06-24,After market close,Industrials,3002.519552,59.2,0.2249,0.4438,1.9733214762116495
+PAYX,2025-06-25,Before market open,Technology,54839.083008,151.25,0.1422,0.2614,1.8382559774964842
+GIS,2025-06-25,Before market open,Consumer Defensive,29247.371264,53.47,0.1679,0.3024,1.8010720667063729
+AVAV,2025-06-24,After market close,Industrials,8822.207488,191.23,0.3543,0.6333,1.7874682472480947
+FDX,2025-06-24,After market close,Industrials,54990.368768,229.23,0.2776,0.4281,1.5421469740634004
+WGO,2025-06-25,Before market open,Consumer Cyclical,878.035776,31.34,0.4681,0.611,1.3052766502884
+ATEX,2025-06-24,After market close,Communication Services,534.928128,28.34,,,
+BB,2025-06-24,After market close,Technology,2585.430016,4.32,,,
+CRWS,2025-06-25,Before market open,Consumer Cyclical,33.25984,3.04,,,
+DAKT,2025-06-25,Before market open,Technology,746.522176,14.87,,,
+LOT,2025-06-25,Before market open,Consumer Cyclical,1641.3504,2.23,,,
+NG,2025-06-25,Before market open,Basic Materials,1652.320896,4.08,,,
