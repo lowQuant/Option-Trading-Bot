@@ -1,15 +1,6 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-WBA,2025-06-26,Before market open,Healthcare,9814.772736,11.35,0.0987,0.1836,1.8601823708206688
-LNN,2025-06-26,Before market open,Industrials,1501.828992,138.22,0.1857,0.3243,1.7463651050080773
-MLKN,2025-06-25,After market close,Consumer Cyclical,1200.468224,17.72,0.3694,0.5834,1.5793178126691934
-MU,2025-06-25,After market close,Technology,142210.793472,127.91,0.3732,0.5417,1.4515005359056805
-MKC,2025-06-26,Before market open,Consumer Defensive,20032.069632,74.71,0.1987,0.2739,1.3784599899345746
-AYI,2025-06-26,Before market open,Industrials,8884.849664,284.44,0.2833,0.3836,1.354041651959054
-FUL,2025-06-25,After market close,Basic Materials,3082.483712,56.88,0.2992,0.3445,1.1514037433155078
-JEF,2025-06-25,After market close,Financial Services,11533.835264,55.34,0.3811,0.3767,0.9884544738913671
-HIVE,2025-06-26,Before market open,Financial Services,330.903776,1.85,,,
-KEQU,2025-06-25,After market close,Consumer Cyclical,115.548536,38.53,,,
-MKC.V,2025-06-26,Before market open,,,,,,
-OESX,2025-06-26,Before market open,Consumer Cyclical,19.520824,0.5919,,,
-SCS,2025-06-25,After market close,Consumer Cyclical,1241.594752,10.83,,,
-WS,2025-06-25,After market close,Basic Materials,1332.445568,25.69,0.3892,,
+APOG,2025-06-27,Before market open,Industrials,855.804864,38.93,0.2862,0.8388,2.930817610062893
+EPAC,2025-06-26,After market close,Industrials,2387.30752,43.18,0.198,0.458,2.313131313131313
+CNXC,2025-06-26,After market close,Technology,3521.897472,54.17,0.3922,0.6135,1.5642529321774605
+NKE,2025-06-26,After market close,Consumer Cyclical,89784.295424,60.83,0.3119,0.4819,1.545046489259378
+AOUT,2025-06-26,After market close,Consumer Cyclical,152.308208,10.93,,,
