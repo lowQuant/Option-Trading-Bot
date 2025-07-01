@@ -1,6 +1,4 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-APOG,2025-06-27,Before market open,Industrials,855.804864,38.93,0.2862,0.8388,2.930817610062893
-EPAC,2025-06-26,After market close,Industrials,2387.30752,43.18,0.198,0.458,2.313131313131313
-CNXC,2025-06-26,After market close,Technology,3521.897472,54.17,0.3922,0.6135,1.5642529321774605
-NKE,2025-06-26,After market close,Consumer Cyclical,89784.295424,60.83,0.3119,0.4819,1.545046489259378
-AOUT,2025-06-26,After market close,Consumer Cyclical,152.308208,10.93,,,
+PRGS,2025-06-30,After market close,Technology,2746.779904,63.76,0.1696,0.4471,2.636202830188679
+MSM,2025-07-01,Before market open,Industrials,4763.09248,85.48,0.2722,0.2762,1.014695077149155
+QMCO,2025-06-30,After market close,Technology,69.289112,9.04,,,
