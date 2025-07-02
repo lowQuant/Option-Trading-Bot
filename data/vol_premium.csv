@@ -1,4 +1,4 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-PRGS,2025-06-30,After market close,Technology,2746.779904,63.76,0.1696,0.4471,2.636202830188679
-MSM,2025-07-01,Before market open,Industrials,4763.09248,85.48,0.2722,0.2762,1.014695077149155
-QMCO,2025-06-30,After market close,Technology,69.289112,9.04,,,
+GBX,2025-07-01,After market close,Industrials,1475.30176,46.05,0.2021,0.5564,2.753092528451262
+UNF,2025-07-02,Before market open,Industrials,3534.94272,188.22,0.1558,0.3787,2.4306803594351734
+STZ,2025-07-01,After market close,Consumer Defensive,29621.594112,162.68,0.2439,0.3725,1.5272652726527265
