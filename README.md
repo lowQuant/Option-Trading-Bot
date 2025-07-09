@@ -10,15 +10,16 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-07-01 21:57:00 EDT
+## 🕒 Last Updated: 2025-07-08 21:59:21 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | GBX      | 2025-07-01 | After market close | Industrials        | $1.5B        | $46.05  | 20.21%       | 55.64%       | 2.75x         |
-|  1 | UNF      | 2025-07-02 | Before market open | Industrials        | $3.5B        | $188.22 | 15.58%       | 37.87%       | 2.43x         |
-|  2 | STZ      | 2025-07-01 | After market close | Consumer Defensive | $29.6B       | $162.68 | 24.39%       | 37.25%       | 1.53x         |
+|  0 | PENG     | 2025-07-08 | After market close | Technology         | $1.1B        | $20.94  | 34.20%       | 74.34%       | 2.17x         |
+|  1 | AEHR     | 2025-07-08 | After market close | Technology         | $451.6M      | $14.82  | nan%         | nan%         | nanx          |
+|  2 | KRUS     | 2025-07-08 | After market close | Consumer Cyclical  | $1.0B        | $85.88  | nan%         | nan%         | nanx          |
+|  3 | SAR      | 2025-07-08 | After market close | Financial Services | $390.9M      | $25.19  | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 

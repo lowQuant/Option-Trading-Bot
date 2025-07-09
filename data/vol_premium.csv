@@ -1,4 +1,5 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-GBX,2025-07-01,After market close,Industrials,1475.30176,46.05,0.2021,0.5564,2.753092528451262
-UNF,2025-07-02,Before market open,Industrials,3534.94272,188.22,0.1558,0.3787,2.4306803594351734
-STZ,2025-07-01,After market close,Consumer Defensive,29621.594112,162.68,0.2439,0.3725,1.5272652726527265
+PENG,2025-07-08,After market close,Technology,1118.842624,20.94,0.342,0.7434,2.1736842105263157
+AEHR,2025-07-08,After market close,Technology,451.632128,14.82,,,
+KRUS,2025-07-08,After market close,Consumer Cyclical,1037.897472,85.88,,,
+SAR,2025-07-08,After market close,Financial Services,390.88192,25.19,,,
