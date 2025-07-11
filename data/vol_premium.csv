@@ -1,10 +1,6 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-AZZ,2025-07-09,After market close,Industrials,3022.833408,98.81,0.2398,0.4094,1.707256046705588
-SMPL,2025-07-10,Before market open,Consumer Defensive,3266.92224,31.87,0.2333,0.3924,1.6819545649378482
-HELE,2025-07-10,Before market open,Consumer Defensive,718.273088,31.29,0.6227,0.9478,1.5220812590332422
-DAL,2025-07-10,Before market open,Industrials,33104.717824,50.52,0.3635,0.5155,1.4181568088033012
-CAG,2025-07-10,Before market open,Consumer Defensive,9857.54112,20.65,0.229,0.3233,1.4117903930131004
-BSET,2025-07-09,After market close,Consumer Cyclical,147.882992,16.22,,,
-BYRN,2025-07-10,Before market open,Industrials,732.51552,32.17,,,
-NTIC,2025-07-10,Before market open,Basic Materials,77.026544,7.81,,,
-PCYO,2025-07-09,After market close,Utilities,258.820144,10.75,,,
+PSMT,2025-07-10,After market close,Consumer Defensive,3158.44608,102.01,0.1885,0.4152,2.202652519893899
+WDFC,2025-07-10,After market close,Basic Materials,3046.36032,229.73,0.2087,0.4198,2.011499760421658
+ETWO,2025-07-10,After market close,Technology,1018.228416,3.25,,,
+LEVI,2025-07-10,After market close,Consumer Cyclical,7799.821312,19.4,,,
+VIST,2025-07-11,Before market open,Energy,5262.764544,47.23,,,
