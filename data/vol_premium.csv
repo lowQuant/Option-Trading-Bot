@@ -1,2 +1,13 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-FAST,2025-07-14,Before market open,Industrials,49641.070592,43.56,0.1648,0.3004,1.8228155339805825
+FBK,2025-07-14,After market close,Financial Services,2654.003456,48.22,0.2033,0.3686,1.8130841121495325
+BLK,2025-07-15,Before market open,Financial Services,172194.03776,1101.64,0.1385,0.2206,1.5927797833935016
+BK,2025-07-15,Before market open,Financial Services,68145.086464,93.72,0.166,0.2533,1.5259036144578313
+STT,2025-07-15,Before market open,Financial Services,31378.577408,109.56,0.1775,0.2659,1.4980281690140846
+C,2025-07-15,Before market open,Financial Services,163426.38592,86.73,0.1957,0.2836,1.4491568727644353
+WFC,2025-07-15,Before market open,Financial Services,271496.249344,82.55,0.1948,0.2815,1.445071868583162
+JPM,2025-07-15,Before market open,Financial Services,802323.300352,286.86,0.1764,0.2402,1.3616780045351473
+ACI,2025-07-15,Before market open,Consumer Defensive,12481.098752,22.15,0.2291,0.3031,1.3230030554343082
+SLP,2025-07-14,After market close,Healthcare,351.339168,16.96,1.0258,0.7432,0.7245077013062975
+ANGO,2025-07-15,Before market open,Healthcare,391.045408,9.32,,,
+EQBK,2025-07-14,After market close,Financial Services,771.732928,42.93,,,
+ERIC,2025-07-15,Before market open,Technology,26929.537024,8.04,,,
