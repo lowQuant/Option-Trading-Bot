@@ -1,13 +1,19 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-FBK,2025-07-14,After market close,Financial Services,2654.003456,48.22,0.2033,0.3686,1.8130841121495325
-BLK,2025-07-15,Before market open,Financial Services,172194.03776,1101.64,0.1385,0.2206,1.5927797833935016
-BK,2025-07-15,Before market open,Financial Services,68145.086464,93.72,0.166,0.2533,1.5259036144578313
-STT,2025-07-15,Before market open,Financial Services,31378.577408,109.56,0.1775,0.2659,1.4980281690140846
-C,2025-07-15,Before market open,Financial Services,163426.38592,86.73,0.1957,0.2836,1.4491568727644353
-WFC,2025-07-15,Before market open,Financial Services,271496.249344,82.55,0.1948,0.2815,1.445071868583162
-JPM,2025-07-15,Before market open,Financial Services,802323.300352,286.86,0.1764,0.2402,1.3616780045351473
-ACI,2025-07-15,Before market open,Consumer Defensive,12481.098752,22.15,0.2291,0.3031,1.3230030554343082
-SLP,2025-07-14,After market close,Healthcare,351.339168,16.96,1.0258,0.7432,0.7245077013062975
-ANGO,2025-07-15,Before market open,Healthcare,391.045408,9.32,,,
-EQBK,2025-07-14,After market close,Financial Services,771.732928,42.93,,,
-ERIC,2025-07-15,Before market open,Technology,26929.537024,8.04,,,
+MS,2025-07-16,Before market open,Financial Services,227155.656704,143.97,0.1469,0.2841,1.9339686861810756
+PLD,2025-07-16,Before market open,Real Estate,100791.328768,109.35,0.1697,0.2932,1.7277548615203302
+BAC,2025-07-16,Before market open,Financial Services,347596.259328,47.07,0.1678,0.2723,1.6227651966626935
+FHN,2025-07-16,Before market open,Financial Services,10763.48416,21.97,0.2135,0.3411,1.5976580796252928
+JNJ,2025-07-16,Before market open,Healthcare,373349.875712,156.82,0.1277,0.1916,1.5003915426781518
+JBHT,2025-07-15,After market close,Industrials,14766.108672,152.2,0.2734,0.3926,1.4359912216532555
+CBSH,2025-07-16,Before market open,Financial Services,8445.48608,66.11,0.1708,0.2415,1.4139344262295082
+GS,2025-07-16,Before market open,Financial Services,215558.864896,713.3,0.1999,0.2825,1.4132066033016508
+MTB,2025-07-16,Before market open,Financial Services,31666.59584,203.05,0.2066,0.2888,1.397870280735721
+PNC,2025-07-16,Before market open,Financial Services,76004.245504,195.69,0.183,0.2519,1.3765027322404373
+HWC,2025-07-15,After market close,Financial Services,4986.147328,60.23,0.2639,0.3377,1.2796513830996588
+OMC,2025-07-15,After market close,Communication Services,13861.13024,72.65,0.2775,0.3423,1.2335135135135133
+FULT,2025-07-15,After market close,Financial Services,3457.741056,19.57,0.2393,0.2947,1.2315085666527372
+PNFP,2025-07-15,After market close,Financial Services,8909.643776,119.04,0.2387,0.2834,1.187264348554671
+PGR,2025-07-16,Before market open,Financial Services,141983.449088,247.37,0.2415,0.2771,1.1474120082815735
+ASML,2025-07-16,Before market open,Technology,323611.459584,806.73,,,
+KMTS,2025-07-15,After market close,Healthcare,836.4704,15.43,,,
+RMCF,2025-07-15,After market close,Consumer Defensive,14.883942,1.7985,,,
