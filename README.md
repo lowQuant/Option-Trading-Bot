@@ -10,42 +10,30 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-07-16 22:03:42 EDT
+## 🕒 Last Updated: 2025-07-17 22:05:14 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | OFG      | 2025-07-17 | Before market open | Financial Services | $2.0B        | $43.29  | 21.90%       | 61.55%       | 2.81x         |
-|  1 | AIR      | 2025-07-16 | After market close | Industrials        | $2.7B        | $73.39  | 19.15%       | 50.01%       | 2.61x         |
-|  2 | IIIN     | 2025-07-17 | Before market open | Industrials        | $749.1M      | $38.59  | 22.88%       | 47.97%       | 2.10x         |
-|  3 | SNA      | 2025-07-17 | Before market open | Industrials        | $16.4B       | $313.07 | 16.61%       | 28.29%       | 1.70x         |
-|  4 | CTAS     | 2025-07-17 | Before market open | Industrials        | $86.4B       | $213.24 | 17.58%       | 29.53%       | 1.68x         |
-|  5 | MCRI     | 2025-07-16 | After market close | Consumer Cyclical  | $1.6B        | $85.86  | 18.83%       | 31.24%       | 1.66x         |
-|  6 | REXR     | 2025-07-16 | After market close | Real Estate        | $8.9B        | $36.20  | 20.19%       | 32.87%       | 1.63x         |
-|  7 | TCBI     | 2025-07-17 | Before market open | Financial Services | $3.9B        | $84.91  | 27.05%       | 42.06%       | 1.55x         |
-|  8 | PEP      | 2025-07-17 | Before market open | Consumer Defensive | $185.6B      | $133.81 | 18.13%       | 28.15%       | 1.55x         |
-|  9 | GE       | 2025-07-17 | Before market open | Industrials        | $283.9B      | $264.67 | 25.33%       | 37.75%       | 1.49x         |
-| 10 | ABT      | 2025-07-17 | Before market open | Healthcare         | $229.2B      | $131.49 | 16.99%       | 24.90%       | 1.47x         |
-| 11 | MAN      | 2025-07-17 | Before market open | Industrials        | $2.0B        | $42.33  | 41.36%       | 58.81%       | 1.42x         |
-| 12 | FITB     | 2025-07-17 | Before market open | Financial Services | $28.7B       | $42.77  | 22.36%       | 30.89%       | 1.38x         |
-| 13 | WBS      | 2025-07-17 | Before market open | Financial Services | $9.8B        | $57.91  | 26.14%       | 36.05%       | 1.38x         |
-| 14 | MMC      | 2025-07-17 | Before market open | Financial Services | $104.4B      | $210.90 | 17.75%       | 24.45%       | 1.38x         |
-| 15 | KMI      | 2025-07-16 | After market close | Energy             | $62.0B       | $27.94  | 20.46%       | 26.77%       | 1.31x         |
-| 16 | CFG      | 2025-07-17 | Before market open | Financial Services | $20.4B       | $46.69  | 23.33%       | 30.23%       | 1.30x         |
-| 17 | TRV      | 2025-07-17 | Before market open | Financial Services | $57.1B       | $250.62 | 21.21%       | 26.82%       | 1.26x         |
-| 18 | SNV      | 2025-07-16 | After market close | Financial Services | $7.3B        | $52.53  | 27.25%       | 33.96%       | 1.25x         |
-| 19 | BANR     | 2025-07-16 | After market close | Financial Services | $2.3B        | $66.71  | 23.79%       | 29.49%       | 1.24x         |
-| 20 | AA       | 2025-07-16 | After market close | Basic Materials    | $7.4B        | $28.49  | 44.39%       | 54.51%       | 1.23x         |
-| 21 | SLG      | 2025-07-16 | After market close | Real Estate        | $4.9B        | $62.34  | 32.56%       | 39.46%       | 1.21x         |
-| 22 | USB      | 2025-07-17 | Before market open | Financial Services | $71.2B       | $45.69  | 22.61%       | 26.69%       | 1.18x         |
-| 23 | TFIN     | 2025-07-16 | After market close | Financial Services | $1.5B        | $62.15  | 45.96%       | 53.64%       | 1.17x         |
-| 24 | ELV      | 2025-07-17 | Before market open | Healthcare         | $77.8B       | $336.21 | 39.88%       | 44.22%       | 1.11x         |
-| 25 | UAL      | 2025-07-16 | After market close | Industrials        | $28.9B       | $86.38  | 59.84%       | 53.48%       | 0.89x         |
-| 26 | BSVN     | 2025-07-17 | Before market open | Financial Services | $430.7M      | $45.55  | nan%         | nan%         | nanx          |
-| 27 | FR       | 2025-07-16 | After market close | Real Estate        | $6.7B        | $49.05  | 18.72%       | nan%         | nanx          |
-| 28 | GSBC     | 2025-07-16 | After market close | Financial Services | $678.7M      | $59.02  | nan%         | nan%         | nanx          |
-| 29 | HOMB     | 2025-07-16 | After market close | Financial Services | $5.6B        | $28.50  | 21.66%       | nan%         | nanx          |
+|    | symbol   | date       | when               | sector                 | market_cap   | close    | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:---------|:-------------|:-------------|:--------------|
+|  0 | SCHW     | 2025-07-18 | Before market open | Financial Services     | $169.2B      | $91.26   | 12.92%       | 28.10%       | 2.17x         |
+|  1 | NFLX     | 2025-07-17 | After market close | Communication Services | $542.2B      | $1250.31 | 22.19%       | 40.38%       | 1.82x         |
+|  2 | MMM      | 2025-07-18 | Before market open | Industrials            | $85.6B       | $157.56  | 19.49%       | 32.70%       | 1.68x         |
+|  3 | IBKR     | 2025-07-17 | After market close | Financial Services     | $100.5B      | $59.45   | 27.38%       | 43.04%       | 1.57x         |
+|  4 | ALV      | 2025-07-18 | Before market open | Consumer Cyclical      | $9.0B        | $116.81  | 20.93%       | 32.43%       | 1.55x         |
+|  5 | ALLY     | 2025-07-18 | Before market open | Financial Services     | $12.4B       | $39.33   | 24.90%       | 35.20%       | 1.41x         |
+|  6 | OZK      | 2025-07-17 | After market close | Financial Services     | $5.8B        | $51.17   | 27.13%       | 36.94%       | 1.36x         |
+|  7 | HBAN     | 2025-07-18 | Before market open | Financial Services     | $24.8B       | $16.64   | 23.38%       | 31.63%       | 1.35x         |
+|  8 | FNB      | 2025-07-17 | After market close | Financial Services     | $5.7B        | $15.51   | 23.76%       | 32.01%       | 1.35x         |
+|  9 | TFC      | 2025-07-18 | Before market open | Financial Services     | $58.9B       | $44.36   | 21.74%       | 28.36%       | 1.30x         |
+| 10 | RF       | 2025-07-18 | Before market open | Financial Services     | $22.0B       | $24.08   | 22.05%       | 27.66%       | 1.25x         |
+| 11 | WAL      | 2025-07-17 | After market close | Financial Services     | $9.3B        | $82.36   | 32.02%       | 40.02%       | 1.25x         |
+| 12 | AXP      | 2025-07-18 | Before market open | Financial Services     | $220.9B      | $311.90  | 24.00%       | 29.43%       | 1.23x         |
+| 13 | CMA      | 2025-07-18 | Before market open | Financial Services     | $8.2B        | $61.14   | 27.25%       | 32.99%       | 1.21x         |
+| 14 | CNS      | 2025-07-17 | After market close | Financial Services     | $3.9B        | $75.99   | 25.25%       | 28.71%       | 1.14x         |
+| 15 | SLB      | 2025-07-18 | Before market open | Energy                 | $46.8B       | $34.59   | 36.46%       | 35.87%       | 0.98x         |
+| 16 | INDB     | 2025-07-17 | After market close | Financial Services     | $3.3B        | $64.17   | 30.10%       | 25.38%       | 0.84x         |
+| 17 | SFNC     | 2025-07-17 | After market close | Financial Services     | $2.5B        | $19.49   | 25.64%       | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
