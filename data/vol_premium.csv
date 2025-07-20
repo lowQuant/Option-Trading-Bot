@@ -1,8 +1,10 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-ROP,2025-07-21,Before market open,Technology,58573.094912,546.35,0.1326,0.2214,1.669683257918552
-DPZ,2025-07-21,Before market open,Consumer Cyclical,15954.827264,468.705,0.2133,0.3305,1.5494608532583218
-VZ,2025-07-21,Before market open,Communication Services,172191.66208,40.95,0.1577,0.237,1.50285351934052
-PFBC,2025-07-21,Before market open,Financial Services,1150.7904,93.03,0.2536,0.2823,1.1131703470031546
-CLF,2025-07-21,Before market open,Basic Materials,4689.33888,9.39,0.7008,0.705,1.0059931506849316
+ROP,2025-07-21,Before market open,Technology,58573.094912,546.35,0.1326,0.2328,1.7556561085972853
+DPZ,2025-07-21,Before market open,Consumer Cyclical,15954.827264,468.705,0.2139,0.3399,1.5890603085553996
+VZ,2025-07-21,Before market open,Communication Services,172191.66208,40.95,0.1541,0.2381,1.5451005840363403
+PFBC,2025-07-21,Before market open,Financial Services,1150.7904,93.03,0.2479,0.2782,1.1222267043162566
+CLF,2025-07-21,Before market open,Basic Materials,4689.33888,9.39,0.7002,0.6722,0.9600114253070551
 DX,2025-07-21,Before market open,Real Estate,1342.764928,12.58,,,
 HBT,2025-07-21,Before market open,Financial Services,797.148544,25.72,,,
+RYAAY,2025-07-21,Before market open,Industrials,29787.183104,58.04,,,
+SAGT,2025-07-21,Before market open,Technology,27.7355,2.14,,,

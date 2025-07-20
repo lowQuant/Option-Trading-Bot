@@ -10,19 +10,21 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-07-18 21:59:01 EDT
+## 🕒 Last Updated: 2025-07-19 22:12:54 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | ROP      | 2025-07-21 | Before market open | Technology             | $58.6B       | $546.35 | 13.26%       | 22.14%       | 1.67x         |
-|  1 | DPZ      | 2025-07-21 | Before market open | Consumer Cyclical      | $16.0B       | $468.70 | 21.33%       | 33.05%       | 1.55x         |
-|  2 | VZ       | 2025-07-21 | Before market open | Communication Services | $172.2B      | $40.95  | 15.77%       | 23.70%       | 1.50x         |
-|  3 | PFBC     | 2025-07-21 | Before market open | Financial Services     | $1.2B        | $93.03  | 25.36%       | 28.23%       | 1.11x         |
-|  4 | CLF      | 2025-07-21 | Before market open | Basic Materials        | $4.7B        | $9.39   | 70.08%       | 70.50%       | 1.01x         |
+|  0 | ROP      | 2025-07-21 | Before market open | Technology             | $58.6B       | $546.35 | 13.26%       | 23.28%       | 1.76x         |
+|  1 | DPZ      | 2025-07-21 | Before market open | Consumer Cyclical      | $16.0B       | $468.70 | 21.39%       | 33.99%       | 1.59x         |
+|  2 | VZ       | 2025-07-21 | Before market open | Communication Services | $172.2B      | $40.95  | 15.41%       | 23.81%       | 1.55x         |
+|  3 | PFBC     | 2025-07-21 | Before market open | Financial Services     | $1.2B        | $93.03  | 24.79%       | 27.82%       | 1.12x         |
+|  4 | CLF      | 2025-07-21 | Before market open | Basic Materials        | $4.7B        | $9.39   | 70.02%       | 67.22%       | 0.96x         |
 |  5 | DX       | 2025-07-21 | Before market open | Real Estate            | $1.3B        | $12.58  | nan%         | nan%         | nanx          |
 |  6 | HBT      | 2025-07-21 | Before market open | Financial Services     | $797.1M      | $25.72  | nan%         | nan%         | nanx          |
+|  7 | RYAAY    | 2025-07-21 | Before market open | Industrials            | $29.8B       | $58.04  | nan%         | nan%         | nanx          |
+|  8 | SAGT     | 2025-07-21 | Before market open | Technology             | $27.7M       | $2.14   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
