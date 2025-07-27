@@ -1,11 +1,13 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-RVTY,2025-07-28,Before market open,Healthcare,12219.582464,101.97,0.3427,0.449,1.310183834257368
-BOH,2025-07-28,Before market open,Financial Services,2610.179072,66.0,0.2379,0.3036,1.2761664564943254
+RVTY,2025-07-28,Before market open,Healthcare,12219.582464,101.97,0.3451,0.4429,1.2833961170675166
+BOH,2025-07-28,Before market open,Financial Services,2610.179072,66.0,0.2346,0.2875,1.2254901960784312
 ALRS,2025-07-28,Before market open,Financial Services,550.942976,21.64,,,
 ARLP,2025-07-28,Before market open,Energy,3593.415424,27.97,,,
 BFST,2025-07-28,Before market open,Financial Services,754.740672,25.66,,,
 BMRC,2025-07-28,Before market open,Financial Services,385.61888,24.01,,,
 BWFG,2025-07-28,Before market open,Financial Services,294.386048,36.92,,,
-FMX,2025-07-28,Before market open,Consumer Defensive,35171.311616,97.84,,,
-NGD,2025-07-28,Before market open,Basic Materials,3503.608064,4.43,,,
+EPD,2025-07-28,Before market open,Energy,68428.795904,31.79,,,
+FMX,2025-07-28,Before market open,Consumer Defensive,34900.258816,97.84,,,
+NGD,2025-07-28,Before market open,Basic Materials,3509.385216,4.43,,,
+PROV,2025-07-28,Before market open,Financial Services,102.561608,15.5,,,
 RITM,2025-07-28,Before market open,Real Estate,6462.187008,12.23,,,
