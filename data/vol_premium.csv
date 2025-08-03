@@ -1,26 +1,29 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-TSN,2025-08-04,Before market open,Consumer Defensive,18631.077888,52.3,0.2,0.3158,1.579
-IDXX,2025-08-04,Before market open,Healthcare,43069.145088,534.31,0.2621,0.3916,1.4940862266310568
-FRPT,2025-08-04,Before market open,Consumer Defensive,3211.97184,68.32,0.5174,0.7326,1.4159257827599538
-ON,2025-08-04,Before market open,Technology,23744.22528,56.36,0.4178,0.5883,1.4080899952130206
-SPNT,2025-08-04,Before market open,Financial Services,2282.812672,19.61,0.3287,0.4408,1.3410404624277459
-ENR,2025-08-04,Before market open,Industrials,1625.779968,22.52,0.3745,0.4854,1.296128170894526
-L,2025-08-04,Before market open,Financial Services,18985.910272,90.54,0.159,0.2048,1.2880503144654087
-BRKR,2025-08-04,Before market open,Healthcare,5756.701184,38.43,0.6225,0.6976,1.1206425702811245
-WAT,2025-08-04,Before market open,Healthcare,17276.086272,288.76,0.5131,0.3794,0.7394270122783083
+TGTX,2025-08-04,Before market open,Healthcare,5559.60064,35.5,0.3835,0.8116,2.116297262059974
+KRYS,2025-08-04,Before market open,Healthcare,4536.517632,153.87,0.3071,0.5625,1.8316509280364703
+TSN,2025-08-04,Before market open,Consumer Defensive,18712.971264,52.3,0.1999,0.3117,1.5592796398199098
+FRPT,2025-08-04,Before market open,Consumer Defensive,3211.97184,68.32,0.5273,0.7908,1.4997155319552435
+L,2025-08-04,Before market open,Financial Services,18933.540864,90.54,0.1593,0.2353,1.4770872567482738
+IDXX,2025-08-04,Before market open,Healthcare,43069.145088,534.31,0.262,0.3865,1.4751908396946565
+ENR,2025-08-04,Before market open,Industrials,1598.346368,22.52,0.3701,0.5383,1.4544717643880034
+ON,2025-08-04,Before market open,Technology,23744.22528,56.36,0.4157,0.5627,1.3536203993264373
+SPNT,2025-08-04,Before market open,Financial Services,2282.812672,19.61,0.3287,0.4434,1.3489504107088532
+BRKR,2025-08-04,Before market open,Healthcare,5756.701184,38.43,0.6203,0.66,1.0640012896985331
+WAT,2025-08-04,Before market open,Healthcare,17276.086272,288.76,0.514,0.4224,0.8217898832684825
 ALX,2025-08-04,Before market open,Real Estate,1252.562816,251.19,,,
 AXSM,2025-08-04,Before market open,Healthcare,5072.333824,101.38,,,
 BCRX,2025-08-04,Before market open,Healthcare,1663.537408,8.14,,,
 BNTX,2025-08-04,Before market open,Healthcare,25803.999232,107.5,,,
 CFBK,2025-08-04,Before market open,Financial Services,152.28776,23.6,,,
 CNA,2025-08-04,Before market open,Financial Services,11877.600256,44.33,,,
-EEX,2025-08-04,Before market open,Communication Services,988.3296,4.97,,,
-HGTY,2025-08-04,Before market open,Financial Services,3472.18048,10.16,,,
+EEX,2025-08-04,Before market open,Communication Services,966.454784,4.97,,,
+HGTY,2025-08-04,Before market open,Financial Services,3424.33536,10.16,,,
 IEP,2025-08-04,Before market open,Energy,4903.852032,9.13,,,
-KOS,2025-08-04,Before market open,Energy,1027.720256,2.15,,,
-KSPI,2025-08-04,Before market open,Technology,16534.79424,78.9,,,
-LIND,2025-08-04,Before market open,Consumer Cyclical,653.202624,11.95,,,
-RAND,2025-08-04,Before market open,Financial Services,54.481268,18.345,,,
+KOS,2025-08-04,Before market open,Energy,932.117568,2.15,,,
+KSPI,2025-08-04,Before market open,Technology,16410.50112,78.9,,,
+LIND,2025-08-04,Before market open,Consumer Cyclical,641.723648,11.95,,,
+RAND,2025-08-04,Before market open,Financial Services,54.124788,18.345,,,
+SOHU,2025-08-04,Before market open,Communication Services,463.007136,15.54,,,
 TSEM,2025-08-04,Before market open,Technology,5253.950976,45.75,,,
 TWST,2025-08-04,Before market open,Healthcare,2017.974272,33.57,,,
-W,2025-08-04,Before market open,Consumer Cyclical,8422.641152,65.64,,,
+W,2025-08-04,Before market open,Consumer Cyclical,8368.704512,65.64,,,
