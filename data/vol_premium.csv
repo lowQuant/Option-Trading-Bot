@@ -2,7 +2,7 @@ symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
 TGTX,2025-08-04,Before market open,Healthcare,5559.60064,35.5,0.3835,0.8116,2.116297262059974
 KRYS,2025-08-04,Before market open,Healthcare,4536.517632,153.87,0.3071,0.5625,1.8316509280364703
 TSN,2025-08-04,Before market open,Consumer Defensive,18712.971264,52.3,0.1999,0.3117,1.5592796398199098
-FRPT,2025-08-04,Before market open,Consumer Defensive,3211.97184,68.32,0.5273,0.7908,1.4997155319552435
+FRPT,2025-08-04,Before market open,Consumer Defensive,3216.858112,68.32,0.5273,0.7908,1.4997155319552435
 L,2025-08-04,Before market open,Financial Services,18933.540864,90.54,0.1593,0.2353,1.4770872567482738
 IDXX,2025-08-04,Before market open,Healthcare,43069.145088,534.31,0.262,0.3865,1.4751908396946565
 ENR,2025-08-04,Before market open,Industrials,1598.346368,22.52,0.3701,0.5383,1.4544717643880034
@@ -18,7 +18,7 @@ CFBK,2025-08-04,Before market open,Financial Services,152.28776,23.6,,,
 CNA,2025-08-04,Before market open,Financial Services,11877.600256,44.33,,,
 EEX,2025-08-04,Before market open,Communication Services,966.454784,4.97,,,
 HGTY,2025-08-04,Before market open,Financial Services,3424.33536,10.16,,,
-IEP,2025-08-04,Before market open,Energy,4903.852032,9.13,,,
+IEP,2025-08-04,Before market open,Energy,4909.320704,9.13,,,
 KOS,2025-08-04,Before market open,Energy,932.117568,2.15,,,
 KSPI,2025-08-04,Before market open,Technology,16410.50112,78.9,,,
 LIND,2025-08-04,Before market open,Consumer Cyclical,641.723648,11.95,,,
