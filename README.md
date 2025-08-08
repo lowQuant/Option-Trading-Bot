@@ -10,42 +10,42 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-08-06 22:09:38 EDT
+## 🕒 Last Updated: 2025-08-07 22:08:28 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | GVA      | 2025-08-07 | Before market open | Industrials            | $4.1B        | $94.50  | 16.92%       | 41.56%       | 2.46x         |
-|  1 | RBA      | 2025-08-06 | After market close | Industrials            | $20.3B       | $109.58 | 14.29%       | 33.00%       | 2.31x         |
-|  2 | RAMP     | 2025-08-06 | After market close | Technology             | $2.1B        | $32.05  | 27.69%       | 61.89%       | 2.24x         |
-|  3 | RL       | 2025-08-07 | Before market open | Consumer Cyclical      | $18.1B       | $299.24 | 20.04%       | 44.55%       | 2.22x         |
-|  4 | VRRM     | 2025-08-06 | After market close | Technology             | $4.0B        | $25.14  | 21.78%       | 47.05%       | 2.16x         |
-|  5 | CTVA     | 2025-08-06 | After market close | Basic Materials        | $48.6B       | $72.31  | 16.53%       | 35.62%       | 2.15x         |
-|  6 | LOPE     | 2025-08-06 | After market close | Consumer Defensive     | $4.9B        | $167.66 | 18.22%       | 39.23%       | 2.15x         |
-|  7 | ADMA     | 2025-08-06 | After market close | Healthcare             | $4.4B        | $18.96  | 37.06%       | 79.77%       | 2.15x         |
-|  8 | NTCT     | 2025-08-07 | Before market open | Technology             | $1.6B        | $21.39  | 28.74%       | 58.80%       | 2.05x         |
-|  9 | HAE      | 2025-08-07 | Before market open | Healthcare             | $3.7B        | $76.11  | 24.20%       | 49.15%       | 2.03x         |
-| 10 | AOSL     | 2025-08-06 | After market close | Technology             | $779.7M      | $26.07  | 44.33%       | 87.47%       | 1.97x         |
-| 11 | ACAD     | 2025-08-06 | After market close | Healthcare             | $4.0B        | $23.64  | 32.30%       | 63.42%       | 1.96x         |
-| 12 | ECPG     | 2025-08-06 | After market close | Financial Services     | $874.0M      | $36.64  | 30.36%       | 59.07%       | 1.95x         |
-| 13 | APLE     | 2025-08-06 | After market close | Real Estate            | $2.8B        | $11.71  | 23.31%       | 45.18%       | 1.94x         |
-| 14 | STE      | 2025-08-06 | After market close | Healthcare             | $21.8B       | $223.87 | 16.36%       | 31.62%       | 1.93x         |
-| 15 | SABR     | 2025-08-07 | Before market open | Technology             | $1.2B        | $2.98   | 43.81%       | 83.13%       | 1.90x         |
-| 16 | PRVA     | 2025-08-07 | Before market open | Healthcare             | $2.4B        | $19.45  | 34.50%       | 64.93%       | 1.88x         |
-| 17 | MTSI     | 2025-08-07 | Before market open | Technology             | $10.3B       | $137.28 | 25.39%       | 47.78%       | 1.88x         |
-| 18 | HBI      | 2025-08-07 | Before market open | Consumer Cyclical      | $1.5B        | $4.21   | 34.70%       | 64.82%       | 1.87x         |
-| 19 | PODD     | 2025-08-07 | Before market open | Healthcare             | $19.5B       | $281.00 | 24.71%       | 46.04%       | 1.86x         |
-| 20 | TKO      | 2025-08-06 | After market close | Communication Services | $13.4B       | $163.45 | 20.92%       | 38.94%       | 1.86x         |
-| 21 | DUOL     | 2025-08-06 | After market close | Technology             | $15.5B       | $340.31 | 43.48%       | 80.93%       | 1.86x         |
-| 22 | TNDM     | 2025-08-06 | After market close | Healthcare             | $1.0B        | $15.15  | 53.09%       | 98.73%       | 1.86x         |
-| 23 | GOGO     | 2025-08-07 | Before market open | Communication Services | $2.1B        | $15.63  | 42.69%       | 78.34%       | 1.84x         |
-| 24 | SDGR     | 2025-08-06 | After market close | Healthcare             | $1.4B        | $19.64  | 41.30%       | 74.98%       | 1.82x         |
-| 25 | SONO     | 2025-08-06 | After market close | Technology             | $1.3B        | $10.86  | 39.68%       | 71.75%       | 1.81x         |
-| 26 | WMS      | 2025-08-07 | Before market open | Industrials            | $9.1B        | $117.09 | 30.84%       | 55.57%       | 1.80x         |
-| 27 | SGI      | 2025-08-07 | Before market open | Consumer Cyclical      | $15.4B       | $74.59  | 24.15%       | 43.01%       | 1.78x         |
-| 28 | EPAM     | 2025-08-07 | Before market open | Technology             | $8.6B        | $149.33 | 32.27%       | 57.27%       | 1.77x         |
-| 29 | USFD     | 2025-08-07 | Before market open | Consumer Defensive     | $19.6B       | $82.42  | 16.14%       | 28.51%       | 1.77x         |
+|  0 | VIAV     | 2025-08-07 | After market close | Technology             | $2.3B        | $10.04  | 18.80%       | 52.84%       | 2.81x         |
+|  1 | HCI      | 2025-08-07 | After market close | Financial Services     | $1.6B        | $139.86 | 18.32%       | 50.68%       | 2.77x         |
+|  2 | ATGE     | 2025-08-07 | After market close | Consumer Defensive     | $4.3B        | $119.82 | 21.53%       | 56.50%       | 2.62x         |
+|  3 | G        | 2025-08-07 | After market close | Technology             | $7.3B        | $42.20  | 23.99%       | 61.61%       | 2.57x         |
+|  4 | CARG     | 2025-08-07 | After market close | Consumer Cyclical      | $3.1B        | $31.81  | 21.42%       | 54.76%       | 2.56x         |
+|  5 | AKAM     | 2025-08-07 | After market close | Technology             | $10.6B       | $74.48  | 20.03%       | 50.32%       | 2.51x         |
+|  6 | DOCS     | 2025-08-07 | After market close | Healthcare             | $11.0B       | $58.13  | 33.35%       | 77.07%       | 2.31x         |
+|  7 | ARLO     | 2025-08-07 | After market close | Industrials            | $1.7B        | $16.10  | 32.50%       | 72.13%       | 2.22x         |
+|  8 | TRUP     | 2025-08-07 | After market close | Financial Services     | $2.1B        | $48.63  | 32.31%       | 70.20%       | 2.17x         |
+|  9 | CON      | 2025-08-07 | After market close | Healthcare             | $2.6B        | $19.94  | 25.84%       | 52.19%       | 2.02x         |
+| 10 | GDDY     | 2025-08-07 | After market close | Technology             | $22.1B       | $154.82 | 19.26%       | 38.38%       | 1.99x         |
+| 11 | CRSR     | 2025-08-07 | After market close | Technology             | $942.9M      | $8.91   | 35.62%       | 70.97%       | 1.99x         |
+| 12 | TTD      | 2025-08-07 | After market close | Communication Services | $43.8B       | $89.58  | 37.16%       | 74.02%       | 1.99x         |
+| 13 | FOXF     | 2025-08-07 | After market close | Consumer Cyclical      | $1.3B        | $29.22  | 48.86%       | 97.08%       | 1.99x         |
+| 14 | AGO      | 2025-08-07 | After market close | Financial Services     | $4.2B        | $86.17  | 16.20%       | 32.05%       | 1.98x         |
+| 15 | TTWO     | 2025-08-07 | After market close | Communication Services | $41.9B       | $227.21 | 17.27%       | 33.76%       | 1.95x         |
+| 16 | SLVM     | 2025-08-08 | Before market open | Basic Materials        | $1.9B        | $47.40  | 32.93%       | 62.21%       | 1.89x         |
+| 17 | SYNA     | 2025-08-07 | After market close | Technology             | $2.3B        | $60.10  | 30.97%       | 57.45%       | 1.86x         |
+| 18 | ALRM     | 2025-08-07 | After market close | Technology             | $2.8B        | $55.77  | 20.36%       | 37.06%       | 1.82x         |
+| 19 | DVAX     | 2025-08-07 | After market close | Healthcare             | $1.3B        | $11.19  | 23.97%       | 43.31%       | 1.81x         |
+| 20 | AMN      | 2025-08-07 | After market close | Healthcare             | $657.8M      | $17.22  | 49.15%       | 87.19%       | 1.77x         |
+| 21 | YELP     | 2025-08-07 | After market close | Communication Services | $2.2B        | $34.15  | 23.55%       | 41.69%       | 1.77x         |
+| 22 | ICUI     | 2025-08-07 | After market close | Healthcare             | $3.2B        | $126.89 | 30.60%       | 53.91%       | 1.76x         |
+| 23 | QNST     | 2025-08-07 | After market close | Communication Services | $961.3M      | $16.88  | 33.77%       | 59.44%       | 1.76x         |
+| 24 | CYTK     | 2025-08-07 | After market close | Healthcare             | $4.2B        | $35.14  | 39.02%       | 66.73%       | 1.71x         |
+| 25 | EXPE     | 2025-08-07 | After market close | Consumer Cyclical      | $23.5B       | $185.14 | 29.77%       | 50.89%       | 1.71x         |
+| 26 | SHC      | 2025-08-08 | Before market open | Healthcare             | $3.2B        | $11.06  | 31.49%       | 52.98%       | 1.68x         |
+| 27 | GEN      | 2025-08-07 | After market close | Technology             | $17.7B       | $28.69  | 21.88%       | 36.61%       | 1.67x         |
+| 28 | UAA      | 2025-08-08 | Before market open | Consumer Cyclical      | $2.8B        | $6.73   | 35.26%       | 58.99%       | 1.67x         |
+| 29 | MSI      | 2025-08-07 | After market close | Technology             | $74.3B       | $442.12 | 14.21%       | 23.73%       | 1.67x         |
 
 ## 📝 Data Interpretation
 
