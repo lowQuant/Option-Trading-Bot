@@ -1,23 +1,38 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-CEVA,2025-08-11,Before market open,Technology,519.464192,21.18,0.3594,0.7354,2.0461880912632164
-ROIV,2025-08-11,Before market open,Healthcare,7842.14272,11.55,0.257,0.3568,1.3883268482490272
-TDS,2025-08-11,Before market open,Communication Services,4425.560064,38.27,0.4011,0.5176,1.2904512590376462
+CEVA,2025-08-11,Before market open,Technology,519.464192,21.18,0.3557,0.6768,1.902727017149283
+OMI,2025-08-11,Before market open,Healthcare,543.193984,6.31,0.652,1.1402,1.7487730061349693
+ROIV,2025-08-11,Before market open,Healthcare,7842.14272,11.55,0.2524,0.4243,1.6810618066561014
+TDS,2025-08-11,Before market open,Communication Services,4425.560064,38.27,0.4014,0.5001,1.2458893871449925
 AGEN,2025-08-11,Before market open,Healthcare,131.600648,4.76,,,
-AIOT,2025-08-11,Before market open,Technology,529.10256,3.97,,,
-B,2025-08-11,Before market open,Basic Materials,40286.949376,23.07,,,
-BLDP,2025-08-11,Before market open,Industrials,554.245184,1.85,,,
+AIOT,2025-08-11,Before market open,Technology,516.424384,3.97,,,
+B,2025-08-11,Before market open,Basic Materials,40339.197952,23.07,,,
+BHST,2025-08-11,Before market open,Consumer Defensive,151.790656,8.0999,,,
+BLDP,2025-08-11,Before market open,Industrials,545.794176,1.85,,,
+CEPU,2025-08-11,Before market open,Utilities,1893.452416,12.96,,,
 DOLE,2025-08-11,Before market open,Consumer Defensive,1391.868928,14.59,,,
+EDRY,2025-08-11,Before market open,Industrials,28.549672,10.515,,,
 EE,2025-08-11,Before market open,Energy,2772.91776,24.42,,,
-FNV,2025-08-11,Before market open,Basic Materials,33056.468992,171.46,,,
+FNV,2025-08-11,Before market open,Basic Materials,33117.038592,171.46,,,
+FSTR,2025-08-11,Before market open,Industrials,233.149344,22.5,,,
+GPRE,2025-08-11,Before market open,Basic Materials,483.95632,7.31,,,
+HBIO,2025-08-11,Before market open,Healthcare,23.335992,0.5141,,,
+HUMA,2025-08-11,Before market open,Healthcare,384.695136,2.47,,,
 KGEI,2025-08-11,Before market open,Energy,215.642064,6.06,,,
-LAR,2025-08-11,Before market open,Basic Materials,454.938976,2.69,,,
-LEGN,2025-08-11,Before market open,Healthcare,6888.216064,37.43,,,
+KPTI,2025-08-11,Before market open,Healthcare,34.041208,3.97,,,
+KYMR,2025-08-11,Before market open,Healthcare,2849.785344,40.85,,,
+LAR,2025-08-11,Before market open,Basic Materials,455.034528,2.69,,,
+LEGN,2025-08-11,Before market open,Healthcare,6809.07264,37.43,,,
 LINC,2025-08-11,Before market open,Consumer Defensive,750.329024,23.54,,,
 MNDY,2025-08-11,Before market open,Technology,12753.026048,247.4,,,
+MPAA,2025-08-11,Before market open,Consumer Cyclical,218.29168,11.25,,,
 NIU,2025-08-11,Before market open,Consumer Cyclical,294.703904,3.74,,,
 PERI,2025-08-11,Before market open,Communication Services,459.829824,9.97,,,
+RUM,2025-08-11,Before market open,Communication Services,2668.420096,8.05,,,
 SNDA,2025-08-11,Before market open,Healthcare,459.938432,24.27,,,
+SPHR,2025-08-11,Before market open,Communication Services,1450.415872,41.42,,,
 TLS,2025-08-11,Before market open,Technology,174.8936,2.47,,,
-USM,2025-08-11,Before market open,Communication Services,6343.184384,74.6,,,
+USM,2025-08-11,Before market open,Communication Services,6313.425408,74.6,,,
 VFF,2025-08-11,Before market open,Consumer Defensive,193.219648,1.67,,,
 WHG,2025-08-08,After market close,Financial Services,153.639152,17.47,,,
+WOW,2025-08-11,Before market open,Communication Services,272.668128,3.17,,,
+WW,2025-08-11,Before market open,Consumer Cyclical,3451.416064,38.03,,,
