@@ -1,7 +1,7 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
 CEVA,2025-08-11,Before market open,Technology,519.464192,21.18,0.3557,0.6768,1.902727017149283
 OMI,2025-08-11,Before market open,Healthcare,543.193984,6.31,0.652,1.1402,1.7487730061349693
-ROIV,2025-08-11,Before market open,Healthcare,7842.14272,11.55,0.2524,0.4243,1.6810618066561014
+ROIV,2025-08-11,Before market open,Healthcare,7845.555712,11.55,0.2524,0.4243,1.6810618066561014
 TDS,2025-08-11,Before market open,Communication Services,4425.560064,38.27,0.4014,0.5001,1.2458893871449925
 AGEN,2025-08-11,Before market open,Healthcare,131.600648,4.76,,,
 AIOT,2025-08-11,Before market open,Technology,516.424384,3.97,,,
