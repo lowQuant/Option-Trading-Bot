@@ -1,26 +1,9 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-COTY,2025-08-20,After market close,Consumer Defensive,4239.329536,4.89,0.3516,0.6438,1.8310580204778157
-MZTI,2025-08-21,Before market open,Consumer Defensive,4916.122112,180.48,0.1845,0.2918,1.5815718157181573
-WMT,2025-08-21,Before market open,Consumer Defensive,818551.717888,101.29,0.1768,0.2743,1.551470588235294
-NDSN,2025-08-20,After market close,Industrials,12065.780736,217.5,0.2188,0.2899,1.3249542961608776
-OSIS,2025-08-21,Before market open,Technology,3750.405376,226.91,0.3413,0.4371,1.280691473776736
-JBSS,2025-08-20,After market close,Consumer Defensive,730.117248,63.23,0.2603,0.2596,0.997310795236266
-AAPG,2025-08-20,After market close,Healthcare,4387.872768,46.395,,,
-AEG,2025-08-21,Before market open,Financial Services,11728.835584,7.44,,,
-BBAR,2025-08-20,After market close,Financial Services,3315.968,14.94,,,
-BILI,2025-08-21,Before market open,Communication Services,10425.53344,25.07,,,
-BOSC,2025-08-21,Before market open,Technology,29.084678,4.93,,,
-CSIQ,2025-08-21,Before market open,Technology,853.895552,12.54,,,
-FINV,2025-08-20,After market close,Financial Services,2192.030976,8.79,,,
-HOV,2025-08-21,Before market open,Consumer Cyclical,755.006656,155.36,,,
-LYTS,2025-08-21,Before market open,Technology,579.086848,18.98,,,
-MNSO,2025-08-21,Before market open,Consumer Cyclical,6387.063808,20.13,,,
-OCFT,2025-08-21,Before market open,Technology,289.902112,7.31,,,
-SCSC,2025-08-21,Before market open,Technology,960.990848,43.06,0.3456,,
-SLQT,2025-08-21,Before market open,Financial Services,316.079424,1.88,,,
-TWIN,2025-08-21,Before market open,Industrials,121.953176,8.69,,,
-UFI,2025-08-20,After market close,Consumer Cyclical,81.705112,4.49,,,
-VNET,2025-08-21,Before market open,Technology,2146.827392,7.84,,,
-YMM,2025-08-21,Before market open,Technology,11515.24864,10.93,,,
-YRD,2025-08-21,Before market open,Financial Services,503.749856,5.92,,,
-YSG,2025-08-21,Before market open,Consumer Defensive,879.771136,9.48,,,
+BJ,2025-08-22,Before market open,Consumer Defensive,14018.5344,107.34,0.236,0.4079,1.7283898305084746
+ROST,2025-08-21,After market close,Consumer Cyclical,47628.079104,146.35,0.2343,0.3405,1.4532650448143407
+WDAY,2025-08-21,After market close,Technology,60671.91808,227.49,0.3372,0.4728,1.402135231316726
+INTU,2025-08-21,After market close,Technology,194638.06976,699.15,0.2663,0.3722,1.3976717987232445
+BKE,2025-08-22,Before market open,Consumer Cyclical,2805.961472,55.04,0.2583,0.3581,1.386372435152923
+RLX,2025-08-22,Before market open,Consumer Defensive,2729.305344,2.24,,,
+ZKH,2025-08-22,Before market open,Consumer Cyclical,470.786592,2.99,,,
+ZM,2025-08-21,After market close,Technology,22137.43616,72.16,,,
