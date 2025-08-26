@@ -1,9 +1,20 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-BJ,2025-08-22,Before market open,Consumer Defensive,14018.5344,107.34,0.236,0.4079,1.7283898305084746
-ROST,2025-08-21,After market close,Consumer Cyclical,47628.079104,146.35,0.2343,0.3405,1.4532650448143407
-WDAY,2025-08-21,After market close,Technology,60671.91808,227.49,0.3372,0.4728,1.402135231316726
-INTU,2025-08-21,After market close,Technology,194638.06976,699.15,0.2663,0.3722,1.3976717987232445
-BKE,2025-08-22,Before market open,Consumer Cyclical,2805.961472,55.04,0.2583,0.3581,1.386372435152923
-RLX,2025-08-22,Before market open,Consumer Defensive,2729.305344,2.24,,,
-ZKH,2025-08-22,Before market open,Consumer Cyclical,470.786592,2.99,,,
-ZM,2025-08-21,After market close,Technology,22137.43616,72.16,,,
+SMTC,2025-08-25,After market close,Technology,4418.415616,51.09,0.486,0.7921,1.6298353909465022
+ATAT,2025-08-26,Before market open,Consumer Cyclical,4850.328576,35.73,,,
+BEKE,2025-08-26,Before market open,Real Estate,21859.241984,18.53,,,
+BMO,2025-08-26,Before market open,Financial Services,82150.014976,114.73,,,
+BNS,2025-08-26,Before market open,Financial Services,71396.646912,57.63,,,
+BWLP,2025-08-26,Before market open,Industrials,2419.974656,16.39,,,
+CDLR,2025-08-26,Before market open,Industrials,1917.997312,22.53,,,
+CTRN,2025-08-26,Before market open,Consumer Cyclical,282.246496,32.59,,,
+DQ,2025-08-26,Before market open,Technology,1602.655104,22.86,,,
+ECX,2025-08-26,Before market open,Consumer Cyclical,626.533696,1.67,,,
+EH,2025-08-26,Before market open,Industrials,1280.611328,18.51,,,
+FSCO,2025-08-25,After market close,Financial Services,1459.90016,7.46,,,
+GOTU,2025-08-26,Before market open,Consumer Defensive,936.15104,3.69,,,
+HDL,2025-08-26,Before market open,Consumer Cyclical,1192.477312,20.4044,,,
+HEI,2025-08-25,After market close,Industrials,37005.070336,309.59,,,
+HEI.A,2025-08-25,After market close,,,,,,
+PDCC,2025-08-26,Before market open,Financial Services,109.796976,16.285,,,
+SNT,2025-08-25,After market close,Industrials,108.235888,4.325,,,
+THCH,2025-08-26,Before market open,Consumer Cyclical,79.706144,2.47,,,
