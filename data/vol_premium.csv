@@ -1,20 +1,25 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-SMTC,2025-08-25,After market close,Technology,4418.415616,51.09,0.486,0.7921,1.6298353909465022
-ATAT,2025-08-26,Before market open,Consumer Cyclical,4850.328576,35.73,,,
-BEKE,2025-08-26,Before market open,Real Estate,21859.241984,18.53,,,
-BMO,2025-08-26,Before market open,Financial Services,82150.014976,114.73,,,
-BNS,2025-08-26,Before market open,Financial Services,71396.646912,57.63,,,
-BWLP,2025-08-26,Before market open,Industrials,2419.974656,16.39,,,
-CDLR,2025-08-26,Before market open,Industrials,1917.997312,22.53,,,
-CTRN,2025-08-26,Before market open,Consumer Cyclical,282.246496,32.59,,,
-DQ,2025-08-26,Before market open,Technology,1602.655104,22.86,,,
-ECX,2025-08-26,Before market open,Consumer Cyclical,626.533696,1.67,,,
-EH,2025-08-26,Before market open,Industrials,1280.611328,18.51,,,
-FSCO,2025-08-25,After market close,Financial Services,1459.90016,7.46,,,
-GOTU,2025-08-26,Before market open,Consumer Defensive,936.15104,3.69,,,
-HDL,2025-08-26,Before market open,Consumer Cyclical,1192.477312,20.4044,,,
-HEI,2025-08-25,After market close,Industrials,37005.070336,309.59,,,
-HEI.A,2025-08-25,After market close,,,,,,
-PDCC,2025-08-26,Before market open,Financial Services,109.796976,16.285,,,
-SNT,2025-08-25,After market close,Industrials,108.235888,4.325,,,
-THCH,2025-08-26,Before market open,Consumer Cyclical,79.706144,2.47,,,
+BOX,2025-08-26,After market close,Technology,4512.342016,31.42,0.1855,0.4318,2.3277628032345015
+OKTA,2025-08-26,After market close,Technology,16029.682688,91.356,0.3475,0.6367,1.8322302158273385
+PVH,2025-08-26,After market close,Consumer Cyclical,3965.549824,81.6,0.3399,0.5491,1.6154751397469846
+REX,2025-08-27,Before market open,Basic Materials,1004.273536,60.68,0.265,0.4037,1.5233962264150942
+WSM,2025-08-27,Before market open,Consumer Cyclical,24344.993792,197.96,0.3685,0.5338,1.4485753052917234
+ANF,2025-08-27,Before market open,Consumer Cyclical,4609.012736,99.76,0.5034,0.719,1.4282876440206596
+PLAB,2025-08-27,Before market open,Technology,1339.551616,22.07,0.4127,0.5773,1.3988369275502788
+DCI,2025-08-27,Before market open,Industrials,8812.406784,75.34,0.1778,0.2304,1.2958380202474689
+SJM,2025-08-27,Before market open,Consumer Defensive,11797.116928,111.55,0.2352,0.2883,1.225765306122449
+KSS,2025-08-27,Before market open,Consumer Cyclical,1461.027712,13.95,1.2788,0.9037,0.7066781357522678
+GES,2025-08-27,Before market open,Consumer Cyclical,876.478016,16.8,0.7811,0.312,0.3994366918448342
+DXLG,2025-08-27,Before market open,Consumer Cyclical,69.959496,1.33,,,
+ELMD,2025-08-26,After market close,Healthcare,173.257232,20.2,,,
+HAFN,2025-08-27,Before market open,Industrials,2943.663872,5.91,,,
+JOYY,2025-08-26,After market close,Communication Services,2665.751808,52.54,,,
+MCFT,2025-08-27,Before market open,Consumer Cyclical,347.046592,21.35,,,
+MDB,2025-08-26,After market close,Technology,17514.643456,218.44,,,
+NCNO,2025-08-26,After market close,Technology,3326.375936,28.37,,,
+OOMA,2025-08-26,After market close,Technology,337.342976,11.98,,,
+RY,2025-08-27,Before market open,Financial Services,194654.732288,136.23,,,
+TIGR,2025-08-27,Before market open,Financial Services,2264.793856,12.701,,,
+TUYA,2025-08-26,After market close,Technology,1620.065024,2.56,,,
+YB,2025-08-27,Before market open,Technology,1348.799616,29.43,,,
+ZH,2025-08-27,Before market open,Communication Services,409.88928,4.8,,,
