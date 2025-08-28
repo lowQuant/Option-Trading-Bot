@@ -10,36 +10,42 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-08-26 21:47:33 EDT
+## 🕒 Last Updated: 2025-08-27 21:46:53 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | BOX      | 2025-08-26 | After market close | Technology             | $4.5B        | $31.42  | 18.55%       | 43.18%       | 2.33x         |
-|  1 | OKTA     | 2025-08-26 | After market close | Technology             | $16.0B       | $91.36  | 34.75%       | 63.67%       | 1.83x         |
-|  2 | PVH      | 2025-08-26 | After market close | Consumer Cyclical      | $4.0B        | $81.60  | 33.99%       | 54.91%       | 1.62x         |
-|  3 | REX      | 2025-08-27 | Before market open | Basic Materials        | $1.0B        | $60.68  | 26.50%       | 40.37%       | 1.52x         |
-|  4 | WSM      | 2025-08-27 | Before market open | Consumer Cyclical      | $24.3B       | $197.96 | 36.85%       | 53.38%       | 1.45x         |
-|  5 | ANF      | 2025-08-27 | Before market open | Consumer Cyclical      | $4.6B        | $99.76  | 50.34%       | 71.90%       | 1.43x         |
-|  6 | PLAB     | 2025-08-27 | Before market open | Technology             | $1.3B        | $22.07  | 41.27%       | 57.73%       | 1.40x         |
-|  7 | DCI      | 2025-08-27 | Before market open | Industrials            | $8.8B        | $75.34  | 17.78%       | 23.04%       | 1.30x         |
-|  8 | SJM      | 2025-08-27 | Before market open | Consumer Defensive     | $11.8B       | $111.55 | 23.52%       | 28.83%       | 1.23x         |
-|  9 | KSS      | 2025-08-27 | Before market open | Consumer Cyclical      | $1.5B        | $13.95  | 127.88%      | 90.37%       | 0.71x         |
-| 10 | GES      | 2025-08-27 | Before market open | Consumer Cyclical      | $876.5M      | $16.80  | 78.11%       | 31.20%       | 0.40x         |
-| 11 | DXLG     | 2025-08-27 | Before market open | Consumer Cyclical      | $70.0M       | $1.33   | nan%         | nan%         | nanx          |
-| 12 | ELMD     | 2025-08-26 | After market close | Healthcare             | $173.3M      | $20.20  | nan%         | nan%         | nanx          |
-| 13 | HAFN     | 2025-08-27 | Before market open | Industrials            | $2.9B        | $5.91   | nan%         | nan%         | nanx          |
-| 14 | JOYY     | 2025-08-26 | After market close | Communication Services | $2.7B        | $52.54  | nan%         | nan%         | nanx          |
-| 15 | MCFT     | 2025-08-27 | Before market open | Consumer Cyclical      | $347.0M      | $21.35  | nan%         | nan%         | nanx          |
-| 16 | MDB      | 2025-08-26 | After market close | Technology             | $17.5B       | $218.44 | nan%         | nan%         | nanx          |
-| 17 | NCNO     | 2025-08-26 | After market close | Technology             | $3.3B        | $28.37  | nan%         | nan%         | nanx          |
-| 18 | OOMA     | 2025-08-26 | After market close | Technology             | $337.3M      | $11.98  | nan%         | nan%         | nanx          |
-| 19 | RY       | 2025-08-27 | Before market open | Financial Services     | $194.7B      | $136.23 | nan%         | nan%         | nanx          |
-| 20 | TIGR     | 2025-08-27 | Before market open | Financial Services     | $2.3B        | $12.70  | nan%         | nan%         | nanx          |
-| 21 | TUYA     | 2025-08-26 | After market close | Technology             | $1.6B        | $2.56   | nan%         | nan%         | nanx          |
-| 22 | YB       | 2025-08-27 | Before market open | Technology             | $1.3B        | $29.43  | nan%         | nan%         | nanx          |
-| 23 | ZH       | 2025-08-27 | Before market open | Communication Services | $409.9M      | $4.80   | nan%         | nan%         | nanx          |
+|  0 | BILL     | 2025-08-27 | After market close | Technology             | $4.3B        | $40.63  | 37.08%       | 80.41%       | 2.17x         |
+|  1 | CRWD     | 2025-08-27 | After market close | Technology             | $105.3B      | $417.60 | 27.85%       | 51.21%       | 1.84x         |
+|  2 | NTAP     | 2025-08-27 | After market close | Technology             | $22.4B       | $109.41 | 22.77%       | 40.99%       | 1.80x         |
+|  3 | FIVE     | 2025-08-27 | After market close | Consumer Cyclical      | $8.0B        | $141.98 | 31.78%       | 56.66%       | 1.78x         |
+|  4 | DG       | 2025-08-28 | Before market open | Consumer Defensive     | $24.5B       | $110.50 | 24.40%       | 43.46%       | 1.78x         |
+|  5 | NVDA     | 2025-08-27 | After market close | Technology             | $4.4tr       | $181.77 | 26.15%       | 44.31%       | 1.69x         |
+|  6 | BURL     | 2025-08-28 | Before market open | Consumer Cyclical      | $17.7B       | $279.05 | 29.01%       | 46.21%       | 1.59x         |
+|  7 | COO      | 2025-08-27 | After market close | Healthcare             | $14.8B       | $73.66  | 25.88%       | 41.04%       | 1.59x         |
+|  8 | OLLI     | 2025-08-28 | Before market open | Consumer Defensive     | $8.0B        | $130.49 | 30.99%       | 48.71%       | 1.57x         |
+|  9 | PSTG     | 2025-08-27 | After market close | Technology             | $19.9B       | $58.56  | 42.29%       | 63.66%       | 1.51x         |
+| 10 | DKS      | 2025-08-28 | Before market open | Consumer Cyclical      | $18.1B       | $226.81 | 29.51%       | 44.39%       | 1.50x         |
+| 11 | URBN     | 2025-08-27 | After market close | Consumer Cyclical      | $7.0B        | $76.26  | 39.52%       | 59.44%       | 1.50x         |
+| 12 | HRL      | 2025-08-28 | Before market open | Consumer Defensive     | $16.0B       | $28.76  | 18.66%       | 27.85%       | 1.49x         |
+| 13 | HPQ      | 2025-08-27 | After market close | Technology             | $25.5B       | $27.01  | 27.43%       | 40.66%       | 1.48x         |
+| 14 | BBWI     | 2025-08-28 | Before market open | Consumer Cyclical      | $6.7B        | $31.35  | 39.92%       | 56.15%       | 1.41x         |
+| 15 | BBY      | 2025-08-28 | Before market open | Consumer Cyclical      | $15.9B       | $73.67  | 31.52%       | 43.70%       | 1.39x         |
+| 16 | BF.B     | 2025-08-28 | Before market open | nan                    | N/A          | $nan    | 33.42%       | 44.71%       | 1.34x         |
+| 17 | GEF      | 2025-08-27 | After market close | Consumer Cyclical      | $3.2B        | $66.33  | 22.96%       | 30.40%       | 1.32x         |
+| 18 | VSCO     | 2025-08-28 | Before market open | Consumer Cyclical      | $1.8B        | $21.99  | 58.45%       | 76.01%       | 1.30x         |
+| 19 | PAHC     | 2025-08-27 | After market close | Healthcare             | $1.3B        | $32.64  | 37.77%       | 45.97%       | 1.22x         |
+| 20 | A        | 2025-08-27 | After market close | Healthcare             | $33.7B       | $118.30 | 33.57%       | 34.95%       | 1.04x         |
+| 21 | ALAR     | 2025-08-28 | Before market open | Technology             | $119.3M      | $16.82  | nan%         | nan%         | nanx          |
+| 22 | ARX      | 2025-08-28 | Before market open | Financial Services     | $6.4B        | $29.23  | nan%         | nan%         | nanx          |
+| 23 | BBW      | 2025-08-28 | Before market open | Consumer Cyclical      | $773.5M      | $57.32  | nan%         | nan%         | nanx          |
+| 24 | BF.A     | 2025-08-28 | Before market open | nan                    | N/A          | $nan    | nan%         | nan%         | nanx          |
+| 25 | BZUN     | 2025-08-28 | Before market open | Consumer Cyclical      | $176.5M      | $3.01   | nan%         | nan%         | nanx          |
+| 26 | CCG      | 2025-08-28 | Before market open | Communication Services | $69.2M       | $0.86   | nan%         | nan%         | nanx          |
+| 27 | CLCO     | 2025-08-28 | Before market open | Energy                 | $412.4M      | $7.87   | nan%         | nan%         | nanx          |
+| 28 | CM       | 2025-08-28 | Before market open | Financial Services     | $70.3B       | $73.81  | nan%         | nan%         | nanx          |
+| 29 | CMBT     | 2025-08-28 | Before market open | Energy                 | $2.3B        | $8.54   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
