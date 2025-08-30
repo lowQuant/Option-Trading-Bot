@@ -1,19 +1,4 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-GAP,2025-08-28,After market close,Consumer Cyclical,8319.374848,22.3,0.2962,0.5822,1.9655638082376774
-ULTA,2025-08-28,After market close,Consumer Cyclical,23849.484288,533.81,0.2077,0.3792,1.8257101588830043
-ADSK,2025-08-28,After market close,Technology,61720.989696,285.95,0.2259,0.3338,1.4776449756529437
-DELL,2025-08-28,After market close,Technology,89620.611072,132.5,0.3762,0.495,1.3157894736842106
-AFRM,2025-08-28,After market close,Technology,25804.773376,77.59,,,
-AMBA,2025-08-28,After market close,Technology,2995.707648,71.93,,,
-BABA,2025-08-29,Before market open,Consumer Cyclical,297319.170048,122.23,,,
-BULL,2025-08-28,After market close,Technology,7111.238656,14.44,,,
-CARL,2025-08-28,After market close,Healthcare,363.008128,13.9,,,
-DOMO,2025-08-28,After market close,Technology,616.401728,17.57,,,
-DOOO,2025-08-29,Before market open,Consumer Cyclical,4151.795456,57.03,,,
-ESTC,2025-08-28,After market close,Technology,9264.917504,83.3,,,
-IREN,2025-08-28,After market close,Financial Services,5572.616192,22.355,,,
-LANV,2025-08-29,Before market open,Consumer Cyclical,262.019664,2.02,,,
-LOT,2025-08-29,Before market open,Consumer Cyclical,1438.854528,2.19,,,
-MRVL,2025-08-28,After market close,Technology,66587.70944,74.79,,,
-S,2025-08-28,After market close,Technology,5855.060992,17.15,,,
-WOOF,2025-08-28,After market close,Consumer Cyclical,892.762304,3.2,,,
+SIG,2025-09-02,Before market open,Consumer Cyclical,3697.756672,89.86,0.47,0.676,1.4382978723404256
+ASO,2025-09-02,Before market open,Consumer Cyclical,3559.773696,53.66,0.4459,0.4893,1.097331240188383
+NIO,2025-09-02,Before market open,Consumer Cyclical,14569.176064,6.51,,,
