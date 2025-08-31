@@ -1,4 +1,5 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-SIG,2025-09-02,Before market open,Consumer Cyclical,3697.756672,89.86,0.47,0.676,1.4382978723404256
-ASO,2025-09-02,Before market open,Consumer Cyclical,3559.773696,53.66,0.4459,0.4893,1.097331240188383
-NIO,2025-09-02,Before market open,Consumer Cyclical,14569.176064,6.51,,,
+SIG,2025-09-02,Before market open,Consumer Cyclical,3623.275264,89.86,0.4744,0.6535,1.3775295109612142
+ASO,2025-09-02,Before market open,Consumer Cyclical,3559.773696,53.66,0.4459,0.4836,1.0845481049562682
+CISS,2025-09-02,Before market open,Industrials,2.352376,2.99,,,
+NIO,2025-09-02,Before market open,Consumer Cyclical,14579.704832,6.51,,,
