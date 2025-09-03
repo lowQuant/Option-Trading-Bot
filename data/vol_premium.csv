@@ -1,5 +1,11 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-SIG,2025-09-02,Before market open,Consumer Cyclical,3623.275264,89.86,0.4744,0.6535,1.3775295109612142
-ASO,2025-09-02,Before market open,Consumer Cyclical,3559.773696,53.66,0.4459,0.4836,1.0845481049562682
-CISS,2025-09-02,Before market open,Industrials,2.352376,2.99,,,
-NIO,2025-09-02,Before market open,Consumer Cyclical,14579.704832,6.51,,,
+DLTR,2025-09-03,Before market open,Consumer Defensive,23238.299648,109.17,0.1727,0.4164,2.411117544875507
+CPB,2025-09-03,Before market open,Consumer Defensive,9379.16928,31.93,0.2452,0.3585,1.4620717781402937
+CXM,2025-09-03,Before market open,Technology,2226.006784,8.64,0.4136,0.5839,1.411750483558994
+HQY,2025-09-02,After market close,Healthcare,7683.339264,89.33,0.3194,0.4352,1.3625547902316844
+M,2025-09-03,Before market open,Consumer Cyclical,3663.07456,13.23,0.4351,0.5437,1.2495977936106641
+GEG,2025-09-02,After market close,Financial Services,74.993664,2.41,,,
+JILL,2025-09-03,Before market open,Consumer Cyclical,257.824224,16.76,,,
+REVG,2025-09-03,Before market open,Industrials,2527.705344,53.21,,,
+RGS,2025-09-03,Before market open,Consumer Cyclical,53.85952,22.15,,,
+ZS,2025-09-02,After market close,Technology,42749.452288,277.05,,,
