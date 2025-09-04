@@ -1,11 +1,30 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-DLTR,2025-09-03,Before market open,Consumer Defensive,23238.299648,109.17,0.1727,0.4164,2.411117544875507
-CPB,2025-09-03,Before market open,Consumer Defensive,9379.16928,31.93,0.2452,0.3585,1.4620717781402937
-CXM,2025-09-03,Before market open,Technology,2226.006784,8.64,0.4136,0.5839,1.411750483558994
-HQY,2025-09-02,After market close,Healthcare,7683.339264,89.33,0.3194,0.4352,1.3625547902316844
-M,2025-09-03,Before market open,Consumer Cyclical,3663.07456,13.23,0.4351,0.5437,1.2495977936106641
-GEG,2025-09-02,After market close,Financial Services,74.993664,2.41,,,
-JILL,2025-09-03,Before market open,Consumer Cyclical,257.824224,16.76,,,
-REVG,2025-09-03,Before market open,Industrials,2527.705344,53.21,,,
-RGS,2025-09-03,Before market open,Consumer Cyclical,53.85952,22.15,,,
-ZS,2025-09-02,After market close,Technology,42749.452288,277.05,,,
+GIII,2025-09-04,Before market open,Consumer Cyclical,1174.453376,27.03,0.2638,0.6688,2.535253980288097
+WLY,2025-09-04,Before market open,Communication Services,2121.439232,39.78,0.2275,0.5015,2.204395604395604
+SAIC,2025-09-04,Before market open,Technology,5348.655104,118.27,0.1863,0.367,1.969940955448202
+CRM,2025-09-03,After market close,Technology,245166.211072,252.86,0.2729,0.4485,1.6434591425430563
+HPE,2025-09-03,After market close,Technology,29944.860672,22.68,0.2822,0.4555,1.614103472714387
+CIEN,2025-09-04,Before market open,Technology,13404.420096,93.59,0.3939,0.6075,1.5422696115765424
+CAL,2025-09-04,Before market open,Consumer Cyclical,505.260672,14.8,0.5285,0.7959,1.5059602649006625
+TTC,2025-09-04,Before market open,Industrials,7947.126784,81.44,0.2684,0.3651,1.3602831594634872
+SCVL,2025-09-04,Before market open,Consumer Cyclical,588.537664,21.44,0.5059,0.6778,1.3397904724253804
+BRC,2025-09-04,Before market open,Industrials,3676.421888,77.79,0.1773,0.2344,1.3220530174844896
+AEO,2025-09-03,After market close,Consumer Cyclical,2359.910144,13.51,0.9017,0.744,0.8251081290894977
+AI,2025-09-03,After market close,Technology,2293.950464,16.82,,,
+ASAN,2025-09-03,After market close,Technology,3348.632064,13.92,,,
+CHPT,2025-09-03,After market close,Consumer Cyclical,251.776592,10.72,,,
+CRDO,2025-09-03,After market close,Technology,21581.965312,124.27,,,
+CRMT,2025-09-04,Before market open,Consumer Cyclical,369.596192,45.09,,,
+DAVA,2025-09-04,Before market open,Technology,854.954304,14.34,,,
+DLTH,2025-09-04,Before market open,Consumer Cyclical,88.6862,2.37,,,
+DSGX,2025-09-03,After market close,Technology,8536.246784,98.4,,,
+FIG,2025-09-03,After market close,Technology,33369.188352,65.57,,,
+FLWS,2025-09-04,Before market open,Consumer Cyclical,338.79344,5.58,,,
+GTLB,2025-09-03,After market close,Technology,7749.53216,47.69,,,
+MEI,2025-09-03,After market close,Technology,273.989344,7.78,,,
+PD,2025-09-03,After market close,Technology,1436.99264,16.12,,,
+TLYS,2025-09-03,After market close,Consumer Cyclical,53.972016,1.79,,,
+VBNK,2025-09-04,Before market open,Financial Services,369.413568,11.02,,,
+WDH,2025-09-04,Before market open,Financial Services,636.526208,1.76,,,
+WLYB,2025-09-04,Before market open,Communication Services,2099.608064,39.43,,,
+YQ,2025-09-03,After market close,Consumer Defensive,18.146006,1.99,,,
