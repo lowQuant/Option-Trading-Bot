@@ -1,23 +1,14 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-GWRE,2025-09-04,After market close,Technology,18459.795456,219.25,0.2096,0.4952,2.3625954198473282
-CPRT,2025-09-04,After market close,Industrials,48317.792256,48.12,0.1782,0.376,2.1099887766554435
-ABM,2025-09-05,Before market open,Industrials,2994.609664,48.72,0.2135,0.4334,2.029976580796253
-LULU,2025-09-04,After market close,Consumer Cyclical,23793.913856,198.53,0.348,0.6728,1.9333333333333333
-AVGO,2025-09-04,After market close,Technology,1439732.20352,302.39,0.2945,0.4682,1.5898132427843803
-DOCU,2025-09-04,After market close,Technology,15405.283328,75.9,0.4029,0.592,1.4693472325639116
-NX,2025-09-04,After market close,Industrials,961.299584,20.09,0.466,0.6409,1.375321888412017
-AGX,2025-09-04,After market close,Industrials,3244.191488,227.03,,,
-AMBQ,2025-09-04,After market close,Technology,740.203328,38.4,,,
-AOUT,2025-09-04,After market close,Consumer Cyclical,132.683192,10.24,,,
-BBCP,2025-09-04,After market close,Industrials,354.31136,6.77,,,
-BRZE,2025-09-04,After market close,Technology,2850.473728,26.99,,,
-CURV,2025-09-04,After market close,Consumer Cyclical,235.718064,2.36,,,
-EGAN,2025-09-04,After market close,Technology,171.21504,6.24,,,
-IOT,2025-09-04,After market close,Technology,20217.12896,35.51,,,
-LFVN,2025-09-04,After market close,Consumer Defensive,170.822208,13.57,,,
-PATH,2025-09-04,After market close,Technology,5805.173248,10.88,,,
-PHR,2025-09-04,After market close,Healthcare,1857.129088,30.44,,,
-SPWH,2025-09-04,After market close,Consumer Cyclical,115.337784,2.64,,,
-SWBI,2025-09-04,After market close,Industrials,363.788384,8.02,,,
-TTAN,2025-09-04,After market close,Technology,9322.780672,102.82,,,
-ZUMZ,2025-09-04,After market close,Consumer Cyclical,327.867584,17.54,,,
+CASY,2025-09-08,After market close,Consumer Cyclical,19389.89056,505.64,0.1265,0.3785,2.992094861660079
+CNM,2025-09-09,Before market open,Industrials,13126.68672,66.98,0.2001,0.4399,2.1984007996002
+KFY,2025-09-09,Before market open,Industrials,3794.274304,73.23,0.2407,0.3218,1.3369339426672204
+AVO,2025-09-08,After market close,Consumer Defensive,908.856256,12.63,,,
+BIOX,2025-09-09,Before market open,Basic Materials,161.02744,2.71,,,
+CGNT,2025-09-09,Before market open,Technology,695.39552,9.005,,,
+DBI,2025-09-09,Before market open,Consumer Cyclical,230.939184,4.73,,,
+FCEL,2025-09-09,Before market open,Industrials,96.177592,4.05,,,
+GMHS,2025-09-09,Before market open,Communication Services,92.675064,1.92,,,
+MAMA,2025-09-08,After market close,Consumer Defensive,373.850336,9.44,,,
+MOMO,2025-09-09,Before market open,Communication Services,1304.632192,8.52,,,
+SAIL,2025-09-09,Before market open,Technology,12462.026752,21.98,,,
+SI,2025-09-09,Before market open,,321.633152,14.85,,,
