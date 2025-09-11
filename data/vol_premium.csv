@@ -1,21 +1,13 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-GME,2025-09-09,After market close,Consumer Cyclical,10552.655872,23.22,0.2568,0.6593,2.567367601246106
-AVAV,2025-09-09,After market close,Industrials,11533.83936,236.91,0.3584,0.667,1.8610491071428572
-ORCL,2025-09-09,After market close,Technology,678360.51456,238.48,0.3739,0.5347,1.430061513773736
-CHWY,2025-09-10,Before market open,Consumer Cyclical,17379.510272,41.62,0.3997,0.5631,1.4088066049537153
-SNPS,2025-09-09,After market close,Technology,111835.037696,609.225,0.3048,0.3774,1.2381889763779528
-ALMU,2025-09-09,After market close,Technology,289.037856,17.7,,,
-AMBR,2025-09-10,Before market open,Technology,400.962816,4.43,,,
-AMRK,2025-09-09,After market close,Financial Services,602.07392,24.58,,,
-CVGW,2025-09-09,After market close,Consumer Defensive,491.236512,27.21,,,
-DAKT,2025-09-10,Before market open,Technology,856.175552,17.62,,,
-INNV,2025-09-09,After market close,Healthcare,576.505472,4.03,,,
-LAKE,2025-09-09,After market close,Consumer Cyclical,137.390816,15.0,,,
-LE,2025-09-09,After market close,Consumer Cyclical,432.407616,14.47,,,
-LMNR,2025-09-09,After market close,Consumer Defensive,284.225376,15.72,,,
-MEI,2025-09-09,After market close,Technology,260.606544,7.25,,,
-MIND,2025-09-09,After market close,Technology,76.187656,9.48,,,
-MTRX,2025-09-09,After market close,Industrials,393.449632,14.71,,,
-RBRK,2025-09-09,After market close,Technology,19059.060736,95.61,,,
-SKIL,2025-09-09,After market close,Consumer Defensive,128.595448,15.03,,,
-TEN,2025-09-10,Before market open,Energy,675.762048,22.91,,,
+KR,2025-09-11,Before market open,Consumer Defensive,44317.282304,67.63,0.2228,0.3133,1.4061938958707363
+OXM,2025-09-10,After market close,Consumer Cyclical,603.53952,40.75,0.4819,0.6769,1.4046482672753682
+AENT,2025-09-10,After market close,Communication Services,355.033664,5.9,,,
+CMCM,2025-09-11,Before market open,Communication Services,226.497376,7.08,,,
+HOFT,2025-09-11,Before market open,Consumer Cyclical,117.453056,10.85,,,
+KALV,2025-09-11,Before market open,Healthcare,774.729536,15.61,,,
+KEQU,2025-09-10,After market close,Consumer Cyclical,161.172512,53.68,,,
+LOVE,2025-09-11,Before market open,Consumer Cyclical,301.893824,19.3,,,
+LSAK,2025-09-10,After market close,Technology,384.309664,4.65,,,
+VNCE,2025-09-10,After market close,Consumer Cyclical,21.325356,1.5,,,
+VRA,2025-09-11,Before market open,Consumer Cyclical,63.688152,2.3,,,
+ZENV,2025-09-10,After market close,Technology,93.604152,1.555,,,
