@@ -1,8 +1,8 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-ADBE,2025-09-11,After market close,Technology,148703.297536,350.16,0.2891,0.5334,1.8450363196125905
-FARM,2025-09-11,After market close,Consumer Defensive,50.22408,1.96,,,
-HUIZ,2025-09-12,Before market open,Financial Services,27.541814,2.73,,,
-IBEX,2025-09-11,After market close,Technology,407.323296,28.92,,,
-KMTS,2025-09-11,After market close,Healthcare,944.816064,18.19,,,
-RENT,2025-09-11,After market close,Consumer Cyclical,31.097094,6.09,,,
-RFIL,2025-09-11,After market close,Industrials,91.056896,7.68,,,
+PLAY,2025-09-15,After market close,Communication Services,836.393472,23.64,0.5476,0.8536,1.5588020452885318
+CSBR,2025-09-15,After market close,Healthcare,114.44372,6.83,,,
+FERG,2025-09-16,Before market open,Industrials,43053.166592,211.61,,,
+HITI,2025-09-15,After market close,Healthcare,320.408032,3.43,,,
+OPTT,2025-09-15,After market close,Industrials,103.690832,0.574,,,
+RLGT,2025-09-15,After market close,Industrials,324.345216,6.52,,,
+TBHC,2025-09-16,Before market open,Consumer Cyclical,53.233452,2.37,,,
