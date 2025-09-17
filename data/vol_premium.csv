@@ -1,8 +1,6 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-PLAY,2025-09-15,After market close,Communication Services,836.393472,23.64,0.5476,0.8536,1.5588020452885318
-CSBR,2025-09-15,After market close,Healthcare,114.44372,6.83,,,
-FERG,2025-09-16,Before market open,Industrials,43053.166592,211.61,,,
-HITI,2025-09-15,After market close,Healthcare,320.408032,3.43,,,
-OPTT,2025-09-15,After market close,Industrials,103.690832,0.574,,,
-RLGT,2025-09-15,After market close,Industrials,324.345216,6.52,,,
-TBHC,2025-09-16,Before market open,Consumer Cyclical,53.233452,2.37,,,
+GIS,2025-09-17,Before market open,Consumer Defensive,26499.039232,49.01,0.1622,0.3179,1.9599260172626387
+EPM,2025-09-16,After market close,Energy,188.691808,5.27,,,
+FLUX,2025-09-16,After market close,Industrials,53.032456,2.07,,,
+IPHA,2025-09-17,Before market open,Healthcare,191.707136,2.0761,,,
+QSG,2025-09-17,Before market open,Consumer Defensive,518.796928,9.6,,,
