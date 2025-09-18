@@ -1,6 +1,7 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-GIS,2025-09-17,Before market open,Consumer Defensive,26499.039232,49.01,0.1622,0.3179,1.9599260172626387
-EPM,2025-09-16,After market close,Energy,188.691808,5.27,,,
-FLUX,2025-09-16,After market close,Industrials,53.032456,2.07,,,
-IPHA,2025-09-17,Before market open,Healthcare,191.707136,2.0761,,,
-QSG,2025-09-17,Before market open,Consumer Defensive,518.796928,9.6,,,
+DRI,2025-09-18,Before market open,Consumer Cyclical,24343.84896,210.04,0.1322,0.3146,2.3797276853252645
+FDS,2025-09-18,Before market open,Financial Services,12704.589824,345.19,0.2731,0.3839,1.4057121933357746
+CBRL,2025-09-17,After market close,Consumer Cyclical,1104.218112,51.21,0.5764,0.6031,1.0463219986120749
+BLSH,2025-09-17,After market close,Technology,7945.086464,51.36,,,
+NNDM,2025-09-17,After market close,Technology,321.579552,1.47,,,
+SANG,2025-09-17,After market close,Technology,203.92944,5.8809,,,
