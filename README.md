@@ -10,18 +10,18 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-09-17 21:41:56 EDT
+## 🕒 Last Updated: 2025-09-18 21:45:03 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | DRI      | 2025-09-18 | Before market open | Consumer Cyclical  | $24.3B       | $210.04 | 13.22%       | 31.46%       | 2.38x         |
-|  1 | FDS      | 2025-09-18 | Before market open | Financial Services | $12.7B       | $345.19 | 27.31%       | 38.39%       | 1.41x         |
-|  2 | CBRL     | 2025-09-17 | After market close | Consumer Cyclical  | $1.1B        | $51.21  | 57.64%       | 60.31%       | 1.05x         |
-|  3 | BLSH     | 2025-09-17 | After market close | Technology         | $7.9B        | $51.36  | nan%         | nan%         | nanx          |
-|  4 | NNDM     | 2025-09-17 | After market close | Technology         | $321.6M      | $1.47   | nan%         | nan%         | nanx          |
-|  5 | SANG     | 2025-09-17 | After market close | Technology         | $203.9M      | $5.88   | nan%         | nan%         | nanx          |
+|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | SCHL     | 2025-09-18 | After market close | Communication Services | $691.3M      | $27.21  | 33.53%       | 67.95%       | 2.03x         |
+|  1 | FDX      | 2025-09-18 | After market close | Industrials            | $53.4B       | $225.78 | 25.98%       | 44.02%       | 1.69x         |
+|  2 | LEN      | 2025-09-18 | After market close | Consumer Cyclical      | $34.2B       | $132.97 | 32.87%       | 43.87%       | 1.33x         |
+|  3 | LEN.B    | 2025-09-18 | After market close | nan                    | N/A          | $nan    | nan%         | nan%         | nanx          |
+|  4 | MNY      | 2025-09-19 | Before market open | Communication Services | $94.5M       | $1.95   | nan%         | nan%         | nanx          |
+|  5 | RSSS     | 2025-09-18 | After market close | Technology             | $127.6M      | $3.70   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
