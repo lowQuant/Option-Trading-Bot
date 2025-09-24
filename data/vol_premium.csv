@@ -1,3 +1,9 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-AZO,2025-09-23,Before market open,Consumer Cyclical,69262.901248,4140.36,0.166,0.2748,1.6554216867469878
-FLY,2025-09-22,After market close,Industrials,7256.828928,45.2,,,
+CTAS,2025-09-24,Before market open,Industrials,80827.84256,202.59,0.165,0.3157,1.913333333333333
+MLKN,2025-09-23,After market close,Consumer Cyclical,1302.193792,19.9,0.3635,0.6203,1.7064649243466299
+AIR,2025-09-23,After market close,Industrials,2817.791232,76.9,0.3027,0.498,1.6451932606541129
+WOR,2025-09-23,After market close,Industrials,3000.557824,61.03,0.317,0.4315,1.361198738170347
+MU,2025-09-23,After market close,Technology,186233.618432,164.62,0.4653,0.623,1.3389211261551688
+THO,2025-09-24,Before market open,Consumer Cyclical,5405.299712,101.67,0.4205,0.5017,1.1931034482758622
+AYTU,2025-09-23,After market close,Healthcare,22.532054,2.49,,,
+UEC,2025-09-24,Before market open,Energy,6154.235904,13.42,,,
