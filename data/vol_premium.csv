@@ -1,9 +1,13 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-CTAS,2025-09-24,Before market open,Industrials,80827.84256,202.59,0.165,0.3157,1.913333333333333
-MLKN,2025-09-23,After market close,Consumer Cyclical,1302.193792,19.9,0.3635,0.6203,1.7064649243466299
-AIR,2025-09-23,After market close,Industrials,2817.791232,76.9,0.3027,0.498,1.6451932606541129
-WOR,2025-09-23,After market close,Industrials,3000.557824,61.03,0.317,0.4315,1.361198738170347
-MU,2025-09-23,After market close,Technology,186233.618432,164.62,0.4653,0.623,1.3389211261551688
-THO,2025-09-24,Before market open,Consumer Cyclical,5405.299712,101.67,0.4205,0.5017,1.1931034482758622
-AYTU,2025-09-23,After market close,Healthcare,22.532054,2.49,,,
-UEC,2025-09-24,Before market open,Energy,6154.235904,13.42,,,
+WS,2025-09-24,After market close,Basic Materials,1728.08128,33.05,0.3746,0.8152,2.1761879337960495
+ACN,2025-09-25,Before market open,Technology,148911.620096,235.5,0.2268,0.4506,1.9867724867724867
+KMX,2025-09-25,Before market open,Consumer Cyclical,8561.616384,57.6,0.3146,0.5836,1.8550540368722188
+SNX,2025-09-25,Before market open,Technology,12398.10048,151.88,0.2172,0.3614,1.66390423572744
+JBL,2025-09-25,Before market open,Technology,24176.787456,234.45,0.3328,0.546,1.6406250000000002
+KBH,2025-09-24,After market close,Consumer Cyclical,4244.970496,62.41,0.3635,0.4272,1.1752407152682256
+FUL,2025-09-24,After market close,Basic Materials,3198.43968,59.62,0.3337,0.3076,0.9217860353611027
+BB,2025-09-25,Before market open,Technology,2538.646784,4.27,,,
+IVA,2025-09-25,Before market open,Healthcare,767.609408,5.67,,,
+LUXE,2025-09-25,Before market open,Consumer Cyclical,1114.177664,8.25,,,
+SCS,2025-09-24,After market close,Consumer Cyclical,1913.48736,16.87,,,
+SFIX,2025-09-24,After market close,Consumer Cyclical,735.944384,5.46,,,

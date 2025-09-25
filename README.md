@@ -10,20 +10,24 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-09-23 21:44:09 EDT
+## 🕒 Last Updated: 2025-09-24 21:44:50 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector            | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | CTAS     | 2025-09-24 | Before market open | Industrials       | $80.8B       | $202.59 | 16.50%       | 31.57%       | 1.91x         |
-|  1 | MLKN     | 2025-09-23 | After market close | Consumer Cyclical | $1.3B        | $19.90  | 36.35%       | 62.03%       | 1.71x         |
-|  2 | AIR      | 2025-09-23 | After market close | Industrials       | $2.8B        | $76.90  | 30.27%       | 49.80%       | 1.65x         |
-|  3 | WOR      | 2025-09-23 | After market close | Industrials       | $3.0B        | $61.03  | 31.70%       | 43.15%       | 1.36x         |
-|  4 | MU       | 2025-09-23 | After market close | Technology        | $186.2B      | $164.62 | 46.53%       | 62.30%       | 1.34x         |
-|  5 | THO      | 2025-09-24 | Before market open | Consumer Cyclical | $5.4B        | $101.67 | 42.05%       | 50.17%       | 1.19x         |
-|  6 | AYTU     | 2025-09-23 | After market close | Healthcare        | $22.5M       | $2.49   | nan%         | nan%         | nanx          |
-|  7 | UEC      | 2025-09-24 | Before market open | Energy            | $6.2B        | $13.42  | nan%         | nan%         | nanx          |
+|  0 | WS       | 2025-09-24 | After market close | Basic Materials   | $1.7B        | $33.05  | 37.46%       | 81.52%       | 2.18x         |
+|  1 | ACN      | 2025-09-25 | Before market open | Technology        | $148.9B      | $235.50 | 22.68%       | 45.06%       | 1.99x         |
+|  2 | KMX      | 2025-09-25 | Before market open | Consumer Cyclical | $8.6B        | $57.60  | 31.46%       | 58.36%       | 1.86x         |
+|  3 | SNX      | 2025-09-25 | Before market open | Technology        | $12.4B       | $151.88 | 21.72%       | 36.14%       | 1.66x         |
+|  4 | JBL      | 2025-09-25 | Before market open | Technology        | $24.2B       | $234.45 | 33.28%       | 54.60%       | 1.64x         |
+|  5 | KBH      | 2025-09-24 | After market close | Consumer Cyclical | $4.2B        | $62.41  | 36.35%       | 42.72%       | 1.18x         |
+|  6 | FUL      | 2025-09-24 | After market close | Basic Materials   | $3.2B        | $59.62  | 33.37%       | 30.76%       | 0.92x         |
+|  7 | BB       | 2025-09-25 | Before market open | Technology        | $2.5B        | $4.27   | nan%         | nan%         | nanx          |
+|  8 | IVA      | 2025-09-25 | Before market open | Healthcare        | $767.6M      | $5.67   | nan%         | nan%         | nanx          |
+|  9 | LUXE     | 2025-09-25 | Before market open | Consumer Cyclical | $1.1B        | $8.25   | nan%         | nan%         | nanx          |
+| 10 | SCS      | 2025-09-24 | After market close | Consumer Cyclical | $1.9B        | $16.87  | nan%         | nan%         | nanx          |
+| 11 | SFIX     | 2025-09-24 | After market close | Consumer Cyclical | $735.9M      | $5.46   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
