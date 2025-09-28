@@ -10,14 +10,15 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-09-26 21:40:01 EDT
+## 🕒 Last Updated: 2025-09-27 21:53:15 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector            | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:------------------|:-------------|:--------|:-------------|:-------------|:--------------|
 |  0 | CCL      | 2025-09-29 | Before market open | Consumer Cyclical | $41.5B       | $30.48  | 30.07%       | 49.49%       | 1.65x         |
-|  1 | CUK      | 2025-09-29 | Before market open | Consumer Cyclical | $36.6B       | $27.56  | nan%         | nan%         | nanx          |
+|  1 | CUK      | 2025-09-29 | Before market open | Consumer Cyclical | $36.4B       | $27.56  | nan%         | nan%         | nanx          |
+|  2 | UXIN     | 2025-09-29 | Before market open | Consumer Cyclical | $723.7M      | $3.48   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
