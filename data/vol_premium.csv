@@ -1,12 +1,7 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-PRGS,2025-09-29,After market close,Technology,1836.84672,42.02,0.3097,0.7146,2.307394252502422
-PAYX,2025-09-30,Before market open,Technology,46220.529664,128.21,0.1702,0.3419,2.008813160987074
-UNFI,2025-09-30,Before market open,Consumer Defensive,1923.561472,31.62,0.3585,0.6453,1.8
-LW,2025-09-30,Before market open,Consumer Defensive,7757.877248,55.22,0.3211,0.5204,1.6206789162254749
-MTN,2025-09-29,After market close,Consumer Cyclical,5500.78464,147.74,0.295,0.4279,1.4505084745762713
-JEF,2025-09-29,After market close,Financial Services,13750.64064,66.71,0.3178,0.4227,1.330081812460667
-FEAM,2025-09-29,After market close,Basic Materials,82.359424,3.66,,,
-IDT,2025-09-29,After market close,Communication Services,1617.007104,62.57,,,
-NVNI,2025-09-30,Before market open,Technology,128.2384,1.45,,,
-TRAK,2025-09-29,After market close,Technology,302.656832,16.93,,,
-VRAR,2025-09-30,Before market open,Technology,38.110464,1.67,,,
+NKE,2025-09-30,After market close,Consumer Cyclical,102629.113856,69.55,0.202,0.4598,2.276237623762376
+AYI,2025-10-01,Before market open,Industrials,10553.77408,339.11,0.2426,0.3988,1.6438582028029678
+CAG,2025-10-01,Before market open,Consumer Defensive,8832.902144,18.04,0.2407,0.3812,1.5837141670128791
+RPM,2025-10-01,Before market open,Basic Materials,15123.103744,117.03,0.2222,0.3333,1.4999999999999998
+CALM,2025-10-01,Before market open,Consumer Defensive,4673.28768,96.12,0.3341,0.4405,1.3184675246932056
+NG,2025-10-01,Before market open,Basic Materials,3580.699136,8.48,,,

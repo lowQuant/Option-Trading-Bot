@@ -10,23 +10,18 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-09-29 21:41:55 EDT
+## 🕒 Last Updated: 2025-09-30 21:54:18 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | PRGS     | 2025-09-29 | After market close | Technology             | $1.8B        | $42.02  | 30.97%       | 71.46%       | 2.31x         |
-|  1 | PAYX     | 2025-09-30 | Before market open | Technology             | $46.2B       | $128.21 | 17.02%       | 34.19%       | 2.01x         |
-|  2 | UNFI     | 2025-09-30 | Before market open | Consumer Defensive     | $1.9B        | $31.62  | 35.85%       | 64.53%       | 1.80x         |
-|  3 | LW       | 2025-09-30 | Before market open | Consumer Defensive     | $7.8B        | $55.22  | 32.11%       | 52.04%       | 1.62x         |
-|  4 | MTN      | 2025-09-29 | After market close | Consumer Cyclical      | $5.5B        | $147.74 | 29.50%       | 42.79%       | 1.45x         |
-|  5 | JEF      | 2025-09-29 | After market close | Financial Services     | $13.8B       | $66.71  | 31.78%       | 42.27%       | 1.33x         |
-|  6 | FEAM     | 2025-09-29 | After market close | Basic Materials        | $82.4M       | $3.66   | nan%         | nan%         | nanx          |
-|  7 | IDT      | 2025-09-29 | After market close | Communication Services | $1.6B        | $62.57  | nan%         | nan%         | nanx          |
-|  8 | NVNI     | 2025-09-30 | Before market open | Technology             | $128.2M      | $1.45   | nan%         | nan%         | nanx          |
-|  9 | TRAK     | 2025-09-29 | After market close | Technology             | $302.7M      | $16.93  | nan%         | nan%         | nanx          |
-| 10 | VRAR     | 2025-09-30 | Before market open | Technology             | $38.1M       | $1.67   | nan%         | nan%         | nanx          |
+|    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | NKE      | 2025-09-30 | After market close | Consumer Cyclical  | $102.6B      | $69.55  | 20.20%       | 45.98%       | 2.28x         |
+|  1 | AYI      | 2025-10-01 | Before market open | Industrials        | $10.6B       | $339.11 | 24.26%       | 39.88%       | 1.64x         |
+|  2 | CAG      | 2025-10-01 | Before market open | Consumer Defensive | $8.8B        | $18.04  | 24.07%       | 38.12%       | 1.58x         |
+|  3 | RPM      | 2025-10-01 | Before market open | Basic Materials    | $15.1B       | $117.03 | 22.22%       | 33.33%       | 1.50x         |
+|  4 | CALM     | 2025-10-01 | Before market open | Consumer Defensive | $4.7B        | $96.12  | 33.41%       | 44.05%       | 1.32x         |
+|  5 | NG       | 2025-10-01 | Before market open | Basic Materials    | $3.6B        | $8.48   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
