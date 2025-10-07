@@ -1,7 +1,5 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-NKE,2025-09-30,After market close,Consumer Cyclical,102629.113856,69.55,0.202,0.4598,2.276237623762376
-AYI,2025-10-01,Before market open,Industrials,10553.77408,339.11,0.2426,0.3988,1.6438582028029678
-CAG,2025-10-01,Before market open,Consumer Defensive,8832.902144,18.04,0.2407,0.3812,1.5837141670128791
-RPM,2025-10-01,Before market open,Basic Materials,15123.103744,117.03,0.2222,0.3333,1.4999999999999998
-CALM,2025-10-01,Before market open,Consumer Defensive,4673.28768,96.12,0.3341,0.4405,1.3184675246932056
-NG,2025-10-01,Before market open,Basic Materials,3580.699136,8.48,,,
+MKC,2025-10-07,Before market open,Consumer Defensive,18104.426496,68.91,0.2402,0.3421,1.4242298084929226
+STZ,2025-10-06,After market close,Consumer Defensive,24449.892352,142.2,0.3334,0.3967,1.1898620275944811
+AEHR,2025-10-06,After market close,Technology,986.128896,31.02,,,
+MKC.V,2025-10-07,Before market open,,,,,,
