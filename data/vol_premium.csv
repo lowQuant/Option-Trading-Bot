@@ -1,5 +1,3 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-MKC,2025-10-07,Before market open,Consumer Defensive,18104.426496,68.91,0.2402,0.3421,1.4242298084929226
-STZ,2025-10-06,After market close,Consumer Defensive,24449.892352,142.2,0.3334,0.3967,1.1898620275944811
-AEHR,2025-10-06,After market close,Technology,986.128896,31.02,,,
-MKC.V,2025-10-07,Before market open,,,,,,
+PENG,2025-10-07,After market close,Technology,1535.352576,29.3,0.3234,0.776,2.399505256648114
+SAR,2025-10-07,After market close,Financial Services,389.384288,24.16,,,
