@@ -1,11 +1,6 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-DAL,2025-10-09,Before market open,Industrials,37296.41472,56.63,0.2134,0.5163,2.4194001874414246
-HELE,2025-10-09,Before market open,Consumer Defensive,633.79712,27.01,0.419,0.9522,2.2725536992840096
-NEOG,2025-10-09,Before market open,Healthcare,1264.678016,5.59,0.4431,0.7989,1.8029790115098174
-AZZ,2025-10-08,After market close,Industrials,3179.687168,105.08,0.2427,0.409,1.6852080758137618
-PEP,2025-10-09,Before market open,Consumer Defensive,190082.678784,140.79,0.1739,0.2722,1.5652673950546292
-BSET,2025-10-08,After market close,Consumer Cyclical,146.071872,15.9,,,
-BYRN,2025-10-09,Before market open,Industrials,517.646944,22.61,,,
-RELL,2025-10-08,After market close,Technology,153.655392,9.84,,,
-RGP,2025-10-08,After market close,Industrials,165.179408,4.85,,,
-TLRY,2025-10-09,Before market open,Healthcare,1908.372864,1.71,,,
+APOG,2025-10-09,After market close,Industrials,892.185344,43.32,0.3609,0.6396,1.7722360764754779
+APLD,2025-10-09,After market close,Technology,7888.244224,27.94,,,
+EDUC,2025-10-09,After market close,Communication Services,13.818954,1.52,,,
+LEVI,2025-10-09,After market close,Consumer Cyclical,9709.360128,24.66,,,
+ODC,2025-10-09,After market close,Basic Materials,876.683456,60.67,,,
