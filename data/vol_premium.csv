@@ -1,6 +1,2 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-APOG,2025-10-09,After market close,Industrials,892.185344,43.32,0.3609,0.6396,1.7722360764754779
-APLD,2025-10-09,After market close,Technology,7888.244224,27.94,,,
-EDUC,2025-10-09,After market close,Communication Services,13.818954,1.52,,,
-LEVI,2025-10-09,After market close,Consumer Cyclical,9709.360128,24.66,,,
-ODC,2025-10-09,After market close,Basic Materials,876.683456,60.67,,,
+FAST,2025-10-13,Before market open,Industrials,52538.802176,46.71,0.2055,0.328,1.5961070559610706
