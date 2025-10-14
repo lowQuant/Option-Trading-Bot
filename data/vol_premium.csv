@@ -1,2 +1,11 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-FAST,2025-10-13,Before market open,Industrials,52538.802176,46.71,0.2055,0.328,1.5961070559610706
+ACI,2025-10-14,Before market open,Consumer Defensive,9489.39776,17.12,0.1956,0.3747,1.915644171779141
+JPM,2025-10-14,Before market open,Financial Services,846841.708544,300.89,0.155,0.2817,1.8174193548387096
+FBK,2025-10-14,Before market open,Financial Services,3032.2304,55.89,0.1695,0.3057,1.8035398230088495
+C,2025-10-14,Before market open,Financial Services,176910.286848,93.93,0.1829,0.3296,1.8020776380535812
+DPZ,2025-10-14,Before market open,Consumer Cyclical,13859.986432,406.37,0.2035,0.3486,1.7130221130221133
+GS,2025-10-14,Before market open,Financial Services,238174.912512,764.36,0.189,0.3214,1.7005291005291006
+WFC,2025-10-14,Before market open,Financial Services,252815.572992,77.62,0.209,0.3211,1.5363636363636364
+BLK,2025-10-14,Before market open,Financial Services,178874.187776,1132.36,0.1752,0.2679,1.5291095890410962
+JNJ,2025-10-14,Before market open,Healthcare,459751.882752,190.72,0.1407,0.2087,1.4832977967306327
+ERIC,2025-10-14,Before market open,Technology,27300.747264,8.24,,,
