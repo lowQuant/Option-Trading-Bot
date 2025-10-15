@@ -1,11 +1,16 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-ACI,2025-10-14,Before market open,Consumer Defensive,9489.39776,17.12,0.1956,0.3747,1.915644171779141
-JPM,2025-10-14,Before market open,Financial Services,846841.708544,300.89,0.155,0.2817,1.8174193548387096
-FBK,2025-10-14,Before market open,Financial Services,3032.2304,55.89,0.1695,0.3057,1.8035398230088495
-C,2025-10-14,Before market open,Financial Services,176910.286848,93.93,0.1829,0.3296,1.8020776380535812
-DPZ,2025-10-14,Before market open,Consumer Cyclical,13859.986432,406.37,0.2035,0.3486,1.7130221130221133
-GS,2025-10-14,Before market open,Financial Services,238174.912512,764.36,0.189,0.3214,1.7005291005291006
-WFC,2025-10-14,Before market open,Financial Services,252815.572992,77.62,0.209,0.3211,1.5363636363636364
-BLK,2025-10-14,Before market open,Financial Services,178874.187776,1132.36,0.1752,0.2679,1.5291095890410962
-JNJ,2025-10-14,Before market open,Healthcare,459751.882752,190.72,0.1407,0.2087,1.4832977967306327
-ERIC,2025-10-14,Before market open,Technology,27300.747264,8.24,,,
+BAC,2025-10-15,Before market open,Financial Services,371014.008832,48.86,0.1546,0.3204,2.072445019404916
+HWC,2025-10-14,After market close,Financial Services,5299.728384,60.49,0.2083,0.4094,1.9654344695151222
+PGR,2025-10-15,Before market open,Financial Services,140970.55744,236.28,0.1555,0.2873,1.847588424437299
+ABT,2025-10-15,Before market open,Healthcare,231950.974976,131.38,0.1551,0.2683,1.7298517085751128
+SYF,2025-10-15,Before market open,Financial Services,27100.669952,70.14,0.2544,0.416,1.6352201257861634
+MS,2025-10-15,Before market open,Financial Services,247974.78912,155.13,0.1957,0.3195,1.632600919775166
+FHN,2025-10-15,Before market open,Financial Services,11688.35072,22.45,0.2417,0.394,1.6301199834505586
+PNC,2025-10-15,Before market open,Financial Services,74446.544896,185.22,0.1748,0.2783,1.5921052631578947
+PLD,2025-10-15,Before market open,Real Estate,107214.258176,112.72,0.2006,0.2829,1.4102691924227317
+CFG,2025-10-15,Before market open,Financial Services,22343.876608,50.25,0.2411,0.3276,1.3587722936540854
+AMX,2025-10-14,After market close,Communication Services,64288.321536,21.34,,,
+ASML,2025-10-15,Before market open,Technology,381619.044352,984.66,,,
+BSVN,2025-10-15,Before market open,Financial Services,428.412896,43.95,,,
+EQBK,2025-10-14,After market close,Financial Services,812.346368,40.46,,,
+KARO,2025-10-14,After market close,Technology,1742.382208,52.51,,,
