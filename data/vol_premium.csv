@@ -1,16 +1,29 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-BAC,2025-10-15,Before market open,Financial Services,371014.008832,48.86,0.1546,0.3204,2.072445019404916
-HWC,2025-10-14,After market close,Financial Services,5299.728384,60.49,0.2083,0.4094,1.9654344695151222
-PGR,2025-10-15,Before market open,Financial Services,140970.55744,236.28,0.1555,0.2873,1.847588424437299
-ABT,2025-10-15,Before market open,Healthcare,231950.974976,131.38,0.1551,0.2683,1.7298517085751128
-SYF,2025-10-15,Before market open,Financial Services,27100.669952,70.14,0.2544,0.416,1.6352201257861634
-MS,2025-10-15,Before market open,Financial Services,247974.78912,155.13,0.1957,0.3195,1.632600919775166
-FHN,2025-10-15,Before market open,Financial Services,11688.35072,22.45,0.2417,0.394,1.6301199834505586
-PNC,2025-10-15,Before market open,Financial Services,74446.544896,185.22,0.1748,0.2783,1.5921052631578947
-PLD,2025-10-15,Before market open,Real Estate,107214.258176,112.72,0.2006,0.2829,1.4102691924227317
-CFG,2025-10-15,Before market open,Financial Services,22343.876608,50.25,0.2411,0.3276,1.3587722936540854
-AMX,2025-10-14,After market close,Communication Services,64288.321536,21.34,,,
-ASML,2025-10-15,Before market open,Technology,381619.044352,984.66,,,
-BSVN,2025-10-15,Before market open,Financial Services,428.412896,43.95,,,
-EQBK,2025-10-14,After market close,Financial Services,812.346368,40.46,,,
-KARO,2025-10-14,After market close,Technology,1742.382208,52.51,,,
+BK,2025-10-16,Before market open,Financial Services,76821.880832,107.11,0.1594,0.3338,2.094102885821832
+SNV,2025-10-15,After market close,Financial Services,6518.603776,47.84,0.2623,0.4705,1.793747617232177
+IIIN,2025-10-16,Before market open,Industrials,728.64544,37.12,0.2464,0.4297,1.7439123376623378
+MAN,2025-10-16,Before market open,Industrials,1759.987072,37.97,0.3602,0.6243,1.7332037756801775
+UAL,2025-10-15,After market close,Industrials,33684.3264,103.15,0.3302,0.5603,1.6968503937007875
+MMC,2025-10-16,Before market open,Financial Services,100217.561088,207.02,0.1474,0.25,1.6960651289009498
+CMC,2025-10-16,Before market open,Basic Materials,6763.962368,60.43,0.2843,0.462,1.6250439676398172
+PNFP,2025-10-15,After market close,Financial Services,6987.377152,91.88,0.2682,0.4272,1.592841163310962
+EPAC,2025-10-15,After market close,Industrials,2174.213888,40.31,0.2558,0.3973,1.5531665363565283
+MTB,2025-10-16,Before market open,Financial Services,28914.507776,187.04,0.2005,0.3105,1.5486284289276806
+SNA,2025-10-16,Before market open,Industrials,17349.015552,337.02,0.2044,0.3041,1.4877690802348336
+TFIN,2025-10-15,After market close,Financial Services,1136.62464,48.34,0.3914,0.5802,1.4823709759836485
+CBSH,2025-10-16,Before market open,Financial Services,7549.809664,58.88,0.1836,0.2657,1.4471677559912852
+KEY,2025-10-16,Before market open,Financial Services,19441.225728,18.01,0.2367,0.3403,1.4376848331220955
+USB,2025-10-16,Before market open,Financial Services,72285.003776,47.09,0.2064,0.2926,1.4176356589147288
+JBHT,2025-10-15,After market close,Industrials,13438.644224,139.37,0.3109,0.4351,1.3994853650691539
+TRV,2025-10-16,Before market open,Financial Services,60662.317056,275.64,0.1916,0.2668,1.3924843423799582
+SCHW,2025-10-16,Before market open,Financial Services,171229.642752,93.39,0.2785,0.3737,1.341831238779174
+REXR,2025-10-15,After market close,Real Estate,10024.342528,40.94,0.2329,0.3112,1.3361957921854872
+SLG,2025-10-15,After market close,Real Estate,4335.48032,56.03,0.3724,0.4186,1.12406015037594
+BANR,2025-10-15,After market close,Financial Services,2211.116544,64.031,0.2446,0.2744,1.1218315617334422
+FR,2025-10-15,After market close,Real Estate,7326.211584,51.93,0.1733,,
+GSBC,2025-10-15,After market close,Financial Services,705.30272,62.4,,,
+HOMB,2025-10-15,After market close,Financial Services,5409.809408,28.34,0.2409,,
+INFY,2025-10-16,Before market open,Technology,69486.804992,16.48,,,
+MMLP,2025-10-15,After market close,Energy,120.680216,3.16,,,
+TSM,2025-10-16,Before market open,Technology,1580385.435648,295.94,,,
+WIT,2025-10-16,Before market open,Technology,29350.37952,2.73,,,
