@@ -1,22 +1,4 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-LBRT,2025-10-16,After market close,Energy,1933.751296,12.34,0.4697,0.7605,1.619118586331701
-SLB,2025-10-17,Before market open,Energy,49178.488832,32.57,0.266,0.4144,1.5578947368421052
-FNB,2025-10-16,After market close,Financial Services,5261.452288,15.79,0.242,0.3692,1.5256198347107437
-OZK,2025-10-16,After market close,Financial Services,5296.3968,50.5,0.2394,0.3599,1.5033416875522139
-AXP,2025-10-17,Before market open,Financial Services,224853.458944,330.66,0.2216,0.332,1.4981949458483756
-TFC,2025-10-17,Before market open,Financial Services,52982.890496,43.26,0.2123,0.3117,1.468205369759774
-ALV,2025-10-17,Before market open,Consumer Cyclical,9305.194496,120.9,0.2468,0.3555,1.4404376012965965
-RF,2025-10-17,Before market open,Financial Services,20835.39968,24.74,0.2253,0.3228,1.432756324900133
-STT,2025-10-17,Before market open,Financial Services,32043.38688,116.71,0.2447,0.3337,1.3637106661217817
-FITB,2025-10-17,Before market open,Financial Services,26434.101248,42.92,0.2366,0.322,1.3609467455621302
-ALLY,2025-10-17,Before market open,Financial Services,11835.218944,39.7,0.3232,0.4294,1.3285891089108912
-GBCI,2025-10-16,After market close,Financial Services,5852.01152,48.02,0.2736,0.3626,1.3252923976608186
-HBAN,2025-10-17,Before market open,Financial Services,22423.502848,16.21,0.2401,0.3115,1.2973760932944607
-SFNC,2025-10-16,After market close,Financial Services,2607.51104,19.0,0.2374,0.3079,1.2969671440606572
-CSX,2025-10-16,After market close,Industrials,67095.330816,36.24,0.2291,0.2832,1.2361414229594063
-INDB,2025-10-16,After market close,Financial Services,3214.085888,67.92,0.2913,0.3484,1.1960178510127015
-WBS,2025-10-17,Before market open,Financial Services,8990.804992,58.2,0.311,0.3711,1.1932475884244373
-IBKR,2025-10-16,After market close,Financial Services,116471.717888,69.77,0.3723,0.4302,1.1555197421434327
-CMA,2025-10-17,Before market open,Financial Services,9422.45376,78.61,0.4498,0.2972,0.6607381058248111
-CNS,2025-10-16,After market close,Financial Services,3355.580416,66.55,0.1605,,
-WAFD,2025-10-16,After market close,Financial Services,2192.782848,28.89,0.1846,,
+CLF,2025-10-20,Before market open,Basic Materials,6708.06784,13.56,0.5538,0.7676,1.386059949440231
+DX,2025-10-20,Before market open,Real Estate,1738.224768,13.2,,,
+HBT,2025-10-20,Before market open,Financial Services,743.292224,23.18,,,
