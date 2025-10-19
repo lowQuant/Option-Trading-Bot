@@ -10,15 +10,16 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-10-17 21:41:01 EDT
+## 🕒 Last Updated: 2025-10-18 21:57:18 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | CLF      | 2025-10-20 | Before market open | Basic Materials    | $6.7B        | $13.56  | 55.38%       | 76.76%       | 1.39x         |
+|  0 | CLF      | 2025-10-20 | Before market open | Basic Materials    | $6.6B        | $13.56  | 51.59%       | 74.61%       | 1.45x         |
 |  1 | DX       | 2025-10-20 | Before market open | Real Estate        | $1.7B        | $13.20  | nan%         | nan%         | nanx          |
 |  2 | HBT      | 2025-10-20 | Before market open | Financial Services | $743.3M      | $23.18  | nan%         | nan%         | nanx          |
+|  3 | SMMT     | 2025-10-20 | Before market open | Healthcare         | $15.6B       | $21.97  | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 

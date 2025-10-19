@@ -1,4 +1,5 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-CLF,2025-10-20,Before market open,Basic Materials,6708.06784,13.56,0.5538,0.7676,1.386059949440231
+CLF,2025-10-20,Before market open,Basic Materials,6589.340672,13.56,0.5159,0.7461,1.4462105059119983
 DX,2025-10-20,Before market open,Real Estate,1738.224768,13.2,,,
 HBT,2025-10-20,Before market open,Financial Services,743.292224,23.18,,,
+SMMT,2025-10-20,Before market open,Healthcare,15592.35072,21.97,,,
