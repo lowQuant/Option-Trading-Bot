@@ -1,8 +1,9 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-RVTY,2025-10-27,Before market open,Healthcare,11478.417408,97.57,0.3205,0.6141,1.9160686427457096
-DEA,2025-10-27,Before market open,Real Estate,1137.18016,22.39,0.2216,0.2918,1.3167870036101084
-LKFN,2025-10-27,Before market open,Financial Services,1579.039744,60.14,0.2863,0.3282,1.1463499825358017
-BOH,2025-10-27,Before market open,Financial Services,2541.143808,62.3,0.2502,0.2748,1.0983213429256595
-ARLP,2025-10-27,Before market open,Energy,3088.69376,24.05,,,
+RVTY,2025-10-27,Before market open,Healthcare,11478.417408,97.57,0.3008,0.6026,2.0033244680851063
+CRI,2025-10-27,Before market open,Consumer Cyclical,1178.580864,31.78,0.5288,0.6945,1.3133509833585475
+DEA,2025-10-27,Before market open,Real Estate,1142.259072,22.39,0.2198,0.2774,1.262056414922657
+BOH,2025-10-27,Before market open,Financial Services,2541.143808,62.3,0.2621,0.3108,1.1858069439145364
+LKFN,2025-10-27,Before market open,Financial Services,1579.039744,60.14,0.2924,0.3284,1.1231190150478798
+ARLP,2025-10-27,Before market open,Energy,2960.265728,24.05,,,
 BMRC,2025-10-27,Before market open,Financial Services,394.586112,23.49,,,
-DQ,2025-10-27,Before market open,Technology,1756.885888,26.2,,,
+DQ,2025-10-27,Before market open,Technology,1745.486336,26.2,,,
