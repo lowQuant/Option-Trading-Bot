@@ -10,42 +10,42 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-10-27 21:48:15 EDT
+## 🕒 Last Updated: 2025-10-28 21:55:05 EDT
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | INCY     | 2025-10-28 | Before market open | Healthcare         | $18.2B       | $91.28  | 21.71%       | 53.03%       | 2.44x         |
-|  1 | AGYS     | 2025-10-27 | After market close | Technology         | $3.3B        | $116.53 | 26.50%       | 64.61%       | 2.44x         |
-|  2 | BMRN     | 2025-10-27 | After market close | Healthcare         | $10.5B       | $54.48  | 20.55%       | 48.07%       | 2.34x         |
-|  3 | UPS      | 2025-10-28 | Before market open | Industrials        | $73.9B       | $87.22  | 17.81%       | 41.48%       | 2.33x         |
-|  4 | XYL      | 2025-10-28 | Before market open | Industrials        | $36.4B       | $148.25 | 13.69%       | 30.38%       | 2.22x         |
-|  5 | AWI      | 2025-10-28 | Before market open | Industrials        | $8.8B        | $203.32 | 16.05%       | 34.41%       | 2.14x         |
-|  6 | CAR      | 2025-10-27 | After market close | Industrials        | $5.5B        | $157.01 | 28.22%       | 57.39%       | 2.03x         |
-|  7 | LEG      | 2025-10-27 | After market close | Consumer Cyclical  | $1.2B        | $9.12   | 29.75%       | 58.09%       | 1.95x         |
-|  8 | SHW      | 2025-10-28 | Before market open | Basic Materials    | $83.8B       | $334.00 | 15.07%       | 28.96%       | 1.92x         |
-|  9 | KRC      | 2025-10-27 | After market close | Real Estate        | $4.9B        | $40.89  | 17.10%       | 32.53%       | 1.90x         |
-| 10 | CR       | 2025-10-27 | After market close | Industrials        | $11.0B       | $191.76 | 23.25%       | 43.85%       | 1.89x         |
-| 11 | PHIN     | 2025-10-28 | Before market open | Consumer Cyclical  | $2.1B        | $54.70  | 19.98%       | 37.04%       | 1.85x         |
-| 12 | WM       | 2025-10-27 | After market close | Industrials        | $86.5B       | $214.66 | 13.40%       | 24.68%       | 1.84x         |
-| 13 | RCL      | 2025-10-28 | Before market open | Consumer Cyclical  | $87.0B       | $316.45 | 25.95%       | 47.18%       | 1.82x         |
-| 14 | UNH      | 2025-10-28 | Before market open | Healthcare         | $331.5B      | $362.50 | 22.15%       | 39.68%       | 1.79x         |
-| 15 | VFC      | 2025-10-28 | Before market open | Consumer Cyclical  | $6.5B        | $16.31  | 46.37%       | 80.60%       | 1.74x         |
-| 16 | WHR      | 2025-10-27 | After market close | Consumer Cyclical  | $4.1B        | $73.66  | 30.02%       | 52.18%       | 1.74x         |
-| 17 | UHS      | 2025-10-27 | After market close | Healthcare         | $13.4B       | $210.68 | 22.68%       | 39.41%       | 1.74x         |
-| 18 | JBLU     | 2025-10-28 | Before market open | Industrials        | $1.7B        | $4.57   | 41.18%       | 71.05%       | 1.73x         |
-| 19 | GPI      | 2025-10-28 | Before market open | Consumer Cyclical  | $5.4B        | $423.96 | 26.21%       | 44.98%       | 1.72x         |
-| 20 | ALKS     | 2025-10-28 | Before market open | Healthcare         | $4.9B        | $29.80  | 34.34%       | 58.30%       | 1.70x         |
-| 21 | SSD      | 2025-10-27 | After market close | Basic Materials    | $7.3B        | $175.32 | 21.12%       | 35.51%       | 1.68x         |
-| 22 | GLW      | 2025-10-28 | Before market open | Technology         | $76.6B       | $87.41  | 30.05%       | 49.80%       | 1.66x         |
-| 23 | HUBB     | 2025-10-28 | Before market open | Industrials        | $23.1B       | $434.39 | 23.56%       | 39.01%       | 1.66x         |
-| 24 | THC      | 2025-10-28 | Before market open | Healthcare         | $19.1B       | $210.38 | 28.26%       | 45.42%       | 1.61x         |
-| 25 | AXTA     | 2025-10-28 | Before market open | Basic Materials    | $6.3B        | $29.04  | 26.13%       | 41.96%       | 1.61x         |
-| 26 | CARR     | 2025-10-28 | Before market open | Industrials        | $49.6B       | $57.84  | 26.02%       | 41.13%       | 1.58x         |
-| 27 | LH       | 2025-10-28 | Before market open | Healthcare         | $23.2B       | $279.49 | 17.80%       | 27.34%       | 1.54x         |
-| 28 | NXRT     | 2025-10-28 | Before market open | Real Estate        | $1.6B        | $31.48  | 22.67%       | 34.64%       | 1.53x         |
-| 29 | HIG      | 2025-10-27 | After market close | Financial Services | $35.2B       | $125.11 | 17.66%       | 26.92%       | 1.52x         |
+|  0 | GTLS     | 2025-10-29 | Before market open | Industrials        | $9.0B        | $199.50 | 2.24%        | 13.84%       | 6.18x         |
+|  1 | GBX      | 2025-10-28 | After market close | Industrials        | $1.4B        | $45.70  | 22.65%       | 59.51%       | 2.63x         |
+|  2 | ZWS      | 2025-10-28 | After market close | Industrials        | $7.8B        | $46.62  | 18.01%       | 42.76%       | 2.37x         |
+|  3 | CVS      | 2025-10-29 | Before market open | Healthcare         | $104.3B      | $82.45  | 15.54%       | 35.19%       | 2.26x         |
+|  4 | LRN      | 2025-10-28 | After market close | Consumer Defensive | $6.7B        | $152.64 | 27.43%       | 62.10%       | 2.26x         |
+|  5 | CHE      | 2025-10-28 | After market close | Healthcare         | $6.4B        | $436.78 | 19.32%       | 41.66%       | 2.16x         |
+|  6 | MGPI     | 2025-10-29 | Before market open | Consumer Defensive | $504.0M      | $23.56  | 23.58%       | 50.40%       | 2.14x         |
+|  7 | FI       | 2025-10-29 | Before market open | Technology         | $68.6B       | $126.54 | 23.23%       | 49.21%       | 2.12x         |
+|  8 | SLGN     | 2025-10-29 | Before market open | Consumer Cyclical  | $4.8B        | $44.74  | 17.74%       | 37.28%       | 2.10x         |
+|  9 | FCPT     | 2025-10-28 | After market close | Real Estate        | $2.5B        | $24.34  | 12.48%       | 26.15%       | 2.10x         |
+| 10 | CAKE     | 2025-10-28 | After market close | Consumer Cyclical  | $2.7B        | $55.91  | 23.15%       | 47.26%       | 2.04x         |
+| 11 | REG      | 2025-10-28 | After market close | Real Estate        | $13.1B       | $73.18  | 11.74%       | 23.93%       | 2.04x         |
+| 12 | BLKB     | 2025-10-29 | Before market open | Technology         | $3.1B        | $64.46  | 20.67%       | 41.82%       | 2.02x         |
+| 13 | MSA      | 2025-10-28 | After market close | Industrials        | $6.4B        | $166.78 | 14.94%       | 29.83%       | 2.00x         |
+| 14 | TEL      | 2025-10-29 | Before market open | Technology         | $69.9B       | $236.74 | 18.38%       | 36.33%       | 1.98x         |
+| 15 | VLTO     | 2025-10-28 | After market close | Industrials        | $25.4B       | $104.12 | 11.73%       | 23.18%       | 1.98x         |
+| 16 | ADP      | 2025-10-29 | Before market open | Technology         | $113.3B      | $280.53 | 11.58%       | 22.87%       | 1.97x         |
+| 17 | NBIX     | 2025-10-28 | After market close | Healthcare         | $14.6B       | $148.94 | 22.93%       | 45.06%       | 1.97x         |
+| 18 | DAN      | 2025-10-29 | Before market open | Consumer Cyclical  | $2.6B        | $19.79  | 25.78%       | 50.14%       | 1.94x         |
+| 19 | GRMN     | 2025-10-29 | Before market open | Technology         | $48.4B       | $251.42 | 20.32%       | 39.31%       | 1.93x         |
+| 20 | CSGP     | 2025-10-28 | After market close | Real Estate        | $33.1B       | $78.12  | 22.57%       | 42.34%       | 1.88x         |
+| 21 | EXLS     | 2025-10-28 | After market close | Technology         | $6.7B        | $41.47  | 17.44%       | 32.44%       | 1.86x         |
+| 22 | OTIS     | 2025-10-29 | Before market open | Industrials        | $35.8B       | $92.05  | 14.68%       | 27.21%       | 1.85x         |
+| 23 | IEX      | 2025-10-29 | Before market open | Industrials        | $12.6B       | $167.60 | 18.40%       | 34.02%       | 1.85x         |
+| 24 | ENPH     | 2025-10-28 | After market close | Technology         | $4.8B        | $36.81  | 48.26%       | 87.50%       | 1.81x         |
+| 25 | AKR      | 2025-10-28 | After market close | Real Estate        | $2.8B        | $19.84  | 14.99%       | 27.03%       | 1.80x         |
+| 26 | MTH      | 2025-10-28 | After market close | Consumer Cyclical  | $5.1B        | $71.41  | 26.02%       | 46.83%       | 1.80x         |
+| 27 | OKE      | 2025-10-28 | After market close | Energy             | $43.5B       | $69.29  | 19.01%       | 34.18%       | 1.80x         |
+| 28 | EXTR     | 2025-10-29 | Before market open | Technology         | $2.8B        | $20.74  | 34.71%       | 61.35%       | 1.77x         |
+| 29 | VIRT     | 2025-10-29 | Before market open | Financial Services | $7.4B        | $33.86  | 22.36%       | 39.09%       | 1.75x         |
 
 ## 📝 Data Interpretation
 
