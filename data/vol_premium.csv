@@ -1,27 +1,34 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-MD,2025-11-03,Before market open,Healthcare,1514.393856,17.39,0.3128,0.6973,2.2292199488491047
-IDXX,2025-11-03,Before market open,Healthcare,50363.756544,628.54,0.2279,0.4462,1.9578762615182097
-KRYS,2025-11-03,Before market open,Healthcare,5716.527616,189.08,0.3354,0.5856,1.745974955277281
-BRKR,2025-11-03,Before market open,Healthcare,5907.951616,36.4,0.4886,0.8108,1.6594351207531723
-KTB,2025-11-03,Before market open,Consumer Cyclical,4497.066496,81.15,0.3846,0.5681,1.4771190847633906
-FRPT,2025-11-03,Before market open,Consumer Defensive,2400.457472,50.6,0.5466,0.8052,1.473106476399561
-PNW,2025-11-03,Before market open,Utilities,10694.709248,89.55,0.1626,0.2362,1.4526445264452645
-L,2025-11-03,Before market open,Financial Services,20651.372544,99.53,0.1606,0.2293,1.4277708592777087
-PEG,2025-11-03,Before market open,Utilities,40300.68736,80.75,0.1943,0.2744,1.4122490993309313
-ON,2025-11-03,Before market open,Technology,20796.327936,50.85,0.5502,0.6322,1.14903671392221
-MSEX,2025-10-31,After market close,Utilities,1035.41632,56.92,0.2918,0.3082,1.05620287868403
+MD,2025-11-03,Before market open,Healthcare,1477.818496,17.39,0.316,0.6784,2.1468354430379746
+IDXX,2025-11-03,Before market open,Healthcare,50363.756544,628.54,0.228,0.4657,2.0425438596491228
+KRYS,2025-11-03,Before market open,Healthcare,5716.527616,189.08,0.3515,0.6002,1.7075391180654338
+FRPT,2025-11-03,Before market open,Consumer Defensive,2400.457472,50.6,0.551,0.8516,1.5455535390199637
+PNW,2025-11-03,Before market open,Utilities,10571.6992,89.55,0.1657,0.2529,1.5262522631261317
+KTB,2025-11-03,Before market open,Consumer Cyclical,4497.066496,81.15,0.3804,0.5771,1.5170872765509988
+L,2025-11-03,Before market open,Financial Services,20651.372544,99.53,0.16,0.2384,1.49
+PEG,2025-11-03,Before market open,Utilities,40205.86496,80.75,0.1937,0.2829,1.460505937016004
+BRKR,2025-11-03,Before market open,Healthcare,5907.951616,36.4,0.5226,0.7614,1.4569460390355913
+MSEX,2025-10-31,After market close,Utilities,1035.41632,56.92,0.2916,0.3755,1.2877229080932784
+ON,2025-11-03,Before market open,Technology,20481.417216,50.85,0.5503,0.6976,1.2676721788115572
+AMG,2025-11-03,Before market open,Financial Services,6760.934912,236.68,0.272,0.3436,1.263235294117647
 ALX,2025-11-03,Before market open,Real Estate,1128.353536,218.54,,,
 ARES,2025-11-03,Before market open,Financial Services,48584.597504,147.29,,,
 AXSM,2025-11-03,Before market open,Healthcare,6736.20224,133.15,,,
 BCRX,2025-11-03,Before market open,Healthcare,1541.076608,7.25,,,
-BNTX,2025-11-03,Before market open,Healthcare,25168.472064,104.67,,,
+BNTX,2025-11-03,Before market open,Healthcare,24985.726976,104.67,,,
 CIFR,2025-11-03,Before market open,Financial Services,7334.784,19.07,,,
 CNA,2025-11-03,Before market open,Financial Services,12058.143744,44.61,,,
-ECX,2025-11-03,Before market open,Consumer Cyclical,841.18144,2.38,,,
-GNE,2025-11-03,Before market open,Utilities,393.689344,14.74,,,
-HESM,2025-11-03,Before market open,Energy,7171.577344,34.14,,,
+ECX,2025-11-03,Before market open,Consumer Cyclical,874.478144,2.38,,,
+FSTR,2025-11-03,Before market open,Industrials,290.376512,27.09,,,
+FUBO,2025-11-03,Before market open,Communication Services,4877.497856,3.66,,,
+GNE,2025-11-03,Before market open,Utilities,401.969088,14.74,,,
+HESM,2025-11-03,Before market open,Energy,7131.665408,34.14,,,
 III,2025-11-03,Before market open,Technology,265.55704,5.47,,,
+IRMD,2025-11-03,Before market open,Healthcare,977.023296,76.42,,,
 KOS,2025-11-03,Before market open,Energy,750.858752,1.55,,,
+KPTI,2025-11-03,Before market open,Healthcare,92.376248,5.96,,,
+LQDA,2025-11-03,Before market open,Healthcare,2097.187968,23.2,,,
+NSSC,2025-11-03,Before market open,Industrials,1574.34048,43.78,,,
 OXLC,2025-11-03,Before market open,Financial Services,1503.757824,15.19,,,
 RYAAY,2025-11-03,Before market open,Industrials,32955.037696,61.55,,,
-VERX,2025-11-03,Before market open,Technology,3605.691904,22.6,,,
+VERX,2025-11-03,Before market open,Technology,3651.959296,22.6,,,
