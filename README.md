@@ -10,42 +10,42 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-11-05 20:54:04 EST
+## 🕒 Last Updated: 2025-11-06 20:52:16 EST
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | HBI      | 2025-11-06 | Before market open | Consumer Cyclical      | $2.3B        | $6.47   | 19.40%       | 61.61%       | 3.18x         |
-|  1 | LNTH     | 2025-11-06 | Before market open | Healthcare             | $3.9B        | $57.71  | 32.10%       | 88.04%       | 2.74x         |
-|  2 | JAZZ     | 2025-11-05 | After market close | Healthcare             | $8.3B        | $137.82 | 20.55%       | 55.09%       | 2.68x         |
-|  3 | DVAX     | 2025-11-05 | After market close | Healthcare             | $1.2B        | $10.05  | 27.34%       | 71.72%       | 2.62x         |
-|  4 | UAA      | 2025-11-06 | Before market open | Consumer Cyclical      | $1.9B        | $4.48   | 26.75%       | 67.22%       | 2.51x         |
-|  5 | ADMA     | 2025-11-05 | After market close | Healthcare             | $3.7B        | $14.63  | 39.53%       | 97.59%       | 2.47x         |
-|  6 | EFC      | 2025-11-05 | After market close | Real Estate            | $1.4B        | $13.69  | 13.71%       | 33.46%       | 2.44x         |
-|  7 | RAL      | 2025-11-05 | After market close | Technology             | $5.0B        | $43.18  | 26.42%       | 64.24%       | 2.43x         |
-|  8 | PODD     | 2025-11-06 | Before market open | Healthcare             | $22.1B       | $320.27 | 21.86%       | 52.99%       | 2.42x         |
-|  9 | AMCR     | 2025-11-05 | After market close | Consumer Cyclical      | $18.6B       | $7.87   | 20.16%       | 48.61%       | 2.41x         |
-| 10 | GVA      | 2025-11-06 | Before market open | Industrials            | $4.5B        | $102.40 | 13.42%       | 32.35%       | 2.41x         |
-| 11 | FTNT     | 2025-11-05 | After market close | Technology             | $65.9B       | $85.22  | 22.56%       | 53.48%       | 2.37x         |
-| 12 | USPH     | 2025-11-05 | After market close | Healthcare             | $1.3B        | $87.04  | 23.53%       | 55.26%       | 2.35x         |
-| 13 | LNW      | 2025-11-05 | After market close | Consumer Cyclical      | $6.2B        | $73.33  | 25.05%       | 57.97%       | 2.31x         |
-| 14 | CCOI     | 2025-11-06 | Before market open | Communication Services | $1.9B        | $39.96  | 39.32%       | 89.91%       | 2.29x         |
-| 15 | VTRS     | 2025-11-06 | Before market open | Healthcare             | $12.4B       | $10.49  | 18.80%       | 42.69%       | 2.27x         |
-| 16 | SATS     | 2025-11-06 | Before market open | Communication Services | $20.8B       | $73.48  | 29.00%       | 64.15%       | 2.21x         |
-| 17 | HAE      | 2025-11-06 | Before market open | Healthcare             | $2.4B        | $50.38  | 30.21%       | 65.61%       | 2.17x         |
-| 18 | PAHC     | 2025-11-05 | After market close | Healthcare             | $1.7B        | $42.11  | 34.56%       | 73.90%       | 2.14x         |
-| 19 | FWRD     | 2025-11-05 | After market close | Industrials            | $544.7M      | $18.14  | 49.98%       | 105.38%      | 2.11x         |
-| 20 | ROK      | 2025-11-06 | Before market open | Industrials            | $40.8B       | $359.85 | 19.27%       | 40.48%       | 2.10x         |
-| 21 | COTY     | 2025-11-05 | After market close | Consumer Defensive     | $3.3B        | $3.83   | 39.03%       | 81.49%       | 2.09x         |
-| 22 | UA       | 2025-11-06 | Before market open | Consumer Cyclical      | $1.9B        | $4.30   | 26.39%       | 55.00%       | 2.08x         |
-| 23 | USFD     | 2025-11-06 | Before market open | Consumer Defensive     | $16.7B       | $73.39  | 17.00%       | 34.31%       | 2.02x         |
-| 24 | FOUR     | 2025-11-06 | Before market open | Technology             | $5.9B        | $66.74  | 38.40%       | 76.72%       | 2.00x         |
-| 25 | WMS      | 2025-11-06 | Before market open | Industrials            | $10.5B       | $135.75 | 28.32%       | 56.54%       | 2.00x         |
-| 26 | BGC      | 2025-11-06 | Before market open | Financial Services     | $4.3B        | $9.21   | 22.95%       | 45.80%       | 2.00x         |
-| 27 | PEB      | 2025-11-05 | After market close | Real Estate            | $1.2B        | $10.28  | 25.24%       | 50.26%       | 1.99x         |
-| 28 | NATL     | 2025-11-05 | After market close | Technology             | $2.8B        | $36.69  | 24.22%       | 47.89%       | 1.98x         |
-| 29 | SGI      | 2025-11-06 | Before market open | Consumer Cyclical      | $16.7B       | $80.11  | 21.27%       | 41.38%       | 1.95x         |
+|  0 | TDS      | 2025-11-07 | Before market open | Communication Services | $4.4B        | $38.77  | 19.09%       | 56.62%       | 2.97x         |
+|  1 | TRUP     | 2025-11-06 | After market close | Financial Services     | $1.8B        | $42.49  | 31.80%       | 83.71%       | 2.63x         |
+|  2 | G        | 2025-11-06 | After market close | Technology             | $6.7B        | $38.82  | 17.41%       | 43.46%       | 2.50x         |
+|  3 | CON      | 2025-11-06 | After market close | Healthcare             | $2.4B        | $19.14  | 18.53%       | 45.63%       | 2.46x         |
+|  4 | BILL     | 2025-11-06 | After market close | Technology             | $4.5B        | $46.52  | 30.61%       | 72.10%       | 2.36x         |
+|  5 | ANIP     | 2025-11-07 | Before market open | Healthcare             | $2.0B        | $92.62  | 23.70%       | 55.37%       | 2.34x         |
+|  6 | TTD      | 2025-11-06 | After market close | Communication Services | $22.4B       | $47.70  | 40.45%       | 93.74%       | 2.32x         |
+|  7 | ABNB     | 2025-11-06 | After market close | Consumer Cyclical      | $73.8B       | $122.50 | 20.69%       | 47.88%       | 2.31x         |
+|  8 | DV       | 2025-11-07 | Before market open | Communication Services | $1.8B        | $11.15  | 31.82%       | 73.40%       | 2.31x         |
+|  9 | AKAM     | 2025-11-06 | After market close | Technology             | $10.5B       | $72.98  | 25.94%       | 59.06%       | 2.28x         |
+| 10 | TTWO     | 2025-11-06 | After market close | Communication Services | $46.6B       | $254.76 | 20.24%       | 44.00%       | 2.17x         |
+| 11 | SOLV     | 2025-11-06 | After market close | Healthcare             | $11.5B       | $67.69  | 17.65%       | 38.08%       | 2.16x         |
+| 12 | KOP      | 2025-11-07 | Before market open | Basic Materials        | $548.9M      | $28.05  | 28.09%       | 59.80%       | 2.13x         |
+| 13 | BL       | 2025-11-06 | After market close | Technology             | $3.5B        | $56.92  | 31.27%       | 65.09%       | 2.08x         |
+| 14 | ARLO     | 2025-11-06 | After market close | Industrials            | $1.8B        | $17.71  | 34.63%       | 71.64%       | 2.07x         |
+| 15 | FLO      | 2025-11-06 | After market close | Consumer Defensive     | $2.5B        | $12.10  | 23.57%       | 47.47%       | 2.01x         |
+| 16 | MKTX     | 2025-11-07 | Before market open | Financial Services     | $6.2B        | $161.00 | 21.82%       | 42.96%       | 1.97x         |
+| 17 | GMED     | 2025-11-06 | After market close | Healthcare             | $8.3B        | $61.51  | 28.61%       | 56.19%       | 1.96x         |
+| 18 | AORT     | 2025-11-06 | After market close | Healthcare             | $2.2B        | $46.51  | 21.31%       | 41.71%       | 1.96x         |
+| 19 | CARG     | 2025-11-06 | After market close | Consumer Cyclical      | $3.3B        | $34.06  | 29.89%       | 56.69%       | 1.90x         |
+| 20 | DOCS     | 2025-11-06 | After market close | Healthcare             | $11.7B       | $63.99  | 40.04%       | 74.25%       | 1.85x         |
+| 21 | GEN      | 2025-11-06 | After market close | Technology             | $15.7B       | $25.84  | 19.02%       | 34.80%       | 1.83x         |
+| 22 | BLFS     | 2025-11-06 | After market close | Healthcare             | $1.3B        | $27.57  | 35.45%       | 63.73%       | 1.80x         |
+| 23 | HRB      | 2025-11-06 | After market close | Consumer Cyclical      | $6.6B        | $50.58  | 20.46%       | 36.47%       | 1.78x         |
+| 24 | PCRX     | 2025-11-06 | After market close | Healthcare             | $948.1M      | $21.85  | 32.34%       | 56.65%       | 1.75x         |
+| 25 | CE       | 2025-11-06 | After market close | Basic Materials        | $4.0B        | $36.94  | 52.02%       | 90.21%       | 1.73x         |
+| 26 | WSC      | 2025-11-06 | After market close | Industrials            | $3.6B        | $20.79  | 32.39%       | 55.30%       | 1.71x         |
+| 27 | DBX      | 2025-11-06 | After market close | Technology             | $7.7B        | $29.13  | 27.01%       | 46.00%       | 1.70x         |
+| 28 | ICUI     | 2025-11-06 | After market close | Healthcare             | $3.2B        | $127.38 | 33.35%       | 56.76%       | 1.70x         |
+| 29 | ASTH     | 2025-11-06 | After market close | Healthcare             | $1.5B        | $33.24  | 42.08%       | 71.26%       | 1.69x         |
 
 ## 📝 Data Interpretation
 
