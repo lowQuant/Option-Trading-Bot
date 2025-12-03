@@ -1,11 +1,17 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-UNFI,2025-12-02,Before market open,Consumer Defensive,2093.61216,37.31,0.3841,0.6862,1.7865139286644105
-SIG,2025-12-02,Before market open,Consumer Cyclical,3938.07744,100.16,0.3754,0.6606,1.7597229621736812
-VSTS,2025-12-01,After market close,Industrials,885.96416,6.48,0.4462,0.665,1.4903630658897358
-BNS,2025-12-02,Before market open,Financial Services,85629.894656,69.29,,,
-BWLP,2025-12-02,Before market open,Industrials,1896.323456,12.69,,,
-CANG,2025-12-01,After market close,Financial Services,514.069184,1.5,,,
-CRDO,2025-12-01,After market close,Technology,29604.737024,177.6,,,
-CTRN,2025-12-02,Before market open,Consumer Cyclical,366.041536,45.29,,,
-HERE,2025-12-02,Before market open,Consumer Cyclical,258.870784,5.04,,,
-MDB,2025-12-01,After market close,Technology,26873.38496,332.37,,,
+CXM,2025-12-03,Before market open,Technology,1840.643456,7.27,0.2223,0.5195,2.3369320737741788
+AEO,2025-12-02,After market close,Consumer Cyclical,3609.177344,21.25,0.3661,0.7887,2.1543294181917507
+OKTA,2025-12-02,After market close,Technology,14432.526336,80.64,0.2734,0.5843,2.137161667885882
+BOX,2025-12-02,After market close,Technology,4371.204608,29.36,0.2609,0.4767,1.827136834036029
+THO,2025-12-03,Before market open,Consumer Cyclical,5823.349248,107.62,0.3283,0.5137,1.56472738349071
+M,2025-12-03,Before market open,Consumer Cyclical,6097.765376,22.82,0.4311,0.6536,1.5161215495244722
+PSTG,2025-12-02,After market close,Technology,31128.457216,88.55,0.4634,0.6822,1.4721622788088047
+DLTR,2025-12-03,Before market open,Consumer Defensive,22745.757696,109.89,0.346,0.4869,1.4072254335260117
+CRWD,2025-12-02,After market close,Technology,129630.871552,504.12997,0.3483,0.4765,1.3680734998564454
+ASAN,2025-12-02,After market close,Technology,3163.346432,12.77,,,
+GTLB,2025-12-02,After market close,Technology,7233.074688,41.149998,,,
+LESL,2025-12-02,After market close,Consumer Cyclical,33.257448,2.9499998,,,
+MRVL,2025-12-02,After market close,Technology,80089.759744,91.1,,,
+RY,2025-12-03,Before market open,Financial Services,217793.626112,152.89,,,
+WDH,2025-12-03,Before market open,Financial Services,689.918656,1.85,,,
+YB,2025-12-03,Before market open,Technology,951.556096,20.61,,,
