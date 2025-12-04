@@ -1,17 +1,35 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-CXM,2025-12-03,Before market open,Technology,1840.643456,7.27,0.2223,0.5195,2.3369320737741788
-AEO,2025-12-02,After market close,Consumer Cyclical,3609.177344,21.25,0.3661,0.7887,2.1543294181917507
-OKTA,2025-12-02,After market close,Technology,14432.526336,80.64,0.2734,0.5843,2.137161667885882
-BOX,2025-12-02,After market close,Technology,4371.204608,29.36,0.2609,0.4767,1.827136834036029
-THO,2025-12-03,Before market open,Consumer Cyclical,5823.349248,107.62,0.3283,0.5137,1.56472738349071
-M,2025-12-03,Before market open,Consumer Cyclical,6097.765376,22.82,0.4311,0.6536,1.5161215495244722
-PSTG,2025-12-02,After market close,Technology,31128.457216,88.55,0.4634,0.6822,1.4721622788088047
-DLTR,2025-12-03,Before market open,Consumer Defensive,22745.757696,109.89,0.346,0.4869,1.4072254335260117
-CRWD,2025-12-02,After market close,Technology,129630.871552,504.12997,0.3483,0.4765,1.3680734998564454
-ASAN,2025-12-02,After market close,Technology,3163.346432,12.77,,,
-GTLB,2025-12-02,After market close,Technology,7233.074688,41.149998,,,
-LESL,2025-12-02,After market close,Consumer Cyclical,33.257448,2.9499998,,,
-MRVL,2025-12-02,After market close,Technology,80089.759744,91.1,,,
-RY,2025-12-03,Before market open,Financial Services,217793.626112,152.89,,,
-WDH,2025-12-03,Before market open,Financial Services,689.918656,1.85,,,
-YB,2025-12-03,Before market open,Technology,951.556096,20.61,,,
+GWRE,2025-12-03,After market close,Technology,18343.675904,214.72,0.2537,0.5449,2.1478123768230195
+FIVE,2025-12-03,After market close,Consumer Cyclical,8996.98176,158.9,0.319,0.6072,1.9034482758620688
+SAIC,2025-12-04,Before market open,Technology,4102.775808,87.56,0.2798,0.4746,1.6962115796997856
+HQY,2025-12-03,After market close,Healthcare,8529.928704,98.88,0.3126,0.4983,1.5940499040307103
+BF.B,2025-12-04,Before market open,,,,0.2796,0.4331,1.5489985693848354
+REX,2025-12-04,Before market open,Basic Materials,1107.428736,33.69,0.2767,0.4249,1.5355981207083484
+DG,2025-12-04,Before market open,Consumer Defensive,24187.451392,110.03,0.2984,0.4496,1.5067024128686328
+DCI,2025-12-04,Before market open,Industrials,10207.147008,88.16,0.1827,0.2743,1.501368363437329
+CRM,2025-12-03,After market close,Technology,228216.324096,234.71,0.3081,0.4472,1.4514767932489452
+PVH,2025-12-03,After market close,Consumer Cyclical,4212.887296,84.74,0.397,0.5604,1.411586901763224
+WLY,2025-12-04,Before market open,Communication Services,2015.843456,36.85,0.3296,0.4482,1.3598300970873787
+KR,2025-12-04,Before market open,Consumer Defensive,43869.294592,67.03,0.2419,0.3229,1.3348491112029766
+HRL,2025-12-04,Before market open,Consumer Defensive,12798.464,23.09,0.321,0.3051,0.9504672897196261
+AI,2025-12-03,After market close,Technology,2069.123968,14.37,,,
+BBW,2025-12-04,Before market open,Consumer Cyclical,758.173248,52.42,,,
+BETA,2025-12-04,Before market open,Industrials,6985.217024,28.37,,,
+BF.A,2025-12-04,Before market open,,,,,,
+BMO,2025-12-04,Before market open,Financial Services,91670.97856,125.74,,,
+CM,2025-12-04,Before market open,Financial Services,80723.648512,86.59,,,
+CRMT,2025-12-04,Before market open,Consumer Cyclical,193.461408,21.92,,,
+CURV,2025-12-03,After market close,Consumer Cyclical,129.907392,1.32,,,
+DOOO,2025-12-04,Before market open,Consumer Cyclical,5176.740864,69.41,,,
+DSGX,2025-12-03,After market close,Technology,7129.21088,82.51,,,
+DXLG,2025-12-04,Before market open,Consumer Cyclical,57.654976,0.96,,,
+GCO,2025-12-04,Before market open,Consumer Cyclical,380.53872,35.4,,,
+HOV,2025-12-04,Before market open,Consumer Cyclical,789.428096,129.48,,,
+NCNO,2025-12-03,After market close,Technology,2964.626176,24.46,,,
+NOTV,2025-12-03,After market close,Healthcare,32.304244,0.8696,,,
+PATH,2025-12-03,After market close,Technology,7950.676992,14.3,,,
+SNOW,2025-12-03,After market close,Technology,89782.001664,259.68,,,
+TD,2025-12-04,Before market open,Financial Services,145541.152768,84.55,,,
+TIGR,2025-12-04,Before market open,Financial Services,1538.8992,8.8,,,
+TLYS,2025-12-03,After market close,Consumer Cyclical,54.852604,1.47,,,
+WLYB,2025-12-04,Before market open,Communication Services,1954.128512,36.31,,,
