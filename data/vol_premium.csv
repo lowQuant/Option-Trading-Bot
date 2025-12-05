@@ -1,35 +1,21 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-GWRE,2025-12-03,After market close,Technology,18343.675904,214.72,0.2537,0.5449,2.1478123768230195
-FIVE,2025-12-03,After market close,Consumer Cyclical,8996.98176,158.9,0.319,0.6072,1.9034482758620688
-SAIC,2025-12-04,Before market open,Technology,4102.775808,87.56,0.2798,0.4746,1.6962115796997856
-HQY,2025-12-03,After market close,Healthcare,8529.928704,98.88,0.3126,0.4983,1.5940499040307103
-BF.B,2025-12-04,Before market open,,,,0.2796,0.4331,1.5489985693848354
-REX,2025-12-04,Before market open,Basic Materials,1107.428736,33.69,0.2767,0.4249,1.5355981207083484
-DG,2025-12-04,Before market open,Consumer Defensive,24187.451392,110.03,0.2984,0.4496,1.5067024128686328
-DCI,2025-12-04,Before market open,Industrials,10207.147008,88.16,0.1827,0.2743,1.501368363437329
-CRM,2025-12-03,After market close,Technology,228216.324096,234.71,0.3081,0.4472,1.4514767932489452
-PVH,2025-12-03,After market close,Consumer Cyclical,4212.887296,84.74,0.397,0.5604,1.411586901763224
-WLY,2025-12-04,Before market open,Communication Services,2015.843456,36.85,0.3296,0.4482,1.3598300970873787
-KR,2025-12-04,Before market open,Consumer Defensive,43869.294592,67.03,0.2419,0.3229,1.3348491112029766
-HRL,2025-12-04,Before market open,Consumer Defensive,12798.464,23.09,0.321,0.3051,0.9504672897196261
-AI,2025-12-03,After market close,Technology,2069.123968,14.37,,,
-BBW,2025-12-04,Before market open,Consumer Cyclical,758.173248,52.42,,,
-BETA,2025-12-04,Before market open,Industrials,6985.217024,28.37,,,
-BF.A,2025-12-04,Before market open,,,,,,
-BMO,2025-12-04,Before market open,Financial Services,91670.97856,125.74,,,
-CM,2025-12-04,Before market open,Financial Services,80723.648512,86.59,,,
-CRMT,2025-12-04,Before market open,Consumer Cyclical,193.461408,21.92,,,
-CURV,2025-12-03,After market close,Consumer Cyclical,129.907392,1.32,,,
-DOOO,2025-12-04,Before market open,Consumer Cyclical,5176.740864,69.41,,,
-DSGX,2025-12-03,After market close,Technology,7129.21088,82.51,,,
-DXLG,2025-12-04,Before market open,Consumer Cyclical,57.654976,0.96,,,
-GCO,2025-12-04,Before market open,Consumer Cyclical,380.53872,35.4,,,
-HOV,2025-12-04,Before market open,Consumer Cyclical,789.428096,129.48,,,
-NCNO,2025-12-03,After market close,Technology,2964.626176,24.46,,,
-NOTV,2025-12-03,After market close,Healthcare,32.304244,0.8696,,,
-PATH,2025-12-03,After market close,Technology,7950.676992,14.3,,,
-SNOW,2025-12-03,After market close,Technology,89782.001664,259.68,,,
-TD,2025-12-04,Before market open,Financial Services,145541.152768,84.55,,,
-TIGR,2025-12-04,Before market open,Financial Services,1538.8992,8.8,,,
-TLYS,2025-12-03,After market close,Consumer Cyclical,54.852604,1.47,,,
-WLYB,2025-12-04,Before market open,Communication Services,1954.128512,36.31,,,
+DOCU,2025-12-04,After market close,Technology,14366.662656,70.62,0.3137,0.57,1.8170226330889385
+COO,2025-12-04,After market close,Healthcare,15368.449024,75.98,0.2606,0.4549,1.7455871066768995
+ULTA,2025-12-04,After market close,Consumer Cyclical,23998.707712,544.52,0.2608,0.4385,1.6813650306748469
+HPE,2025-12-04,After market close,Technology,30215.407616,22.26,0.3584,0.5188,1.447544642857143
+VSCO,2025-12-05,Before market open,Consumer Cyclical,3332.43776,42.51,0.5745,0.8009,1.3940818102697996
+AGX,2025-12-04,After market close,Industrials,4922.307584,351.09,,,
+CHPT,2025-12-04,After market close,Consumer Cyclical,198.992672,8.35,,,
+DOMO,2025-12-04,After market close,Technology,477.045248,11.71,,,
+IDT,2025-12-04,After market close,Communication Services,1268.86784,50.05,,,
+IOT,2025-12-04,After market close,Technology,23352.664064,39.01,,,
+KNOP,2025-12-05,Before market open,Energy,352.871424,10.03,,,
+MNY,2025-12-05,Before market open,Communication Services,69.207288,1.447,,,
+RBRK,2025-12-04,After market close,Technology,13907.01568,71.41,,,
+S,2025-12-04,After market close,Technology,5687.681024,16.96,,,
+SFIX,2025-12-04,After market close,Consumer Cyclical,629.27616,4.56,,,
+SPWH,2025-12-04,After market close,Consumer Cyclical,94.156144,2.41,,,
+SWBI,2025-12-04,After market close,Industrials,395.085248,8.88,,,
+TOUR,2025-12-05,Before market open,Consumer Cyclical,90.249192,0.721,,,
+TTAN,2025-12-04,After market close,Technology,8884.969472,93.31,,,
+ZUMZ,2025-12-04,After market close,Consumer Cyclical,467.605184,27.75,,,
