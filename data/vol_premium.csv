@@ -1,25 +1,21 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-GIII,2025-12-09,Before market open,Consumer Cyclical,1284.883456,30.38,0.3047,0.6848,2.247456514604529
-CNM,2025-12-09,Before market open,Industrials,10011.116544,50.23,0.302,0.4938,1.6350993377483445
-CPB,2025-12-09,Before market open,Consumer Defensive,8951.69536,29.6,0.2394,0.3509,1.4657477025898078
-AZO,2025-12-09,Before market open,Consumer Cyclical,62776.389632,3822.66,0.2074,0.2971,1.4324975891996141
-OLLI,2025-12-09,Before market open,Consumer Defensive,7287.325696,121.33,0.318,0.446,1.4025157232704402
-ASO,2025-12-09,Before market open,Consumer Cyclical,3254.65216,50.23,0.4053,0.5634,1.390081421169504
-TOL,2025-12-08,After market close,Consumer Cyclical,13372.25216,138.94,0.2949,0.3968,1.3455408613089181
-KFY,2025-12-09,Before market open,Industrials,3403.842304,66.07,0.2645,0.3392,1.2824196597353497
-ARQQ,2025-12-09,Before market open,Technology,453.106912,30.43,,,
-CAL,2025-12-09,Before market open,Consumer Cyclical,456.540544,13.33,,,
-CGNT,2025-12-09,Before market open,Technology,654.532928,8.65,,,
-CMP,2025-12-08,After market close,Basic Materials,860.036928,20.28,,,
-DBI,2025-12-09,Before market open,Consumer Cyclical,240.285872,4.88,,,
-ELWT,2025-12-08,After market close,Communication Services,38.868608,6.65,,,
-FERG,2025-12-09,Before market open,Industrials,49352.024064,248.38,,,
-LE,2025-12-09,Before market open,Consumer Cyclical,487.047616,16.51,,,
-MAMA,2025-12-08,After market close,Consumer Defensive,454.504256,11.47,,,
-ODC,2025-12-08,After market close,Basic Materials,773.738048,53.59,,,
-OOMA,2025-12-08,After market close,Technology,343.131008,11.74,,,
-PHR,2025-12-08,After market close,Healthcare,1205.479168,20.29,,,
-SAIL,2025-12-09,Before market open,Technology,11277.430784,20.24,,,
-SGU,2025-12-08,After market close,Energy,416.520032,11.79,,,
-THCH,2025-12-09,Before market open,Consumer Cyclical,84.827912,2.68,,,
-VNCE,2025-12-09,Before market open,Consumer Cyclical,41.499356,2.977,,,
+GME,2025-12-09,After market close,Consumer Cyclical,10351.17056,23.35,0.2671,0.6158,2.3055035567203297
+PLAB,2025-12-10,Before market open,Technology,1545.266688,25.25,0.4534,0.7698,1.697838553153948
+CHWY,2025-12-10,Before market open,Consumer Cyclical,14452.327424,34.62,0.3307,0.5589,1.690051406108255
+CASY,2025-12-09,After market close,Consumer Cyclical,20941.975552,566.52,0.2412,0.3753,1.5559701492537314
+AVAV,2025-12-09,After market close,Industrials,14051.929088,282.47,0.4924,0.7485,1.5201056051990254
+CBRL,2025-12-09,After market close,Consumer Cyclical,601.25472,26.62,0.5392,0.7197,1.3347551928783383
+PLAY,2025-12-09,After market close,Communication Services,622.958144,17.77,0.7871,1.0014,1.2722652776013215
+ALOT,2025-12-10,Before market open,Technology,54.843876,7.01,,,
+AOUT,2025-12-09,After market close,Consumer Cyclical,98.23624,7.2,,,
+BLLN,2025-12-09,After market close,Healthcare,4972.995584,104.66,,,
+BRZE,2025-12-09,After market close,Technology,3410.340608,30.03,,,
+DAKT,2025-12-10,Before market open,Technology,882.700736,17.91,,,
+GNSS,2025-12-09,After market close,Technology,107.919272,2.36,,,
+JILL,2025-12-10,Before market open,Consumer Cyclical,252.017392,16.28,,,
+LAKE,2025-12-09,After market close,Consumer Cyclical,143.654976,15.01,,,
+MIND,2025-12-09,After market close,Technology,84.794656,10.57,,,
+MOMO,2025-12-10,Before market open,Communication Services,1121.472896,7.06,,,
+UEC,2025-12-10,Before market open,Energy,6745.600512,13.65,,,
+VBNK,2025-12-10,Before market open,Financial Services,412.812832,12.39,,,
+YQ,2025-12-09,After market close,Consumer Defensive,39.832696,4.7912,,,
