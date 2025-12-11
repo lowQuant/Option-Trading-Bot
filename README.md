@@ -10,32 +10,29 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-12-09 20:58:23 EST
+## 🕒 Last Updated: 2025-12-10 21:00:04 EST
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | GME      | 2025-12-09 | After market close | Consumer Cyclical      | $10.4B       | $23.35  | 26.71%       | 61.58%       | 2.31x         |
-|  1 | PLAB     | 2025-12-10 | Before market open | Technology             | $1.5B        | $25.25  | 45.34%       | 76.98%       | 1.70x         |
-|  2 | CHWY     | 2025-12-10 | Before market open | Consumer Cyclical      | $14.5B       | $34.62  | 33.07%       | 55.89%       | 1.69x         |
-|  3 | CASY     | 2025-12-09 | After market close | Consumer Cyclical      | $20.9B       | $566.52 | 24.12%       | 37.53%       | 1.56x         |
-|  4 | AVAV     | 2025-12-09 | After market close | Industrials            | $14.1B       | $282.47 | 49.24%       | 74.85%       | 1.52x         |
-|  5 | CBRL     | 2025-12-09 | After market close | Consumer Cyclical      | $601.3M      | $26.62  | 53.92%       | 71.97%       | 1.33x         |
-|  6 | PLAY     | 2025-12-09 | After market close | Communication Services | $623.0M      | $17.77  | 78.71%       | 100.14%      | 1.27x         |
-|  7 | ALOT     | 2025-12-10 | Before market open | Technology             | $54.8M       | $7.01   | nan%         | nan%         | nanx          |
-|  8 | AOUT     | 2025-12-09 | After market close | Consumer Cyclical      | $98.2M       | $7.20   | nan%         | nan%         | nanx          |
-|  9 | BLLN     | 2025-12-09 | After market close | Healthcare             | $5.0B        | $104.66 | nan%         | nan%         | nanx          |
-| 10 | BRZE     | 2025-12-09 | After market close | Technology             | $3.4B        | $30.03  | nan%         | nan%         | nanx          |
-| 11 | DAKT     | 2025-12-10 | Before market open | Technology             | $882.7M      | $17.91  | nan%         | nan%         | nanx          |
-| 12 | GNSS     | 2025-12-09 | After market close | Technology             | $107.9M      | $2.36   | nan%         | nan%         | nanx          |
-| 13 | JILL     | 2025-12-10 | Before market open | Consumer Cyclical      | $252.0M      | $16.28  | nan%         | nan%         | nanx          |
-| 14 | LAKE     | 2025-12-09 | After market close | Consumer Cyclical      | $143.7M      | $15.01  | nan%         | nan%         | nanx          |
-| 15 | MIND     | 2025-12-09 | After market close | Technology             | $84.8M       | $10.57  | nan%         | nan%         | nanx          |
-| 16 | MOMO     | 2025-12-10 | Before market open | Communication Services | $1.1B        | $7.06   | nan%         | nan%         | nanx          |
-| 17 | UEC      | 2025-12-10 | Before market open | Energy                 | $6.7B        | $13.65  | nan%         | nan%         | nanx          |
-| 18 | VBNK     | 2025-12-10 | Before market open | Financial Services     | $412.8M      | $12.39  | nan%         | nan%         | nanx          |
-| 19 | YQ       | 2025-12-09 | After market close | Consumer Defensive     | $39.8M       | $4.79   | nan%         | nan%         | nanx          |
+|    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | NDSN     | 2025-12-10 | After market close | Industrials        | $13.4B       | $233.44 | 16.31%       | 31.38%       | 1.92x         |
+|  1 | OXM      | 2025-12-10 | After market close | Consumer Cyclical  | $604.1M      | $39.78  | 52.71%       | 86.11%       | 1.63x         |
+|  2 | CIEN     | 2025-12-11 | Before market open | Technology         | $31.4B       | $214.35 | 55.89%       | 81.40%       | 1.46x         |
+|  3 | ADBE     | 2025-12-10 | After market close | Technology         | $145.6B      | $344.32 | 31.87%       | 43.86%       | 1.38x         |
+|  4 | SNPS     | 2025-12-10 | After market close | Technology         | $90.7B       | $465.85 | 37.48%       | 51.00%       | 1.36x         |
+|  5 | ORCL     | 2025-12-10 | After market close | Technology         | $635.8B      | $221.53 | 46.02%       | 62.06%       | 1.35x         |
+|  6 | MTN      | 2025-12-10 | After market close | Consumer Cyclical  | $5.1B        | $145.46 | 33.64%       | 41.97%       | 1.25x         |
+|  7 | ASYS     | 2025-12-10 | After market close | Technology         | $133.7M      | $8.81   | nan%         | nan%         | nanx          |
+|  8 | DLHC     | 2025-12-10 | After market close | Industrials        | $84.4M       | $5.95   | nan%         | nan%         | nanx          |
+|  9 | DXLG     | 2025-12-11 | Before market open | Consumer Cyclical  | $58.2M       | $1.10   | nan%         | nan%         | nanx          |
+| 10 | ELVA     | 2025-12-10 | After market close | Industrials        | $244.9M      | $5.38   | nan%         | nan%         | nanx          |
+| 11 | KEQU     | 2025-12-10 | After market close | Consumer Cyclical  | $117.9M      | $38.78  | nan%         | nan%         | nanx          |
+| 12 | LOVE     | 2025-12-11 | Before market open | Consumer Cyclical  | $200.7M      | $13.95  | nan%         | nan%         | nanx          |
+| 13 | PL       | 2025-12-10 | After market close | Industrials        | $4.0B        | $12.84  | nan%         | nan%         | nanx          |
+| 14 | SKIL     | 2025-12-10 | After market close | Consumer Defensive | $67.2M       | $7.54   | nan%         | nan%         | nanx          |
+| 15 | VRA      | 2025-12-11 | Before market open | Consumer Cyclical  | $60.1M       | $2.20   | nan%         | nan%         | nanx          |
+| 16 | XZO      | 2025-12-10 | After market close | Financial Services | $1.6B        | $17.45  | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
