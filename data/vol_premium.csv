@@ -1,10 +1,10 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-NX,2025-12-11,After market close,Industrials,691.82272,14.5,0.4606,1.2348,2.680851063829787
-LULU,2025-12-11,After market close,Consumer Cyclical,22413.242368,187.62,0.3867,0.6459,1.670287044220326
-COST,2025-12-11,After market close,Consumer Defensive,392671.690752,874.41,0.1762,0.2575,1.4614074914869468
-AVGO,2025-12-11,After market close,Technology,1919027.380224,412.97,0.4727,0.4953,1.0478104506029193
-JOUT,2025-12-12,Before market open,Consumer Cyclical,446.347616,42.76,,,
-KMTS,2025-12-11,After market close,Healthcare,1453.474944,24.52,,,
-MITK,2025-12-11,After market close,Technology,421.77872,9.23,,,
-NTSK,2025-12-11,After market close,Technology,8978.719744,22.5,,,
-RENT,2025-12-12,Before market open,Consumer Cyclical,188.867392,6.33,,,
+WOR,2025-12-16,After market close,Industrials,2802.877696,57.74,0.2321,0.4096,1.7647565704437742
+TTC,2025-12-17,Before market open,Industrials,7169.485312,73.48,0.2379,0.4001,1.6817990752416982
+GIS,2025-12-17,Before market open,Consumer Defensive,25140.928512,47.06,0.1729,0.2815,1.628108733371891
+ABM,2025-12-17,Before market open,Industrials,2847.682048,47.18,0.2521,0.3888,1.542245140817136
+JBL,2025-12-17,Before market open,Technology,22709.344256,221.21,0.4032,0.4832,1.1984126984126984
+LEN,2025-12-16,After market close,Consumer Cyclical,29036.374016,119.73,0.4097,0.3838,0.9367830119599706
+LEN.B,2025-12-16,After market close,,,,,,
+SPIR,2025-12-17,Before market open,Industrials,303.356928,9.08,,,
+VERU,2025-12-17,Before market open,Healthcare,39.162956,2.39,,,

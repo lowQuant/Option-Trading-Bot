@@ -10,21 +10,21 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-12-11 20:59:05 EST
+## 🕒 Last Updated: 2025-12-16 20:55:22 EST
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | NX       | 2025-12-11 | After market close | Industrials        | $691.8M      | $14.50  | 46.06%       | 123.48%      | 2.68x         |
-|  1 | LULU     | 2025-12-11 | After market close | Consumer Cyclical  | $22.4B       | $187.62 | 38.67%       | 64.59%       | 1.67x         |
-|  2 | COST     | 2025-12-11 | After market close | Consumer Defensive | $392.7B      | $874.41 | 17.62%       | 25.75%       | 1.46x         |
-|  3 | AVGO     | 2025-12-11 | After market close | Technology         | $1.9tr       | $412.97 | 47.27%       | 49.53%       | 1.05x         |
-|  4 | JOUT     | 2025-12-12 | Before market open | Consumer Cyclical  | $446.3M      | $42.76  | nan%         | nan%         | nanx          |
-|  5 | KMTS     | 2025-12-11 | After market close | Healthcare         | $1.5B        | $24.52  | nan%         | nan%         | nanx          |
-|  6 | MITK     | 2025-12-11 | After market close | Technology         | $421.8M      | $9.23   | nan%         | nan%         | nanx          |
-|  7 | NTSK     | 2025-12-11 | After market close | Technology         | $9.0B        | $22.50  | nan%         | nan%         | nanx          |
-|  8 | RENT     | 2025-12-12 | Before market open | Consumer Cyclical  | $188.9M      | $6.33   | nan%         | nan%         | nanx          |
+|  0 | WOR      | 2025-12-16 | After market close | Industrials        | $2.8B        | $57.74  | 23.21%       | 40.96%       | 1.76x         |
+|  1 | TTC      | 2025-12-17 | Before market open | Industrials        | $7.2B        | $73.48  | 23.79%       | 40.01%       | 1.68x         |
+|  2 | GIS      | 2025-12-17 | Before market open | Consumer Defensive | $25.1B       | $47.06  | 17.29%       | 28.15%       | 1.63x         |
+|  3 | ABM      | 2025-12-17 | Before market open | Industrials        | $2.8B        | $47.18  | 25.21%       | 38.88%       | 1.54x         |
+|  4 | JBL      | 2025-12-17 | Before market open | Technology         | $22.7B       | $221.21 | 40.32%       | 48.32%       | 1.20x         |
+|  5 | LEN      | 2025-12-16 | After market close | Consumer Cyclical  | $29.0B       | $119.73 | 40.97%       | 38.38%       | 0.94x         |
+|  6 | LEN.B    | 2025-12-16 | After market close | nan                | N/A          | $nan    | nan%         | nan%         | nanx          |
+|  7 | SPIR     | 2025-12-17 | Before market open | Industrials        | $303.4M      | $9.08   | nan%         | nan%         | nanx          |
+|  8 | VERU     | 2025-12-17 | Before market open | Healthcare         | $39.2M       | $2.39   | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
