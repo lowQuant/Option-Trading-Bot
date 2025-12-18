@@ -10,21 +10,25 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-12-16 20:55:22 EST
+## 🕒 Last Updated: 2025-12-17 20:56:08 EST
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
 |    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
 |---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | WOR      | 2025-12-16 | After market close | Industrials        | $2.8B        | $57.74  | 23.21%       | 40.96%       | 1.76x         |
-|  1 | TTC      | 2025-12-17 | Before market open | Industrials        | $7.2B        | $73.48  | 23.79%       | 40.01%       | 1.68x         |
-|  2 | GIS      | 2025-12-17 | Before market open | Consumer Defensive | $25.1B       | $47.06  | 17.29%       | 28.15%       | 1.63x         |
-|  3 | ABM      | 2025-12-17 | Before market open | Industrials        | $2.8B        | $47.18  | 25.21%       | 38.88%       | 1.54x         |
-|  4 | JBL      | 2025-12-17 | Before market open | Technology         | $22.7B       | $221.21 | 40.32%       | 48.32%       | 1.20x         |
-|  5 | LEN      | 2025-12-16 | After market close | Consumer Cyclical  | $29.0B       | $119.73 | 40.97%       | 38.38%       | 0.94x         |
-|  6 | LEN.B    | 2025-12-16 | After market close | nan                | N/A          | $nan    | nan%         | nan%         | nanx          |
-|  7 | SPIR     | 2025-12-17 | Before market open | Industrials        | $303.4M      | $9.08   | nan%         | nan%         | nanx          |
-|  8 | VERU     | 2025-12-17 | Before market open | Healthcare         | $39.2M       | $2.39   | nan%         | nan%         | nanx          |
+|  0 | CTAS     | 2025-12-18 | Before market open | Industrials        | $75.5B       | $187.62 | 15.44%       | 30.08%       | 1.95x         |
+|  1 | FDS      | 2025-12-18 | Before market open | Financial Services | $11.2B       | $293.00 | 25.43%       | 45.72%       | 1.80x         |
+|  2 | EPAC     | 2025-12-17 | After market close | Industrials        | $2.1B        | $39.40  | 24.99%       | 43.33%       | 1.73x         |
+|  3 | MLKN     | 2025-12-17 | After market close | Consumer Cyclical  | $1.2B        | $16.69  | 38.67%       | 58.27%       | 1.51x         |
+|  4 | ACN      | 2025-12-18 | Before market open | Technology         | $180.8B      | $272.04 | 29.45%       | 38.53%       | 1.31x         |
+|  5 | DRI      | 2025-12-18 | Before market open | Consumer Cyclical  | $22.1B       | $185.53 | 25.07%       | 31.18%       | 1.24x         |
+|  6 | MU       | 2025-12-17 | After market close | Technology         | $253.8B      | $232.51 | 72.87%       | 66.79%       | 0.92x         |
+|  7 | KMX      | 2025-12-18 | Before market open | Consumer Cyclical  | $6.2B        | $40.63  | 92.70%       | 61.32%       | 0.66x         |
+|  8 | BIRK     | 2025-12-18 | Before market open | Consumer Cyclical  | $8.5B        | $47.27  | nan%         | nan%         | nanx          |
+|  9 | FCEL     | 2025-12-18 | Before market open | Industrials        | $376.6M      | $8.47   | nan%         | nan%         | nanx          |
+| 10 | ISSC     | 2025-12-18 | Before market open | Industrials        | $193.8M      | $11.90  | nan%         | nan%         | nanx          |
+| 11 | OPXS     | 2025-12-17 | After market close | Industrials        | $88.1M       | $14.31  | nan%         | nan%         | nanx          |
+| 12 | WS       | 2025-12-17 | After market close | Basic Materials    | $1.8B        | $35.46  | 33.33%       | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 
