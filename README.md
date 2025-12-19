@@ -10,25 +10,26 @@ Both strategies can be explained by behavioral finance and are likely anomalies 
 - 📈 **Long Straddles**: Prior to earnings when IV is low
 - 📦 **Box Spreads**: Between earnings seasons
 
-## 🕒 Last Updated: 2025-12-17 20:56:08 EST
+## 🕒 Last Updated: 2025-12-18 20:59:04 EST
 
 ### Top 30 Upcoming Earnings by Volatility Premium
 
-|    | symbol   | date       | when               | sector             | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
-|---:|:---------|:-----------|:-------------------|:-------------------|:-------------|:--------|:-------------|:-------------|:--------------|
-|  0 | CTAS     | 2025-12-18 | Before market open | Industrials        | $75.5B       | $187.62 | 15.44%       | 30.08%       | 1.95x         |
-|  1 | FDS      | 2025-12-18 | Before market open | Financial Services | $11.2B       | $293.00 | 25.43%       | 45.72%       | 1.80x         |
-|  2 | EPAC     | 2025-12-17 | After market close | Industrials        | $2.1B        | $39.40  | 24.99%       | 43.33%       | 1.73x         |
-|  3 | MLKN     | 2025-12-17 | After market close | Consumer Cyclical  | $1.2B        | $16.69  | 38.67%       | 58.27%       | 1.51x         |
-|  4 | ACN      | 2025-12-18 | Before market open | Technology         | $180.8B      | $272.04 | 29.45%       | 38.53%       | 1.31x         |
-|  5 | DRI      | 2025-12-18 | Before market open | Consumer Cyclical  | $22.1B       | $185.53 | 25.07%       | 31.18%       | 1.24x         |
-|  6 | MU       | 2025-12-17 | After market close | Technology         | $253.8B      | $232.51 | 72.87%       | 66.79%       | 0.92x         |
-|  7 | KMX      | 2025-12-18 | Before market open | Consumer Cyclical  | $6.2B        | $40.63  | 92.70%       | 61.32%       | 0.66x         |
-|  8 | BIRK     | 2025-12-18 | Before market open | Consumer Cyclical  | $8.5B        | $47.27  | nan%         | nan%         | nanx          |
-|  9 | FCEL     | 2025-12-18 | Before market open | Industrials        | $376.6M      | $8.47   | nan%         | nan%         | nanx          |
-| 10 | ISSC     | 2025-12-18 | Before market open | Industrials        | $193.8M      | $11.90  | nan%         | nan%         | nanx          |
-| 11 | OPXS     | 2025-12-17 | After market close | Industrials        | $88.1M       | $14.31  | nan%         | nan%         | nanx          |
-| 12 | WS       | 2025-12-17 | After market close | Basic Materials    | $1.8B        | $35.46  | 33.33%       | nan%         | nanx          |
+|    | symbol   | date       | when               | sector                 | market_cap   | close   | hv_current   | iv_current   | vol_premium   |
+|---:|:---------|:-----------|:-------------------|:-----------------------|:-------------|:--------|:-------------|:-------------|:--------------|
+|  0 | SCHL     | 2025-12-18 | After market close | Communication Services | $723.2M      | $28.65  | 29.08%       | 60.06%       | 2.07x         |
+|  1 | PAYX     | 2025-12-19 | Before market open | Technology             | $41.1B       | $116.70 | 19.52%       | 33.09%       | 1.70x         |
+|  2 | CAG      | 2025-12-19 | Before market open | Consumer Defensive     | $8.5B        | $17.92  | 20.62%       | 34.23%       | 1.66x         |
+|  3 | LW       | 2025-12-19 | Before market open | Consumer Defensive     | $8.3B        | $59.46  | 26.89%       | 43.16%       | 1.61x         |
+|  4 | NKE      | 2025-12-18 | After market close | Consumer Cyclical      | $97.0B       | $65.69  | 30.18%       | 45.00%       | 1.49x         |
+|  5 | FDX      | 2025-12-18 | After market close | Industrials            | $67.7B       | $282.21 | 24.97%       | 36.87%       | 1.48x         |
+|  6 | WGO      | 2025-12-19 | Before market open | Consumer Cyclical      | $1.1B        | $41.40  | 43.80%       | 62.87%       | 1.44x         |
+|  7 | KBH      | 2025-12-18 | After market close | Consumer Cyclical      | $4.1B        | $62.94  | 32.01%       | 37.58%       | 1.17x         |
+|  8 | CCL      | 2025-12-19 | Before market open | Consumer Cyclical      | $38.4B       | $28.03  | 41.82%       | 46.52%       | 1.11x         |
+|  9 | AVO      | 2025-12-18 | After market close | Consumer Defensive     | $927.2M      | $13.14  | nan%         | nan%         | nanx          |
+| 10 | BB       | 2025-12-18 | After market close | Technology             | $2.6B        | $4.26   | nan%         | nan%         | nanx          |
+| 11 | CUK      | 2025-12-19 | Before market open | Consumer Cyclical      | $34.6B       | $26.05  | nan%         | nan%         | nanx          |
+| 12 | HEI      | 2025-12-18 | After market close | Industrials            | $43.0B       | $306.89 | nan%         | nan%         | nanx          |
+| 13 | HEI.A    | 2025-12-18 | After market close | nan                    | N/A          | $nan    | nan%         | nan%         | nanx          |
 
 ## 📝 Data Interpretation
 

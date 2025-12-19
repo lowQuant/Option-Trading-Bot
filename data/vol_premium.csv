@@ -1,14 +1,15 @@
 symbol,date,when,sector,market_cap,close,hv_current,iv_current,vol_premium
-CTAS,2025-12-18,Before market open,Industrials,75500.838912,187.62,0.1544,0.3008,1.9481865284974094
-FDS,2025-12-18,Before market open,Financial Services,11195.720704,293.0,0.2543,0.4572,1.797876523790798
-EPAC,2025-12-17,After market close,Industrials,2117.579392,39.4,0.2499,0.4333,1.7338935574229692
-MLKN,2025-12-17,After market close,Consumer Cyclical,1201.064064,16.69,0.3867,0.5827,1.5068528575122835
-ACN,2025-12-18,Before market open,Technology,180764.99968,272.04,0.2945,0.3853,1.3083191850594227
-DRI,2025-12-18,Before market open,Consumer Cyclical,22098.231296,185.53,0.2507,0.3118,1.2437175907459117
-MU,2025-12-17,After market close,Technology,253788.880896,232.51,0.7287,0.6679,0.9165637436530809
-KMX,2025-12-18,Before market open,Consumer Cyclical,6163.46368,40.63,0.927,0.6132,0.6614886731391585
-BIRK,2025-12-18,Before market open,Consumer Cyclical,8533.240832,47.27,,,
-FCEL,2025-12-18,Before market open,Industrials,376.640768,8.47,,,
-ISSC,2025-12-18,Before market open,Industrials,193.826496,11.9,,,
-OPXS,2025-12-17,After market close,Industrials,88.148696,14.31,,,
-WS,2025-12-17,After market close,Basic Materials,1827.78816,35.46,0.3333,,
+SCHL,2025-12-18,After market close,Communication Services,723.242048,28.65,0.2908,0.6006,2.0653370013755157
+PAYX,2025-12-19,Before market open,Technology,41114.304512,116.7,0.1952,0.3309,1.6951844262295082
+CAG,2025-12-19,Before market open,Consumer Defensive,8514.658816,17.92,0.2062,0.3423,1.6600387972841901
+LW,2025-12-19,Before market open,Consumer Defensive,8267.915776,59.46,0.2689,0.4316,1.6050576422461882
+NKE,2025-12-18,After market close,Consumer Cyclical,97014.349824,65.69,0.3018,0.45,1.4910536779324055
+FDX,2025-12-18,After market close,Industrials,67747.528704,282.21,0.2497,0.3687,1.4765718862635162
+WGO,2025-12-19,Before market open,Consumer Cyclical,1137.597184,41.4,0.438,0.6287,1.4353881278538814
+KBH,2025-12-18,After market close,Consumer Cyclical,4063.983872,62.94,0.3201,0.3758,1.1740081224617307
+CCL,2025-12-19,Before market open,Consumer Cyclical,38425.698304,28.03,0.4182,0.4652,1.1123864179818268
+AVO,2025-12-18,After market close,Consumer Defensive,927.228608,13.14,,,
+BB,2025-12-18,After market close,Technology,2584.853504,4.26,,,
+CUK,2025-12-19,Before market open,Consumer Cyclical,34562.072576,26.05,,,
+HEI,2025-12-18,After market close,Industrials,42977.21856,306.89,,,
+HEI.A,2025-12-18,After market close,,,,,,
